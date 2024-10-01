@@ -1,0 +1,159 @@
+::decision_cite:: 384 U.S. 24
+::decision_name::  Louisiana v. Mississippi
+::decision_year:: 1966
+::opinion_author:: 
+::opinion_type:: 
+::opinion:: 
+
+U.S. Supreme Court
+Louisiana v. Mississippi, 384 U.S.
+24 (1966)
+Louisiana v.
+Mississippi
+No. 14 Original
+Argued November 16,
+1965
+Decided April 18,
+1966
+384 U.S.
+24
+ON BILL OF
+COMPLAINT
+PER CURIAM AND DECREE.
+Upon consideration of the Report filed
+June 7, 1965, by Senior Judge Marvin Jones, Special Master, and the
+exceptions thereto, it is now adjudged, ordered, and decreed as
+follows:
+(1) All exceptions are overruled and
+the Report is in all things confirmed.
+(2) The true boundary between the
+States of Louisiana and Mississippi in the area of the Mississippi
+River known as Deadman's Bend on the several dates mentioned is
+determined to be as follows:
+At all times, the live thalweg has been
+the true boundary.
+Page
+384 U. S. 25
+On October 3, 1952, the live thalweg
+was a gradually curving line running southward from the foot of
+Glasscock Cutoff, and east of the future location of Louisiana
+State Well No. 1 by 230 feet, to the end of Deadman's Bend at range
+334.5 AHP. This line is described below by latitude and longitude
+and is drawn on Special Master Exhibit No. 1.
+On April 10, 1964, the live thalweg was
+a gradually curving line running southward from the foot of
+Glasscock Cutoff, and west of Louisiana State Well No. 1 by 850
+feet, to the end of Deadman's Bend at range 334.5 AHP. This line is
+described below by latitude and longitude and is drawn on Special
+Master Exhibit No. 1.
+At all times between October 3, 1952,
+and April 10, 1964, the live thalweg has moved at a constant rate.
+The boundary location for any intervening period at any point in
+Deadman's Bend (from the foot of Glasscock Cutoff to range 334.5
+AHP) is to be determined mathematically by calculating the constant
+rate of change for that particular place in Deadman's Bend, using
+the 1952 and 1964 thalwegs described heretofore and the appropriate
+time differentials.
+At the latitude of Louisiana State Well
+No. 1 the location of the boundary was as follows from October 3,
+1952, to April 10, 1964:
+October 3, 1952 230 feet east of
+well
+April 27, 1954 80 feet east of
+well
+February 27, 1955 Directly above the
+well
+April 10, 1956 102 feet west of
+well
+April 10, 1957 195 feet west of
+well
+April 10, 1958 289 feet west of
+well
+April 10, 1959 382 feet west of
+well
+April 10, 1960 476 feet west of
+well
+April 10, 1961 569 feet west of
+well
+April 10, 1962 663 feet west of
+well
+April 10, 1963 756 feet west of
+well
+April 10, 1964 850 feet west of
+well
+Page
+384 U. S. 26
+The Louisiana State Well No. 1 became
+located inside the boundary of Mississippi on February 28,
+1955.
+The description of the October 3, 1952,
+live thalweg by geodetic positions (North American Datum) is as
+follows:
+"Beginning at the foot of Glasscock
+Cutoff at a point on range 338.3 AHP, which is Lat.
+31�19'07.0'-Long. 91�30'33.5'."
+"Thence running southward through the
+following points:"
+Latitude Longitude
+31�18'57.5" 91�30'37.0"
+31�18'47.5" 91�30'39.0"
+31�18'37.0" 91�30'40.0"
+31�18'27.0" 91�30'39.5"
+31�18'17.0" 91�30'39.0"
+31�18'07.0" 91�30'38.0"
+31�17'57.5" 91�30'38.0"
+31�17'47.0" 91�30'38.0"
+31�17'37.0" 91�30'37.0"
+31�17'27.0" 91�30'36.5"
+31�17'17.0" 91�30'36.0"
+31�17'07.0" 91�30'35.0"
+31�16'57.5" 91�30'33.5"
+31�16'47.0" 91�30'32.5"
+31�16'42.5" 91�30'34.0"
+31�16'38.0" 91�30'37.0"
+31�16'30.0" 91�30'43.0"
+31�16'22.5" 91�30'51.0"
+31�16'17.0" 91�31'00.0"
+31�16'12.0" 91�31'10.0"
+31�16'08.0" 91�31'21.0"
+31�16'05.5" 91�31'32.0"
+31�16'03.5" 91�31'42.0"
+"The description of the April 10, 1964,
+live thalweg by geodetic positions (North American Datum) is as
+follows:"
+"Beginning at the foot of Glasscock
+Cutoff at a point on range 338.3 AHP, which is Lat. 31�19'07.0' --
+Long. 91�30'38.5'. "
+Page
+384 U. S. 27
+"Thence running southward through the
+following points:"
+Latitude Longitude
+31�18'57.5" 91�30'40.5"
+31�18'48.0" 91�30'42.5"
+31�18'38.0" 91�30'44.0"
+31�18'28.0" 91�30'46.0"
+31�18'18.5" 91�30'47.0"
+31�18'08.5" 91�30'48.5"
+31�17'59.0" 91�30'50.0"
+31�17'49.0" 91�30'52.0"
+31�17'39.0" 91�30'52.5"
+31�17'29.5" 91�30'52.5"
+31�17'20.0" 91�30'52.5"
+31�17'10.0" 91�30'52.0"
+31�17'00.5" 91�30'52.0"
+31�16'51.0" 91�30'52.5"
+31�16'41.0" 91�30'53.0"
+31�16'36.0" 91�30'55.0"
+31�16'32.0" 91�30'58.0"
+31�16'24.0" 91�31'04.5"
+31�16'16.0" 91�31'11.5"
+31�16'09.0" 91�31'18.5"
+31�16'03.0" 91�31'28.0"
+31�15'59.0" 91�31'38.0"
+(3) As it appears that the Special
+Master has completed his work, he is hereby discharged with the
+thanks of the Court.
+(4) The costs of this suit are to be
+equally divided between the two States.
+

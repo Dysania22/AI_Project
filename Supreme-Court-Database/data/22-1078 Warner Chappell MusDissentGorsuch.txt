@@ -1,0 +1,107 @@
+::decision_cite:: 22-1078
+::decision_name::  Warner Chappell Music, Inc. v. Nealy
+::decision_year:: 2024
+::opinion_author:: Gorsuch
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–1078
+
+															_________________
+
+															WARNER CHAPPELL MUSIC, INC., et al.,
+PETITIONERS v. SHERMAN NEALY, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the eleventh circuit
+
+															[May 9, 2024]
+
+															
+
+															Justice Gorsuch, with whom Justice Thomas and
+Justice Alito join, dissenting.
+
+															The Court discusses how a discovery rule of
+accrual should operate under the Copyright Act. But in doing so it
+sidesteps the logically antecedent question whether the Act has
+room for such a rule. Rather than address that question, the Court
+takes care to emphasize that its resolution must await a future
+case. The trouble is, the Act almost certainly does not tolerate a
+discovery rule. And that fact promises soon enough to make anything
+we might say today about the rule’s operational details a dead
+letter.
+
+															“[O]rdinarily,” this Court has said, a claim
+“accrues when a plaintiff has a complete and present cause of
+action.” Petrella v. Metro-Goldwyn-Mayer, Inc.,
+572 U.S.
+663, 670 (2014) (internal quotation marks and alteration
+omitted). “In other words, the limitations period generally begins
+to run at the point when the plaintiff can file suit and obtain
+relief.” Ibid. (internal quotation marks omitted). We call
+this the “incident of injury rule.” Ibid., n. 4. And we
+interpret statutes with that “ ‘standard rule’ ” in mind.
+Rotkiske v. Klemm, 589 U.S. 8, 13 (2019).
+
+															What of the discovery rule? It “starts the
+limitations period when the plaintiff discovers, or with due
+diligence should have discovered, the injury that forms the basis
+for the claim.” Petrella, 572 U. S., at 670, n. 4
+(internal quotation marks omitted). We have said, however,
+that the rule is not “applicable across all contexts.” TRW
+Inc. v. Andrews, 534 U.S.
+19, 27 (2001). Far from it: Unless the statute at hand directs
+otherwise, we proceed consistent with traditional equitable
+practice and ordinarily apply the discovery rule only “in cases of
+fraud or concealment.” Ibid. We have long warned lower
+courts, too, against taking any more “expansive approach to the
+discovery rule.” Rotkiske, 589 U. S., at 14; see TRW
+Inc., 534 U. S., at 27–28.
+
+															There is little reason to suppose the Copyright
+Act’s provisions at issue in this case contemplate any departure
+from the usual rules. Section 507(b) provides that “[n]o civil
+action shall be maintained . . . unless it is commenced
+within three years after the claim accrued.” As the Court observed
+in Petrella v. Metro-Goldwyn-Mayer, Inc., standard
+language like that calls for the application of the standard
+incident of injury rule: “A copyright claim thus arises or
+‘accrue[s]’ when an infringing act occurs,” not at some later date.
+572 U. S., at 670. What this should mean for the case before
+us seems equally evident: Because everyone agrees Sherman Nealy
+filed suit more than three years after many of Warner Chappell’s
+alleged infringing acts, see ante, at 2, some (if not all)
+of his claims are untimely. Everyone agrees, too, that he has not
+alleged any fraud or concealment that would entitle him to
+equitable tolling. See Brief for Petitioners 39; Brief for
+Respondents 50–51. The discovery rule thus has no role to play
+here—or, indeed, in the mine run of copyright cases.
+
+															In one sense, the Court’s decision to pass over
+this complication may be understandable. After all, none of the
+parties before us questioned the application of a discovery rule in
+proceedings below, but joined issue only over how it should work.
+See ante, at 5, n. 1. And the Court may, as it does,
+resolve the parties’ dispute while leaving for another day the
+antecedent question whether a discovery rule exists under the Act.
+See ante, at 4–5.
+
+															But if that is a permissible course, it does not
+strike me as the most sensible one. Nothing requires us to play
+along with these particular parties and expound on the details of a
+rule of law that they may assume but very likely does not exist.
+Respectfully, rather than devote our time to this case, I would
+have dismissed it as improvidently granted and awaited another
+squarely presenting the question whether the Copyright Act
+authorizes the discovery rule. Better, in my view, to answer a
+question that does matter than one that almost certainly does
+not.
+
+													

@@ -1,0 +1,79 @@
+::decision_cite:: 574 U.S. 427
+::decision_name::  M&G Polymers USA, LLC v. Tackett
+::decision_year:: 2015
+::opinion_author:: Ginsburg
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–1010
+
+															_________________
+
+															M&G POLYMERS USA, LLC, et al., PETITIONERS
+v.HOBERT FREEL TACKETT et al.
+
+															on writ of certiorari to the united states court of appeals for
+the sixth circuit
+
+															[January 26, 2015]
+
+															Justice Ginsburg, with whom Justice Breyer, Justice Sotomayor,
+and Justice Kagan join,concurring.
+
+															Today’s decision rightly holds that courts must apply ordinary
+contract principles, shorn of presumptions, to determine whether
+retiree health-care benefits survive the expiration of a
+collective-bargaining agreement. Under the “cardinal principle” of
+contract interpretation, “the intention of the parties, to be
+gathered from the whole instrument, must prevail.” 11 R. Lord,
+Williston on Contracts §30:2, p. 27 (4th ed. 2012) (Williston). To
+determine what the contracting parties intended, a court must
+examine the entire agreement in light of relevant industry-specific
+“customs, practices, usages, and terminology.” Id., §30:4,
+at 55–58. When the intent of the parties is unambiguously expressed
+in the contract, that expression controls, and the court’s inquiry
+should proceed no further. Id., §30:6, at 98–104. But when
+the contract is ambiguous, a court may consider extrinsic evidence
+to determine the intentions of the parties. Id., §30:7, at
+116–124.
+
+															Contrary to M&G’s assertion, Brief for Petitioner 25, no
+rule requires “clear and express” language in order to show that
+parties intended health-care benefits to vest. “[C]onstraints upon
+the employer after the expiration date of a collective-bargaining
+agreement,” we have observed, may be derived from the agreement’s
+“explicit terms,” but they “may arise as well from . . . implied
+terms of the expired agreement.” Litton Financial Printing Div.,
+Litton Business Systems, Inc. v. NLRB,501 U. S.
+190,203,207 (1991).
+
+															On remand, the Court of Appeals should examine the entire
+agreement to determine whether the parties intended retiree
+health-care benefits to vest. 11 Williston §30:4, at 55–57. Because
+the retirees have a vested, lifetime right to a monthly pension,
+App. 366, a provision stating that retirees “will receive”
+health-care benefits if they are “receiving a monthly pension” is
+relevant to this examination. Id., at 415. So is a “survivor
+benefits” clause instructing that if a retiree dies, her surviving
+spouse will “continue to receive [the retiree’s health-care]
+benefits . . . until death or remarriage.” Id., at 417. If,
+after considering all relevant contractual language in light of
+industry practices, the Court of Appeals concludes that the
+contract is ambiguous, it may turn to extrinsic evidence—for
+example, the parties’ bargaining history. The Court of Appeals,
+however, must conduct the foregoing inspection without
+Yard-Man’s “thumb on the scale in favor of vested retiree
+benefits.” Ante, at 10; see International Union, United
+Auto, Aerospace, & Agricultural Implement Workers of Am. v.
+Yard-Man, Inc., 716 F. 2d 1476 (1983).
+
+															Because I understand the Court’s opinion to be consistent with
+these basic rules of contract interpretation, I join it.
+
+													

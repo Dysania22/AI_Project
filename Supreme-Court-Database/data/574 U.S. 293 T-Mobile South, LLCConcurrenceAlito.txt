@@ -1,0 +1,69 @@
+::decision_cite:: 574 U.S. 293
+::decision_name::  T-Mobile South, LLC v. City of Roswell
+::decision_year:: 2015
+::opinion_author:: Alito
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–975
+
+															_________________
+
+															T-MOBILE SOUTH, LLC, PETITIONER v.CITY OF ROSWELL,
+GEORGIA
+
+															on writ of certiorari to the united states court of appeals for
+the eleventh circuit
+
+															[January 14, 2015]
+
+															Justice Alito, concurring.
+
+															I concur in the Court’s opinion because I agree that Congress,
+by using the term “substantial evidence,” intended to invoke
+administrative law principles. One such principle, as the Court
+explains, is the requirement that agencies give reasons. I write
+separately, however, because three other traditional administrative
+law principles may also apply.
+
+															First, a court must “uphold a decision of less than ideal
+clarity if the agency’s path may reasonably be discerned.”
+Bowman Transp., Inc. v. Arkansas-Best Freight System,
+Inc.,419 U. S. 281,286 (1974). In the context of47
+U. S. C. §332(c)(7), which leaves in place almost the
+entirety of a local government’s authority, a succinct statement
+that a permit has been denied because the tower would be
+esthetically incompatible with the surrounding area should suffice.
+Nothing in this statute imposes an opinion-writing requirement.
+
+															Second, even if a locality has erred, a court must not
+invalidate the locality’s decision if the error was harmless. “In
+administrative law, as in federal civil and criminal litigation,
+there is a harmless error rule.” National Assn. of Home
+Builders v. Defenders of Wildlife,551 U. S. 644–660
+(2007) (internal quotation marks omitted). Here, for instance, I
+have trouble believing that T-Mobile South, LLC—which actively
+participated in the decisionmaking process, including going so far
+as to transcribe the public hearing—was prejudiced by the city of
+Roswell’s delay in providing a copy of the minutes.
+
+															Third, the ordinary rule in administrative law is that a court
+must remand errors to the agency “except in rare circumstances.”
+Florida Power & Light Co. v. Lorion,470
+U. S. 729,744 (1985). Nothing we say today should be read to
+suggest that when a locality has erred, the inevitable remedy is
+that a tower must be built. The Court has not passed on what
+remedial powers a “court of competent jurisdiction” may exercise.
+§332(c)(7)(B)(v). This unanswered question is important given the
+federalism implications of this statute.
+
+															I do not understand the Court’s opinion to disagree with this
+analysis. On that understanding, I join the Court’s opinion.
+
+													

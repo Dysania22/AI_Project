@@ -1,0 +1,1110 @@
+::decision_cite:: 22-340
+::decision_name::  Pulsifer v. United States
+::decision_year:: 2024
+::opinion_author:: Kagan
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–340
+
+															_________________
+
+															MARK E. PULSIFER, PETITIONER v. UNITED
+STATES
+
+															on writ of certiorari to the united states
+court of appeals for the eighth circuit
+
+															[March 15, 2024]
+
+															
+
+															Justice Kagan delivered the opinion of the
+Court.
+
+															The “safety valve” provision of federal
+sentencing law exempts certain defendants from mandatory minimum
+penalties, thus enabling courts to give them lighter prison terms.
+To qualify for safety-valve relief, a defendant must meet various
+criteria, one of which addresses his criminal history. That
+criterion, in stylized form, requires that a defendant “does not
+have A, B, and C”—where A, B, and C refer to three ways in which
+past criminality may suggest future dangerousness and therefore
+warrant a more severe sentence. In brief (with details below), A,
+B, and C are “more than 4 criminal history points,” a “3-point
+offense,” and a “2-point violent offense.”
+
+															The question presented is how to understand the
+criminal-history requirement. The Government contends that the
+phrase “does not have A, B, and C” creates a checklist with three
+distinct conditions. On that view, a defendant meets the
+requirement (and so is eligible for safety-valve relief ) if
+he does not have A, does not have B, and does not have C. Or stated
+conversely, a person fails to meet the requirement (and so cannot
+get relief ) if he has any one of the three. The petitioner
+here instead contends that the phrase “does not have A, B, and C”
+sets out a single, amalgamated condition for relief. On his
+reading, a defendant meets the requirement (and is eligible for
+relief ) so long as he does not have the combination of
+A, B, and C. Or put conversely, he fails to meet the requirement
+(and cannot get relief ) only when he has all three. Today, we
+agree with the Government’s view of the criminal-history
+provision.
+
+															I
+
+															Congress sometimes establishes mandatory
+minimum penalties for crimes, including drug offenses. Those
+provisions put a lower limit on a court’s sentencing discretion,
+reflecting Congress’s judgment that specified conduct demands no
+less than a specified punishment. For drug offenses of the kind
+involved here, the existence and length of minimum penalties
+typically depend on the type and quantity of the drug at issue, the
+harm resulting from the crime, and (relevant here) the defendant’s
+criminal history.
+
+															The safety-valve provision, 18
+U. S. C. §3553(f ), offers some defendants convicted
+of drug offenses an escape from otherwise applicable mandatory
+minimums. Under the provision, a court is to sentence a defendant
+“without regard to any statutory minimum” if it finds that five
+criteria are met. Ibid. Three of the criteria focus on
+characteristics of the offense—in brief, whether the defendant used
+violence; whether the crime resulted in death or serious injury;
+and whether the defendant acted as a ringleader. See
+§3553(f )(2)–(4). One of the criteria addresses the
+defendant’s cooperation with the Government. See §3553(f )(5).
+And one—the first listed and the most relevant here—concerns the
+defendant’s criminal history. See §3553(f )(1). The complete
+text of the safety-valve provision is set out in this opinion’s
+appendix.
+
+															The criminal-history requirement—we usually call
+it Paragraph (f )(1)—recently underwent a substantial
+revision, making it easier for a defendant to meet. As originally
+enacted, the paragraph limited safety-valve relief to defendants
+who “d[id] not have more than 1 criminal history point, as
+determined under the sentencing guidelines.” Violent Crime Control
+and Law Enforcement Act of 1994, 108Stat. 1985. What that meant in
+practice—we explain why just below—was that anything more than a
+single minor crime barred a defendant from gaining relief. But that
+is no longer so. In the First Step Act of 2018, Congress relaxed
+the safety-valve provision’s criminal-history requirement, enabling
+defendants with more significant criminal records to qualify. Pub.
+L. 115–391, 132Stat. 5221. Today, Paragraph (f )(1) is met if
+“the court finds at sentencing” that:
+
+															the defendant does not have—
+
+															(A)more than 4 criminal history points,
+excluding any criminal history points resulting from a 1-point
+offense, as determined under the sentencing guidelines;
+
+															(B)a prior 3-point offense, as determined under
+the sentencing guidelines; and
+
+															(C)a prior 2-point violent offense, as
+determined under the sentencing guidelines.
+
+															And if the defendant also meets Section
+3553(f )’s other four criteria, he becomes exempt from a
+statutory minimum.
+
+															As the text makes clear, the new Paragraph
+(f )(1) (like the old one) turns on the defendant’s
+criminal-history points under the Guidelines. In general, the
+severity of Guidelines sentencing recommendations increases with
+the number of criminal-history points the defendant has (often
+called his criminal-history score). And the Guidelines assign more
+points to more serious prior offenses. There is a caveat to that
+rule, which will become pertinent later. See infra, at
+17–20. Some prior convictions, even if for serious offenses, do not
+add any points to a defendant’s score. That is true, for example,
+if the conviction is quite old or if it was rendered by a foreign
+court. See U. S. Sentencing Guidelines (USSG) §4A1.2(e)(3),
+(h). But putting such exceptions aside, convictions resulting in
+longer prison sentences add more points to a defendant’s total. As
+previewed above, the Guidelines award one point for minor
+offenses—specifically, for those resulting in sentences of less
+than 60 days. In the new Paragraph (f )(1), those minor
+sentences do not matter at all: Because of the “excluding” phrase,
+they cannot, either alone or in combination, prevent a defendant
+from gaining safety-valve relief. But longer sentences, generating
+more points, fall within the paragraph’s notice. A prison sentence
+of between 60 days and 13 months earns two points under the
+Guidelines. See §4A1.1(b). So a conviction punished with that
+sentence will count, for purposes of the paragraph, as a “prior
+2-point offense,” assuming it is also “violent” (as defined in a
+nearby provision). §3553(f )(1)(C), (g). Moving up another
+notch, a sentence exceeding 13 months earns three points under the
+Guidelines. See §4A1.1(a). So a conviction giving rise to that
+greater penalty (whether or not violent) will qualify under the
+paragraph as a “prior 3-point offense.” §3553(f )(1)(B).
+
+															This case involves a dispute about whether
+Paragraph (f )(1) bars petitioner Mark Pulsifer from gaining
+safety-valve relief. Pulsifer pleaded guilty in 2020 to
+distributing at least 50 grams of methamphetamine. He faced a
+mandatory minimum of 15 years in prison unless the safety-valve
+provision came to his aid. The Government claimed it did not
+because Pulsifer could not meet its criminal-history requirement.
+Pulsifer had two relevant prior convictions, each for a three-point
+offense. In the Government’s view, that fact disqualified Pulsifer
+from obtaining relief several times over. He had not just one but
+two “prior 3-point offense[s],” as specified in Subparagraph B of
+the requirement. And because three plus three equals six, he also
+had “more than 4 criminal history points,” as specified in
+Subparagraph A. But Pulsifer claimed that was still not enough. He
+pointed out that his criminal record lacked a “2-point violent
+offense,” as specified in Subparagraph C. And in his view, only the
+combination of the items listed in the three subparagraphs—the full
+package, as it were—could prevent him from getting safety-valve
+relief.
+
+															The District Court rejected Pulsifer’s argument,
+ruling that a defendant is “ineligible for safety valve” relief if
+he has any of the “three things” specified in Paragraph
+(f )(1). App. to Pet. for Cert. 35a–36a. The mandatory
+minimum, the court concluded, thus applied to Pulsifer’s
+sentence.
+
+															The Court of Appeals for the Eighth Circuit
+affirmed. The court framed the question as “in what sense the
+statute uses the word ‘and.’ ” 39 F. 4th 1018, 1021
+(2022). In the abstract, the court stated, the phrase “the
+defendant does not have (A), (B), and (C)” might be read in two
+different ways. It could mean that the defendant does not have the
+combination of the “three elements listed in (A), (B), and (C),” as
+Pulsifer urged. Ibid. Or it could mean, as the Government
+argued, that the defendant does not have every one of those
+elements—in other words, that he does not have (A), does not have
+(B), and does not have (C). In choosing between those readings, the
+court found a “strong textual basis” to prefer the Government’s.
+Ibid. If Pulsifer were right, the court explained,
+Subparagraph A would be “rendered superfluous”—without the
+slightest effect. Ibid. “A defendant who has a prior
+three-point offense under [Subparagraph B] and a prior two-point
+violent offense under [Subparagraph C] would always meet the
+criterion in [Subparagraph A], because he would always have more
+than four criminal history points.” Ibid. That was reason
+enough to read Paragraph (f )(1) the other way—as an
+“eligibility checklist” of three distinct conditions, each of which
+the defendant must meet to qualify for safety-valve relief.
+Id., at 1022. And on that view, the court concluded,
+Pulsifer could not escape a mandatory minimum: Because he had a
+pair of three-point offenses, it was simply “immaterial” that he
+did not also “have a prior two-point violent offense.” Id.,
+at 1022–1023.
+
+															We granted certiorari, 598 U. S. ___
+(2023), because the Courts of Appeals have split over how to read
+the safety-valve provision’s criminal-history requirement.[1] Today, we adopt the Government’s
+view, and so affirm the decision below. A defendant is eligible for
+safety-valve relief under Paragraph (f )(1) only if he “does
+not have” all three of the items listed—or said more specifically,
+does not have four criminal-history points, does not have a prior
+three-point offense, and does not have a prior two-point violent
+offense. The paragraph thus creates an eligibility checklist, and
+demands that a defendant satisfy every one of its conditions.
+
+															II
+
+															We start with Paragraph (f )(1)’s
+grammatical structure, because Pulsifer’s main argument (and
+initially the dissent’s) is that it resolves this case. See Brief
+for Pulsifer 16–20; post, at 7–8 (opinion of Gorsuch,
+J.).[2] Recall that the
+paragraph requires a court to find that the defendant does not have
+the features specified in Subparagraphs A, B, and C. “Because
+Congress used ‘and’ to connect” those subparagraphs, Pulsifer
+contends, “a defendant is ineligible” for safety-valve relief “only
+if he has the complete combo”—i.e., more than four
+criminal-history points plus a prior three-point offense plus a
+prior two-point violent one. Brief for Pulsifer 19. That result
+follows, Pulsifer claims, simply from “what ordinary grammar says.”
+Tr. of Oral Arg. 3. But in fact grammar does not say so much. There
+are two grammatically permissible ways to read Paragraph
+(f )(1). Yes, one is Pulsifer’s. But the other is the
+Government’s—that a defendant is ineligible for relief unless he
+can satisfy each of the paragraph’s three conditions. The choice
+between the two, as this Part shows, is not a matter of grammatical
+rules. It can sensibly be made only by examining, as the next Part
+does, the paragraph’s content, as read in conjunction with the
+Guidelines. Or, as we usually say in statutory construction cases,
+by reviewing text in context.
+
+															“And,” in grammatical terms, is of course a
+conjunction—a word whose function is to connect specified items.
+Both parties here agree with that elementary proposition. See Brief
+for Pulsifer 18; Brief for United States 14. The word “and,” each
+might say, means . . . well, and. Indeed, to the extent
+elaboration is needed, both parties select the same definition from
+the same dictionary. “And,” they recite in concert, means “along
+with or together with.” Webster’s Third New International
+Dictionary 80 (1993); see Brief for Pulsifer 18; Brief for United
+States 14.
+
+															Where things get more complicated is in figuring
+out what goes along or together with what—or otherwise said, what
+the “and” in Paragraph (f )(1) connects. As Pulsifer reads the
+paragraph, the “and” joins three features of a defendant’s criminal
+history into a single disqualifying characteristic. The conjunction
+of Subparagraphs A, B, and C produces the thing he labels “the
+complete combo”; the question then becomes whether the defendant
+has or “does not have” that full package. Brief for Pulsifer 19;
+§3553(f )(1). Some grade-school math notation may help reveal
+the proposed ordering. It is as if Pulsifer inserted parentheses
+into the paragraph, so that it asks whether “the defendant does not
+have (A, B, and C).” Much as a student would solve
+“5 - (2 + 1)” by first adding 2 and 1 and then
+subtracting the sum from 5, so Pulsifer wants a court first to
+combine A, B, and C and then to determine whether the defendant has
+the total. By contrast, the Government reads the statute without
+parentheses, and so arrives at a different conclusion. On its view,
+the “
+
+															The Government’s view rests on a routine aspect
+of expression—that an introductory phrase (here, “does not have”)
+may apply to, or modify, several terms coming after it, one by one
+by one. Suppose a person says after visiting a bookstore, “I bought
+a novel, a memoir, and a travel guide.” That is just a more
+efficient way of saying “I bought a novel, bought a memoir, and
+bought a travel guide.” The verb in the sentence carries over—some
+grammarians use the term “distribut[es]”—to every item on the
+ensuing list. B. Garner, Dictionary of Legal Usage 639 (3d ed.
+2011). That practice is pervasive, indeed inescapable, in every
+kind of speech and writing. Consider this, perhaps half-remembered
+line from childhood: “On Saturday he ate through one piece of
+chocolate cake, one ice-cream cone, one pickle, one slice of Swiss
+cheese, one slice of salami, one lollipop, one piece of cherry pie,
+one sausage, one cupcake, and one slice of watermelon.” E. Carle,
+The Very Hungry Caterpillar 15–16 (2018). The introductory words
+“ate through” apply independently and equivalently to each of the
+ten foodstuffs that follow. Or if that example seems too trifling,
+take a couple from the Constitution. Article III provides that
+“[t]he judicial Power shall extend to all Cases . . .
+arising under this Constitution, the Laws of the United States, and
+Treaties.” §2. That statement means—but says more concisely—that
+the judicial power extends to cases arising under the Constitution;
+extends to cases arising under federal law; and extends to cases
+arising under treaties. The provision does not (as Pulsifer’s view
+might suggest) limit judges to hearing the few cases arising
+simultaneously under all three kinds of law. Similarly, Article I
+of the Constitution enables Congress “[t]o regulate Commerce with
+foreign Nations, and among the several States, and with the Indian
+Tribes.” §8, cl. 3. That authorization goes to commerce involving
+each kind of entity, not just to commerce involving the three at
+once. So again, the verb phrase operates on each term
+seriatim, not on the combination of the three.[3]
+
+															Pulsifer claims that verb phrases do not work
+the same way when “framed in the negative.” Reply Brief 2. One of
+his favorite examples is “don’t drink and drive.” Brief for
+Pulsifer 16. That “doesn’t mean,” he observes, “that you shouldn’t
+drink and that you shouldn’t drive, but only [means] that you
+shouldn’t do both at the same time.” Id., at 18 (emphasis
+deleted). So too, he says, for “don’t clean the bathroom with
+bleach and ammonia.” Id., at 12 (emphasis deleted). The
+prohibition does not go to bleach alone and to ammonia alone;
+instead, it goes only to the two in conjunction. To return to math
+notation, the statement is best understood as “don’t clean with
+(bleach and ammonia),” rather than “don’t clean with bleach and
+don’t clean with ammonia.” See supra, at 7–8. And so too, he
+says, here: Paragraph (f )(1) conditions relief on a court’s
+finding that a defendant “does not have (A, B, and C),” rather than
+that he “does not have A, does not have B, and does not have
+C.”
+
+															But for every negative statement Pulsifer offers
+up, another cuts the opposite way (suggesting, as we later discuss,
+that here grammar is not the primary determinant of meaning).
+Consider two sentences discussed in The Cambridge Grammar of the
+English Language. If someone says “I’m not free on Saturday and
+Sunday,” the Grammar notes, he most likely means “I’m not free on
+Saturday and I’m not free on Sunday”; he is not saying that
+although he cannot go away for a full weekend, he can make plans on
+one of those days. See R. Huddleston & G. Pullum 1298–1299
+(2002) (emphasis deleted). Similarly, if a person says, “I didn’t
+like his mother and father,”Ibid. (emphasis
+deleted).[4] Or take an example
+raised in oral argument pertaining, like Paragraph (f )(1), to
+an eligibility requirement: A hospital tells you that it can
+perform a medical procedure only if you “don’t eat, drink, and
+smoke for the preceding 12 hours.” See Tr. of Oral Arg. 6–8. Even
+Pulsifer’s counsel agreed that he would not feel free to have a
+steak and martini so long as he abstained from tobacco. See
+ibid. The “don’t” here, unlike in Pulsifer’s examples,
+carries over to each action on the list (eating, drinking, and
+smoking alike)—not just to the three in tandem.
+
+															And if those examples of negatively framed
+statements, both Pulsifer’s and ours, seem a tad conversational,
+consider a statute strikingly similar in form to Paragraph
+(f )(1). First return to that paragraph to remind yourself of
+how it looks and reads. See supra, at 3. Now check out 34
+U. S. C. §20101(f ):
+
+															As used in this section, the term “offenses
+against the United States” does not include—
+
+															(1)a criminal violation of the Uniform Code of
+Military Justice (10 U. S. C. 801 et seq.);
+
+															(2)an offense against the laws of the District
+of Columbia; and
+
+															(3)an offense triable by an Indian tribal court
+or Court of Indian Offenses.
+
+															The “does not include” language at the top of
+course refers independently to crimes satisfying (1), crimes
+satisfying (2), and crimes satisfying (3)—not to whatever crimes
+manage to satisfy (1), (2), and (3) all at once. Or said otherwise,
+the statute means exactly what it would mean if Congress had
+stripped the phrase “does not include” from the prefatory line and
+repeated it three times in the subsequent list. Congress, we
+recognize, just opted to draft more concisely. And so too it could
+have made that choice in drafting Paragraph (f )(1)—with the
+“does not have” phrase referring to every item that follows. No
+grammatical principle precludes that understanding of what Congress
+wrote.
+
+															Pulsifer protests that using the word “or”
+(instead of “and”) would have better conveyed the Government’s
+reading, but that claim also fails. His basic objection (echoed in
+the dissent, see post, at 16–17) is that Congress could have
+expressed its intent more clearly. “If the government is right”
+about Paragraph (f )(1)’s meaning, Pulsifer asks, “why didn’t
+Congress just use ‘or’?”; doing so would have shown “unequivocally”
+that a defendant must meet all three of the specified conditions.
+Reply Brief 16; Tr. of Oral Arg. 10. But to begin with, we do not
+demand (or in truth expect) that Congress draft in the most
+translucent way possible. We have “routinely construed statutes to
+have a particular meaning even as we acknowledged that Congress
+could have expressed itself more clearly.” Luna Torres v.
+Lynch, 578 U.S. 452, 472 (2016) (citing cases). And anyway,
+we doubt that substituting “or” for “and” would have delivered us
+from interpretive controversy. Instead, we would likely have
+confronted the mirror image of the dispute before us. The
+Government would have read the requirement that a defendant “does
+not have A, B, or C” to mean that he “does not have (A, B, or C).”
+So a defendant would get safety-valve relief only if he doesn’t
+have any of the three listed criminal-history features. But
+Pulsifer, we suspect, would have read the same requirement to mean
+that a defendant “does not have A, does not have B, or does not
+have C.” So he would get safety-valve relief as long as he doesn’t
+have a single one of the listed features. That reading too is
+possible when viewed only as a matter of abstract grammar, divorced
+from any analysis of A, B, and C’s content. Even with Pulsifer’s
+proposed redrafting, then, the grammatical back-and-forth would
+continue.[5]
+
+															In fact, we can see why a Congress wishing to
+express the Government’s view might have chosen to use “and.”
+Suppose that before putting words to the page, Congress had decided
+(as the Government says) to create an eligibility checklist,
+requiring a defendant to meet three distinct conditions before
+getting safety-valve relief. In the subsequent drafting process, an
+“and” could well have seemed intuitive. After all, on the
+Government’s “checklist” view, a defendant must meet every one of
+three conditions—this one and this one and this one.
+Or said more concretely, the defendant must not have “more than 4
+criminal history points” and must not have a “3-point
+offense” and must not have a “2-point violent offense.” So
+why not use an . . . “and”? It serves to connect the
+three necessary conditions coming off the (efficient) prefatory
+language. In other words, Congress might have thought that use of
+the conjunctive word “and” would reflect the needed conjunction of
+three requirements.
+
+															Consider, as a summary of all these points,
+Pulsifer’s own main example, because it shows why Paragraph
+(f )(1)’s grammatical structure cannot decide this case—and
+points to the kind of analysis needed instead. Pulsifer offers a
+college policy, with an “and” connecting three provisions:
+
+															All student-athletes are eligible for an
+academic scholarship, provided that the student during the previous
+semester did not—
+
+															(A)miss more than five classes;
+
+															(B)fail to submit a paper in the semesterly,
+campus-wide writing competition; and
+
+															(C)earn less than a 3.0 GPA.
+
+															Brief for Pulsifer 19 (emphasis deleted). In
+Pulsifer’s view, the policy is clear: A student may retain his
+scholarship unless he flunks “all three” of the conditions.
+Ibid. So a student, Pulsifer contends, is in the clear if he
+“submitted a paper in the writing competition and earned a 3.4 GPA
+. . . even though he missed seven classes.” Ibid.
+Which sounds reasonable enough. But how about this one: A student
+who misses only four classes, but fails to submit a competition
+paper and “earns” a 1.0 GPA. Or similarly, a student who submits a
+(terrible) paper, while missing all his classes and obtaining the
+same “D” average. Is it now so clear that the policy allows a
+student to flunk two of the conditions, rather than requiring him
+to satisfy all three? Or is it, at the least, uncertain? And even
+supposing not, consider a variation:
+
+															All student-athletes are eligible for an
+academic scholarship, provided that the student during the previous
+semester did not—
+
+															(A)fail a course;
+
+															(B)commit plagiarism; and
+
+															(C)get arrested.
+
+															A student would need a lot of confidence to
+argue that he remains scholarship-eligible when he (A) failed a
+course, and (B) committed plagiarism, but (C) managed to evade
+arrest. That reading—Pulsifer’s reading—is grammatically possible.
+But so too is the opposite—that a student must meet all three
+conditions. And when we think about the content of the policy—what
+(A), (B), and (C) actually say—against the backdrop of all we know
+(or perchance all the college handbook tells us) about academic
+scholarships, we cannot read the revised hypothetical in Pulsifer’s
+way.
+
+															The takeaway is this: Paragraph (f )(1)
+cannot be construed in the abstract, as if all a reader has to go
+on is the stripped-down phrase “the defendant does not have A, B,
+and C.” That might require the defendant not to have (A, B, and
+C)—i.e., the combination of the three. Or it might require
+the defendant not to have A, and not to have B, and not to have
+C—i.e., each of the three. Really, it all depends. (It is
+notable that even the dissent must in the end concede the point,
+noting that whether a speaker “intend[s] for a listener to
+distribute words implicitly” depends on the context. See
+post, at 15–16; supra, at 6, and n. 2). The way
+a reader assigns meaning to the phrase is to look at the substance
+of A, B, and C—the items on the list and the way they interact, as
+against relevant background understandings. Recall a couple of
+examples. See supra, at 9–11. We interpret the injunction
+against drinking and driving in Pulsifer’s way—“do not (A and
+B)”—because the two activities are usually perilous only in
+combination. We interpret the injunction against eating and
+drinking before surgery in the Government’s way—“do not A and do
+not B”—because each activity alone is likely to have adverse
+consequence. Similarly here, the meaning of Paragraph (f )(1)
+may become clear if we examine the content of its three
+subparagraphs—what they say and how they relate to each other—as
+well as how they fit with other pertinent law. Or stated in the
+usual language of statutory construction, the answer may lie in
+considering the paragraph’s text in its legal context.
+
+															III
+
+															A
+
+															And indeed, that inquiry into text and context
+makes Paragraph (f )(1)’s meaning clear. The paragraph creates
+an eligibility checklist. It specifies three necessary conditions
+for safety-valve relief—that the defendant not have more than four
+criminal-history points, not have a prior three-point offense, and
+not have a prior two-point violent offense. Reading the paragraph
+instead to set out a single condition—that the defendant not have
+the combination of the listed characteristics—would create
+two statutory difficulties. First, Subparagraph A would become
+superfluous—without any operative significance. That is because if
+a defendant has a three-point offense under Subparagraph B and a
+two-point offense under Subparagraph C, he will always have more
+than four criminal-history points under Subparagraph A. Second,
+defendants’ eligibility for relief would not correspond to the
+seriousness of their criminal records. Instead, a defendant with
+numerous violent three-point offenses could get relief because he
+happens not to have a two-point offense. The content of
+Subparagraphs A, B, and C, especially as read against the
+Guidelines, thus answers the statutory puzzle here—reducing two
+grammatical possibilities to just one plausible construction.
+
+															Begin with superfluity. Or actually with its
+absence—because there is none under the Government’s reading. Each
+subparagraph does independent work, disqualifying defendants from
+relief even when the others would not. Subparagraph A disqualifies
+defendants who have more than four criminal-history points
+(excluding those from a one-point offense), even if they do not
+have a prior three-point offense or a prior two-point violent
+offense. So, for example, a defendant with three non-violent
+two-point offenses will be barred. Subparagraph B, in turn,
+disqualifies defendants who have any prior three-point offense,
+even if they do not have a two-point violent offense or more than
+four total points. And finally, Subparagraph C disqualifies
+defendants who have a prior two-point violent offense, even if they
+do not have a three-point offense or more than four points. The
+paragraph thus excludes (A) various repeat offenders, along with
+anyone having even a single conviction that (B) resulted in a
+sufficiently long prison sentence or (C) resulted in a shorter
+sentence but involved violence. Every part of the paragraph has a
+function.
+
+															But that is not so under Pulsifer’s reading, as
+a bit of arithmetic reveals. Pulsifer’s view, once again, is that
+Paragraph (f )(1) disqualifies only defendants with the
+combination of the characteristics in Subparagraphs A, B, and C—so
+more than four criminal-history points, a prior three-point
+offense, and a prior two-point violent one. But because 3 + 2 = 5,
+and because 5 is more than 4, a defendant with a three-point
+offense (Subparagraph B) and a two-point violent offense
+(Subparagraph C) will necessarily have more than four history
+points (Subparagraph A). So Subparagraph A becomes meaningless: It
+does no independent work. Remove it from the statute, and what is
+left will make the exact same people eligible (and ineligible) for
+relief.
+
+															And that kind of superfluity, in and of itself,
+refutes Pulsifer’s reading. The problem here is no odd word or
+stray phrase, which might have escaped Congress’s notice.
+Pulsifer’s reading would negate one of three—indeed, the first of
+three—provisions in the very paragraph he is trying to interpret.
+When a statutory construction thus “render[s] an entire
+subparagraph meaningless,” this Court has noted, the canon against
+surplusage applies with special force. National Assn. of
+Mfrs. v. Department of Defense, 583 U.S. 109, 128
+(2018); see Chicago v. Fulton, 592 U.S. 154, 159
+(2021). And still more when the subparagraph is so evidently
+designed to serve a concrete function. In addressing eligibility
+for sentencing relief, Congress specified three particular features
+of a defendant’s criminal history—A, B, and C. It would not have
+done so if A had no possible effect. It would then have enacted: B
+and C. But while that is the paragraph Pulsifer’s reading produces,
+it is not the paragraph Congress wrote.
+
+															To escape that quandary, Pulsifer contends that
+under the Guidelines a three-point offense and a two-point offense
+do not always total five criminal-history points. (The dissent
+reiterates Pulsifer’s assertion. See post, at 21–24.) The
+argument begins with a point not in dispute: Some prior
+convictions, as noted earlier, add zero points to a defendant’s
+criminal-history score. See supra, at 3. That is true if the
+conviction is quite old; if it was rendered in a military, tribal
+or foreign court; or if it merged into another conviction because,
+for example, the two arose from “the same charging instrument.”
+§4A1.2(a)(2); see §4A1.2(e), (g)–(i). The key move in Pulsifer’s
+argument is the next one: He claims that a prior offense adding
+zero points to a history score can still be a three-point or
+two-point offense under Paragraph (f )(1). That happens, he
+says, when the sentence given for the offense was long enough to
+otherwise add those points—meaning, in the absence of the
+trait that reduced points to zero. See Brief for Pulsifer 36–41.
+Take an example: A very old conviction contributes zero points to a
+defendant’s history score, no matter how long the sentence. Still,
+Pulsifer contends, it is a three-point offense when the sentence
+given was sufficiently long (over 13 months) to add three points in
+a case not very old. And once that proposition is accepted,
+Pulsifer says, superfluity disappears. Suppose a defendant has,
+along with the old conviction just described, a newer two-point
+violent offense. The old conviction, Pulsifer maintains, is a
+three-point offense satisfying Subparagraph B. And the new
+conviction satisfies Subparagraph C. But the defendant has only two
+criminal-history points—zero from the old offense and two from the
+new—which is not enough to satisfy Subparagraph A. So that
+subparagraph, Pulsifer concludes, has an effect: It keeps such a
+defendant eligible for safety-valve relief.
+
+															But Pulsifer’s argument craters because its key
+move is wrong: Contrary to his view, there is no such thing under
+the Guidelines as a three-point or two-point offense adding zero
+points. Under Subparagraphs B and C, the terms “3-point offense”
+and “2-point violent offense” are “as determined under the
+sentencing guidelines.” §3553(f )(1)(B)–(C). And the
+Guidelines assign points to an offense only in the context, and for
+the purpose, of “[a]dd[ing]” them to a defendant’s “criminal
+history” “total.” §4A1.1. So a conviction becomes a three- or
+two-point offense only when—only because—it adds three or
+two points to a total history score. Or said the other way round,
+only the addition of three or two points to that score makes the
+offense a three- or two-point offense. The corollary is that a
+conviction adding zero points—because, say, it is very old—cannot
+be a three- or two-point offense. It is (unsurprisingly) a
+zero-point offense—whatever would be the case if the conviction
+were newer. For that reason, such a conviction cannot aid
+Pulsifer’s effort to find a function for Subparagraph A. Because
+only the addition of three or two points can make an offense a
+three- or two-point offense, a defendant who has a prior
+three-point offense and a prior two-point violent offense will
+always have (arithmetic again) more than four points total. The
+Guidelines’ mechanics thus foreclose Pulsifer’s effort to erase the
+superfluity his reading creates.[6]
+
+															Yet more, Pulsifer’s effort founders on the
+Guidelines’ judgments, reflected in Paragraph (f )(1), about
+which prior offenses warrant enhanced punishment. Consider what
+Pulsifer’s zero-to-three claim entails. Because an offense adding
+zero points can on his account satisfy Subparagraph B or C, it can
+help prevent a defendant from gaining safety-valve relief. But that
+result ill comports with the Guidelines. There are, after all,
+reasons why the Guidelines decline to assign points to certain
+offenses. The specifics vary, but each embodies a judgment that
+some types of prior convictions should not have the usual weight in
+determining a current sentence. Maybe the prior conviction is not
+as reliable as most. Or maybe it is not so good a measure of the
+defendant’s future dangerousness. Whatever the precise explanation,
+the Guidelines give zero points to an offense in order to ensure
+that it not increase a later punishment. Except that under
+Pulsifer’s view it could do just that: Offenses that the Guidelines
+deem irrelevant to future sentencing might end up triggering a
+mandatory minimum. And likewise, Pulsifer’s view conflicts with a
+discrete feature of Paragraph (f )(1). Recall that under that
+paragraph, an offense earning one point cannot affect
+eligibility for relief, either alone or in combination with any
+other offense—presumably because a one-point offense is just too
+minor. See §3553(f )(1); supra, at 4. Yet Pulsifer’s
+theory would allow an offense adding zero points to
+contribute to a finding that relief is barred. That claim is,
+again, too out-of-sync with the statutory framework to offer an
+escape from his “3 + 2 = 5” superfluity problem.
+
+															And beyond that problem lies a second, this one
+relating to the way Paragraph (f )(1) precludes safety-valve
+relief for defendants with serious criminal histories. The
+paragraph operates as a gatekeeper: It helps get some defendants
+into, and keeps other defendants out of, a world free of mandatory
+minimums. And the criteria for selection, evident on the
+paragraph’s face, relate to just how bad a defendant’s criminal
+record is. Pulsifer himself recognizes that fact: In describing
+Paragraph (f )(1), he notes that “subparagraph (A) targets
+recidivism”; that “subparagraph (B) targets serious offenses”
+leading to lengthy prison terms; and that “subparagraph (C) targets
+violent offenses” even though resulting in lesser sentences. Brief
+for Pulsifer 25; see id., at 44 (noting that each
+subparagraph addresses a “type[ ] of behavior suggestive of
+future dangerousness”). The paragraph thus focuses on the kinds of
+past criminal behavior that under the Guidelines trigger enhanced
+penalties. Over and over, the Guidelines presume that defendants
+with worse criminal records—exhibiting recidivism, lengthy
+sentences, and violence—are “deserving of greater punishment.” USSG
+ch. 4, pt. A, intro. comment.; see §4A1.1; USSG ch. 5, pt. A.
+Paragraph (f )(1), in line with its repeated invocation of the
+Guidelines, expresses the same understanding. Put simply, the
+paragraph sorts defendants for relief (or not) based on the
+seriousness of their criminal history.
+
+															Under the Government’s reading, Paragraph
+(f )(1) performs that function without a hitch. When the
+defendant has committed multiple non-minor offenses, he cannot get
+relief (Subparagraph A). And so too when he has committed even a
+single offense punished with a lengthy prison sentence
+(Subparagraph B) or involving violence (Subparagraph C). Only a
+defendant with none of those markers—a defendant who can check off
+every one of the three “does not have” requirements—is eligible for
+relief. So the paragraph unerringly separates more serious prior
+offenders from less serious ones, allowing only the latter through
+the gate.
+
+															That does not happen under Pulsifer’s
+construction. To the contrary, his reading would allow relief to
+defendants with more serious records while barring relief to
+defendants with less serious ones. Or said otherwise, the sorting
+accomplished by Pulsifer’s reading does not match what Paragraph
+(f )(1) and the Guidelines call for. Consider two hypothetical
+defendants. One has five criminal-history points from a prior
+three-point offense and a prior two-point violent offense. The
+other has 15 criminal-history points from five prior three-point
+offenses, every last one of a violent nature, but . . .
+has no two-point violent offense. (All his crimes were too serious
+to wind up in the two-point category.) Which of the two defendants
+is the more serious prior offender? The latter of course: His
+record exhibits greater recidivism, lengthier sentences, and more
+violence. But under Pulsifer’s view of Paragraph (f )(1),
+which of the two defendants is excluded from relief? The former
+alone. For want of a two-point offense, the latter remains eligible
+to avoid a mandatory minimum. The paragraph thus fails to divide,
+at the gate for safety-valve relief, more from less serious prior
+offenders.[7]
+
+															And contrary to Pulsifer’s view, that problem
+cannot be solved by resort to a sentencing judge’s discretion.
+Notably, Pulsifer does not argue that there is any rhyme or reason
+to making our serial three-point violent offender eligible for
+safety-valve relief. He says only that Congress “had no reason to
+be concerned” about that outcome because it knew “that a sentencing
+court would still have discretion to impose a proportionate
+sentence.” Brief for Pulsifer 25; see id., at 45; see also
+post, at 28–29 (Gorsuch, J., dissenting) (similarly relying
+on judges’ ability, even without mandatory minimums, to impose
+lengthy sentences). But that “trust in discretion” claim cannot
+here work. If Congress thought it could always rely on sentencing
+discretion, it would not have created a criminal-history
+requirement in the first instance. That requirement, by its terms,
+confines such discretion. More specifically, it allows discretion
+to operate only when a defendant’s record does not reach a certain
+level of seriousness. On the Government’s reading, the paragraph
+well performs that gatekeeping function, separating more serious
+from less serious criminal histories. On Pulsifer’s reading, the
+paragraph does not: As just shown, it allows and denies relief in
+ways that do not correspond to the gravity of what a defendant has
+previously done. The need for a judge to correct those
+results—which Pulsifer admits—shows that his reading is wrong. Once
+again, his construction of Paragraph (f )(1)—however
+grammatical—makes a hash of the scheme Congress devised.
+
+															B
+
+															Pulsifer tries to tell a competing story
+(which the dissent mostly adopts, see post, at 8–9, 18–19).
+Even supposing the grammar of Paragraph (f )(1) is a wash,
+Pulsifer contends that statutory context supports his view of what
+that provision means by “and.” His argument invokes the
+“presumption of consistent usage and the meaningful-variation
+canon.” Brief for Pulsifer 22. Those are the terms often given to a
+generally useful—but still “defeasible”—interpretive principle: In
+a given statute, the same term usually has the same meaning and
+different terms usually have different meanings. A. Scalia & B.
+Garner, Reading Law 170–171 (2012). The principle is mostly applied
+to terms with some heft and distinctiveness, whose use drafters are
+likely to keep track of and standardize. See, e.g., IBP,
+Inc. v. Alvarez, 546 U.S.
+21, 33–34 (2005) (construing the term “principal activity” in
+the same way when used in neighboring provisions); Wisconsin
+Central Ltd. v. United States, 585 U.S. 274, 279 (2018)
+(holding that “money remuneration” must mean something different
+from “all remuneration” when used in “companion” statutes (emphasis
+deleted)). Pulsifer breaks new ground in applying the principle to
+words as ubiquitous and (as shown above) sometimes
+context-dependent as “and” and “or.” See supra, at 6–23. He
+argues, more specifically, that another “and” plus an “or” in
+Section 3553(f ) show that the “and” in Paragraph (f )(1)
+must be read his way. But even accepting that a court can sometimes
+demand harmonization of “and”s and “or”s, Pulsifer’s argument
+fails.
+
+															Take the other “and” first. As noted earlier,
+the criminal-history requirement is only one of five conditions for
+safety-valve relief set out in Section 3553(f ). See
+supra, at 2–3. Those conditions appear in a list—Paragraphs
+(f )(1) through (f )(5)—with an “and” linking them, just
+as an “and” links Paragraph (f )(1)’s three subparagraphs. A
+look at the appendix may be helpful here. See infra, at 29.
+The stylized version of the list in Section 3553(f ) (with
+content removed) goes as follows: The safety valve operates “if the
+court finds” 1, 2, 3, 4, “and” 5.
+
+															The problem for Pulsifer is that the meaning of
+the “and” in Section 3553(f ) does not advance his reading of
+Paragraph (f )(1). Everyone, including Pulsifer, agrees that
+the “and” in Section 3553(f ) connects five requirements for
+safety-valve relief, all of which a defendant must meet. In
+Pulsifer’s view, the Government has to read Paragraph
+(f )(1)’s “and” differently to make each one of its
+subparagraphs disqualifying. See Brief for Pulsifer 21; Reply Brief
+14–15. But that is just wrong. The “and” in Section 3553(f )
+works identically to the “and” in the Government’s reading of
+Paragraph (f )(1). Section 3553(f )’s “and” creates an
+eligibility checklist. A defendant fulfills that provision’s
+requirements if the court finds 1, finds 2, finds 3, finds 4, and
+(finally) finds 5. So the “and” joins five individually necessary
+conditions for relief. Likewise, the “and” in the Government’s
+construction of Paragraph (f )(1) creates an eligibility
+checklist. A defendant satisfies that paragraph’s requirements if
+he does not have A, does not have B, and (finally) does not have C.
+So again, the “and” joins several individually necessary conditions
+for safety-valve relief. Everything is consistent, in meaning and
+operation alike. It is actually Pulsifer who introduces dissonance
+into the provision. As to the larger list, he acknowledges that a
+defendant cannot get relief without checking off 1, 2, 3, 4, and 5
+individually. But as to the smaller list, Pulsifer changes the
+rule. Now a defendant need not satisfy A, B, and C individually.
+Instead, he can get relief so long as he does not have A, B, and C
+combined. In other words, in Pulsifer’s world, Section
+3553(f ) is an eligibility checklist, but Paragraph
+(f )(1) is not.
+
+															Pulsifer’s deployment of another paragraph’s
+“or” fares no better. Section 3553(f )(4) conditions
+safety-valve relief on a finding that the “defendant was not an
+organizer, leader, manager, or supervisor of others in the
+offense.” See supra, at 2. Congress thus used an “or” to
+signify that being any one of those things is disqualifying.
+Invoking the meaningful-variation canon, Pulsifer argues that the
+different term “and” in Paragraph (f )(1) must mean the
+opposite: that only the combination of the listed things
+disqualifies a defendant. See Brief for Pulsifer 21–22. Recall that
+we have already rejected Pulsifer’s unadorned view that the word
+“or” is needed to convey the Government’s reading of Paragraph
+(f )(1). See supra, at 11–13. Pulsifer’s additional
+reference to Paragraph (f )(4)’s “or” does not strengthen his
+case. As we have shown throughout this opinion, conjunctions are
+versatile words, which can work differently depending on context.
+Here is yet another example. As another glance at the appendix will
+confirm, the relevant clause in Paragraph (f )(4) is markedly
+different in length and formatting from the material in Paragraph
+(f )(1), naturally leading to different choices respecting the
+use of conjunctions. And anyway, Congress drafted the current
+versions of the paragraphs at different times—Paragraph
+(f )(4) in 1994, Paragraph (f )(1) in 2018. See Violent
+Crime Control and Law Enforcement Act of 1994, 108Stat. 1985; First
+Step Act of 2018, Pub. L. 115–391, 132Stat. 5221. It would hardly
+be surprising if 24 years later, Paragraph (f )(1)’s drafters
+did not perfectly harmonize their conjunction usage with a
+dissimilar-looking nearby paragraph. There can be few better
+illustrations of the “defeasib[ility]” of the meaningful-variation
+canon. Scalia, Reading Law, at 171.
+
+															Finally, Pulsifer and the dissent make a
+misguided argument about legislative purpose. As noted earlier,
+Congress enacted the revised version of Paragraph (f )(1) as
+part of the First Step Act, a significant sentencing reform law.
+See supra, at 2–3. Pulsifer explains that the new provision
+was meant “to make safety-valve relief more widely available.”
+Brief for Pulsifer 22. And the dissent highlights how many more
+defendants would get safety-valve relief under Pulsifer’s reading
+than under the Government’s. See post, at 7; see also
+post, at 1–7, 19. We do not doubt the points. But they do
+not assist in interpreting the statutory text before us. Both views
+of the paragraph—Pulsifer’s and the Government’s—significantly
+widen the opportunity for safety-valve relief; recall that under
+the prior provision, anything more than a single criminal-history
+point precluded deviation from a mandatory minimum. See
+supra, at 2–3. And Pulsifer’s interpretation is not better
+just because it would go further than the Government’s. “[N]o law
+pursues its . . . purpose[s] at all costs.” Luna
+Perez v. Sturgis Public Schools, 598 U.S. 142, 150
+(2023). So here, Congress did not eliminate but only curtailed
+mandatory minimums—did not extend safety-valve relief to all
+defendants, but only to some. And to determine the exact contours
+of that class, we can do no better than examine Paragraph
+(f )(1)’s text in context. For all the reasons given, that
+scrutiny reveals that Pulsifer’s view goes too far.
+
+															IV
+
+															Yet Pulsifer (joined again by the dissent, see
+post, at 31–32) asserts we are not done. At the least, he
+claims, the meaning of the criminal-history requirement is
+uncertain. And because it is uncertain, he must win. The rule of
+lenity, he says, requires courts to read “ambiguous criminal
+statutes in favor of liberty.” Brief for Pulsifer 47.
+
+															The problem is that we do not view Paragraph
+(f )(1) as genuinely ambiguous.[8] There are, to be sure, two grammatically permissible
+readings of the statute when viewed in the abstract. It may be read
+Pulsifer’s way—as stating that a defendant can get safety-valve
+relief so long as he does not have the combination (A, B, and C).
+Or it may be read the Government’s way—as stating that a defendant
+can get safety-valve relief only if he does not have A, does not
+have B, and does not have C. But the difficulty in choosing between
+those two constructions falls away once we consider the content of
+Subparagraphs A, B, and C: more than four criminal-history points
+(excluding points from a one-point offense), a prior three-point
+offense, and a prior two-point violent offense, all as determined
+under the Sentencing Guidelines. Then we discover that Pulsifer’s
+view creates glaring superfluity, whereas the Government’s view
+does not. And we discover that only the Government’s view renders
+the provision capable of sorting more serious from less serious
+criminal records, consistent with both the statute’s and the
+Guidelines’ designs. The two possible readings thus reduce to
+one—leaving no role for lenity to play.
+
+															In sum, Paragraph (f )(1)’s
+criminal-history requirement sets out an eligibility checklist. A
+defendant is eligible for safety-valve relief only if he satisfies
+each of the paragraph’s three conditions. He cannot have more than
+four criminal-history points. He cannot have a prior three-point
+offense. And he cannot have a prior two-point violent offense.
+Because Pulsifer has two prior three-point offenses totaling six
+points, he is not eligible. It makes no difference that he does not
+also have a prior two-point violent offense. Accordingly, we affirm
+the judgment of the Court of Appeals for the Eighth Circuit.
+
+															
+
+															It is so ordered.
+
+															
+
+															APPENDIX
+
+															
+
+															§3553. Imposition of a sentence
+.     .     .     .     .
+
+															(f ) Limitation on Applicability of
+Statutory Minimums in Certain Cases.—Notwithstanding any other
+provision of law, in the case of an offense under section 401, 404,
+or 406 of the Controlled Substances Act (21 U. S. C. 841,
+844, 846), section 1010 or 1013 of the Controlled Substances Import
+and Export Act (21 U. S. C. 960, 963), or section 70503
+or 70506 of title 46, the court shall impose a sentence pursuant to
+guidelines promulgated by the United States Sentencing Commission
+under section 994 of title 28 without regard to any statutory
+minimum sentence, if the court finds at sentencing, after the
+Government has been afforded the opportunity to make a
+recommendation, that—
+
+															(1) the defendant does not have—
+
+															(A) more than 4 criminal history points,
+excluding any criminal history points resulting from a 1-point
+offense, as determined under the sentencing guidelines;
+
+															(B) a prior 3-point offense, as determined under
+the sentencing guidelines; and
+
+															(C) a prior 2-point violent offense, as
+determined under the sentencing guidelines;
+
+															(2) the defendant did not use violence or
+credible threats of violence or possess a firearm or other
+dangerous weapon (or induce another participant to do so) in
+connection with the offense;
+
+															(3) the offense did not result in death or
+serious bodily injury to any person;
+
+															(4) the defendant was not an organizer, leader,
+manager, or supervisor of others in the offense, as determined
+under the sentencing guidelines and was not engaged in a continuing
+criminal enterprise, as defined in section 408 of the Controlled
+Substances Act; and
+
+															(5) not later than the time of the sentencing
+hearing, the defendant has truthfully provided to the Government
+all information and evidence the defendant has concerning the
+offense or offenses that were part of the same course of conduct or
+of a common scheme or plan, but the fact that the defendant has no
+relevant or useful other information to provide or that the
+Government is already aware of the information shall not preclude a
+determination by the court that the defendant has complied with
+this requirement.
+
+															Information disclosed by a defendant under this
+subsection may not be used to enhance the sentence of the defendant
+unless the information relates to a violent offense.
+
+Notes
+1
+ Compare 39 F. 4th
+1018 (CA8 2022) (case below) (holding that a defendant is eligible
+for relief only if he does not have all three of the items listed);
+United States v. Palomares, 52 F. 4th 640 (CA5
+2022) (same); United States v. Haynes, 55 F. 4th
+1075 (CA6 2022) (same); United States v. Pace, 48
+F. 4th 741 (CA7 2022) (same), with United States v.
+Jones, 60 F. 4th 230 (CA4 2023) (holding that a
+defendant is eligible for relief so long as he does not have any
+one of the items listed); United States v. Lopez, 998
+F.3d 431 (CA9 2021) (same); United States v. Garcon,
+54 F. 4th 1274 (CA11 2022) (en banc) (same).
+2
+ As later noted,
+infra, at 15, the dissent ultimately comes around to the
+view that the meaning of Paragraph (f )(1) depends on context,
+see post, at 15–16.
+3
+ The dissent wrongly views
+this ordinary feature of language as a kind of uncanny trick. To
+understand a verb as applying to each of several ensuing terms (the
+dissent says) is to choose verbal “gymnastics” over “natural”
+meaning. Post, at 10. The dissent’s primary proof is that
+such phrases can be rendered “with deleted words stricken and new
+ones added in bold.” Ibid. Well, yes, but so what? It is
+true, as the dissent might say, that “I bought (1) a novel, (2) a
+memoir, and (3) a travel guide” is equivalent in meaning to “I
+FONT bought FONT (1) bought a novel, (2)
+bought a memoir, and (3) bought a travel guide.” Cf.
+ibid. (similarly representing Paragraph (f)(1)). But
+ordinary people still understand the verb to carry over to all the
+books in the sentence. The strikeouts and boldface, far from
+evidencing manipulation of meaning, just illustrate how expression
+can naturally work. And that is so, contra the dissent
+(post, at 13–14), when a sentence’s subject is singular
+(rather than plural)—as shown by most of the sentences in the
+paragraph above, many similar ones to come, see infra, at
+10–11, and the vast number a reader can make up on her
+own.
+4
+ So too, a manual of
+contract drafting observes that “[t]he more natural meaning” of
+“Acme shall not notify Able and Baker” is “Acme shall not notify
+Able and shall not notify Baker,” not that he shall not notify the
+two together, but may notify either one. K. Adams, A Manual of
+Style for Contract Drafting §11.16, p. 212 (3d ed. 2013)
+(emphasis deleted).
+5
+ That is not to say, of
+course, that any negative statement involving the word “or” is
+realistically capable of two meanings; the point is only that
+context may drive such a statement in either direction. Consider
+two examples. First, suppose a restaurant chef decides to buy
+broccoli if his supplier “does not have spinach, eggplant, or
+cauliflower.” That most likely means the chef will buy broccoli
+only when the supplier is out of all three other vegetables, not
+when he is out of just one. But second, suppose the same chef
+typically places a food order if the restaurant “does not have
+meat, produce, or bread.” That most likely means he’ll place an
+order when the restaurant runs out of one of those foodstuffs, not
+wait until it is lacking all three. The grammar in the two
+statements is identical, but their most natural understanding is
+not. Here, content drives meaning, so that in the one sentence, the
+absence of three items—and in the other sentence, the absence of
+one item—triggers the relevant purchase.
+6
+ The dissent tries to save
+Pulsifer’s effort by offering an account of the Guidelines’
+mechanics different from that given in the Guidelines themselves.
+According to the dissent, the Guidelines “set forth a two-step
+process” in which a judge first “assigns points to the defendant’s
+prior offenses” under §4A1.1 and only then “computes the
+defendant’s criminal history” score under §4A1.2. Post, at
+22. So, the dissent claims, a court may first count two or three
+points for an old conviction (under §4A1.1) and then exclude those
+points from the computation of a history score (under §4A1.2). See
+ibid. But in fact there are no “two steps” under the
+Guidelines. As even the dissent concedes in one self-contradictory
+moment, see ibid., there is only a single calculation, with
+§4A1.2 providing the “[d]efinitions and [i]nstructions” for
+§4A1.1’s “add[ing]” and “total[ing].” (Given that relationship, the
+commentary explains, the two provisions “must be read together.”
+USSG ch. 4, pt. A, intro.). And among §4A1.2’s “[i]nstructions” is
+that old convictions simply “not [be] counted”—rather than, as the
+dissent would have it, that they be first counted and then
+uncounted. In other words, as §4A1.2’s commentary states, an old
+conviction should “receive[ ] no criminal history points” in
+the §4A1.1 calculation. USSG §4A1.2 comment., n. 3. So again:
+Neither Pulsifer nor the dissent can transform an old conviction
+into a two- or three-point offense.
+7
+ The dissent labors
+unsuccessfully to find an explanation for this state of affairs.
+Here is what it comes up with: Sometimes Congress opts for
+“standardized formulas” or bright-line tests even though their
+“over- and under-inclusi[on]” will produce statutory “anomalies.”
+Post, at 27–28 (citing Ransom v. FIA Card
+Services, N. A., 562 U.S.
+61, 78 (2011)); see post, at 29. That is true enough,
+but has no application here. Pulsifer’s view of the statute is no
+more “standardized” than the Government’s—and so no more
+predictable or administrable. The dissent thus remains without a
+plausible, or even cogent, explanation for the failure of its
+interpretation (and its interpretation alone) to perform the
+statute’s gatekeeping role—in Pulsifer’s own words, to separate
+defendants whose criminal history is more “suggestive of future
+dangerousness” from defendants whose criminal history is less so.
+Brief for Pulsifer 44.
+8
+ For that reason, we have
+no need to address the Government’s argument that the rule of
+lenity does not apply to Paragraph (f )(1) because it is not
+properly considered a “penal law.” Brief for United States
+46–47.
+
+

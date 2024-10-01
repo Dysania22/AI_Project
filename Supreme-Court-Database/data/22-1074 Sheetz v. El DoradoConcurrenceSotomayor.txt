@@ -1,0 +1,65 @@
+::decision_cite:: 22-1074
+::decision_name::  Sheetz v. El Dorado County
+::decision_year:: 2024
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–1074
+
+															_________________
+
+															GEORGE SHEETZ, PETITIONER v. COUNTY OF
+EL DORADO, CALIFORNIA
+
+															on writ of certiorari to the court of appeal
+of california, third appellate district
+
+															[April 12, 2024]
+
+															
+
+															Justice Sotomayor, with whom Justice Jackson
+joins, concurring.
+
+															I join the Court’s resolution of the limited
+question presented in this case, that conditions on building
+permits are “not exempt from scrutiny under Nollan and
+Dolan just because a legislature imposed them.” Ante,
+at 10; see Nollan v. California Coastal Comm’n,
+483 U.S.
+825 (1987); Dolan v. City of Tigard, 512 U.S.
+374 (1994). There is, however, an important threshold question
+to any application of Nollan/Dolan scrutiny: whether
+the permit condition would be a compensable taking if imposed
+outside the permitting context.
+
+															“A predicate for any unconstitutional conditions
+claim is that the government could not have constitutionally
+ordered the person asserting the claim to do what it attempted to
+pressure that person into doing.” Koontz v. St. Johns
+River Water Management Dist., 570 U.S.
+595, 612 (2013). In the takings context,
+Nollan/Dolan scrutiny therefore applies only when the
+condition at issue would have been a compensable taking if imposed
+outside the permitting process. See Koontz, 570 U. S.,
+at 612 (“[W]e began our analysis in both Nollan and
+Dolan by observing that if the government had directly
+seized the easements it sought to obtain through the permitting
+process, it would have committed a per se taking”).
+
+															The question presented in this case did not
+include that antecedent question: whether the traffic impact fee
+would be a compensable taking if imposed outside the permitting
+context and therefore could trigger Nollan/Dolan
+scrutiny. The California Court of Appeal did not consider that
+question and the Court does not resolve it. See ante, at
+10–11. With this understanding, I join the Court’s opinion.
+
+													

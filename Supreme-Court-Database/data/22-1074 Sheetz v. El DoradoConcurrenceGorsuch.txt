@@ -1,0 +1,118 @@
+::decision_cite:: 22-1074
+::decision_name::  Sheetz v. El Dorado County
+::decision_year:: 2024
+::opinion_author:: Gorsuch
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–1074
+
+															_________________
+
+															GEORGE SHEETZ, PETITIONER v. COUNTY OF
+EL DORADO, CALIFORNIA
+
+															on writ of certiorari to the court of appeal
+of california, third appellate district
+
+															[April 12, 2024]
+
+															
+
+															Justice Gorsuch, concurring.
+
+															George Sheetz sued El Dorado County, alleging
+that the county’s actions violated the Takings Clause under the
+test this Court set forth in Nollan v. California Coastal
+Comm’n, 483 U.S.
+825 (1987), and Dolan v. City of Tigard,
+512 U.S.
+374 (1994). State courts dismissed Mr. Sheetz’s suit, holding
+that the Nollan/Dolan test applies only in challenges to
+administrative, not legislative, actions. Today, the county
+essentially confesses error, and the Court corrects the state
+courts’ mistake. It does so because our Constitution deals in
+substance, not form. However the government chooses to act, whether
+by way of regulation “ ‘or statute, or ordinance, or
+miscellaneous decree,’ ” it must follow the same
+constitutional rules. Ante, at 9 (quoting Cedar Point
+Nursery v. Hassid, 594 U.S. 139, 149 (2021)).
+
+															The Court notes but does not address a separate
+question: whether the Nollan/Dolan test operates differently
+when an alleged taking affects a “class of properties” rather than
+“a particular development.” Ante, at 11. But how could it?
+To assess whether a government has engaged in a taking by imposing
+a condition on the development of land, the Nollan/Dolan
+test asks whether the condition in question bears an
+“ ‘essential nexus’ ” to the government’s land-use
+interest and has “ ‘rough proportionality’ ” to a
+property’s impact on that interest. Ante, at 6. Nothing
+about that test depends on whether the government imposes the
+challenged condition on a large class of properties or a single
+tract or something in between. Once more, how the government acts
+may vary but the Constitution’s standard for assessing those
+actions does not.
+
+															Our precedents confirm as much. In
+Nollan, the California Coastal Commission told the
+plaintiffs that they could build a home on their land only if they
+accepted an easement allowing public access across their property
+along the beach. The plaintiffs argued that the commission’s demand
+amounted to a taking without just compensation, and the Court
+agreed. In doing so, the Court acknowledged that the commission
+hadn’t singled out the plaintiffs’ particular property for special
+treatment but “had similarly conditioned” dozens of other building
+projects. 483 U. S., at 829. It acknowledged, too, that the
+commission’s demand of the plaintiffs came about only because of a
+“ ‘comprehensive program’ ” demanding similar public
+access easements up and down the California coast. Id., at
+841. But none of that made any difference in the Court’s analysis,
+the test it applied, or the conclusion it reached. All that
+mattered was whether the government’s action amounted to an
+uncompensated taking of the property of the plaintiffs whose case
+was actually before the Court. Id., at 838.
+
+															In Dolan, the Court faced a similar
+situation and reached a similar conclusion. There, an Oregon
+municipality conditioned a building permit on the plaintiff ’s
+agreement to dedicate part of her land to “flood control and
+traffic improvements.” 512 U. S., at 377. No one suggested
+that the city had targeted the plaintiff ’s development for
+special treatment; everyone agreed that the city’s challenged
+action was the result of a “comprehensive land use pla[n],” one
+developed to meet “statewide planning goals.” Ibid. Even so,
+the Court held an “individualized determination” necessary to
+determine whether an unconstitutional taking had occurred under the
+same test the Court applied in Nollan. 512 U. S., at
+393.
+
+															The logic of today’s decision is entirely
+consistent with these conclusions. The Takings Clause, the Court
+stresses, is no “ ‘poor relation’ to other constitutional
+rights.” Ante, at 10 (quoting Dolan, 512 U. S.,
+at 392). And the government rarely mitigates a constitutional
+problem by multiplying it. A governmentally imposed condition on
+the freedom of speech, the right to assemble, or the right to
+confront one’s accuser, for example, is no more permissible when
+enforced against a large “class” of persons than it is when
+enforced against a “particular” group. If takings claims must
+receive “like treatment,” ante, at 10, whether the
+government owes just compensation for taking your property cannot
+depend on whether it has taken your neighbors’ property too.
+
+															In short, nothing in Nollan,
+Dolan, or today’s decision supports distinguishing between
+government actions against the many and the few any more than it
+supports distinguishing between legislative and administrative
+actions. In all these settings, the same constitutional rules
+apply. With that understanding, I am pleased to join the Court’s
+opinion.
+
+													

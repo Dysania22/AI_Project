@@ -1,0 +1,87 @@
+::decision_cite:: 22-1025
+::decision_name::  Gonzalez v. Trevino
+::decision_year:: 2024
+::opinion_author:: Jackson
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–1025
+
+															_________________
+
+															SYLVIA GONZALEZ, PETITIONER v. EDWARD
+TREVINO, II, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the fifth circuit
+
+															[June 20, 2024]
+
+															
+
+															Justice Jackson, with whom Justice Sotomayor
+joins, concurring.
+
+															Today, the Court rightly recognizes that
+petitioner Sylvia Gonzalez’s survey—showing that, in the last
+decade, no one charged with the crime for which she was arrested
+had engaged in conduct similar to hers—is objective evidence
+admissible to prove that she “was arrested when otherwise similarly
+situated individuals not engaged in the same sort of protected
+speech had not been.” Nieves v. Bartlett, 587 U.S.
+391, 407 (2019); see ante, at 5.
+
+															That recognition, however, should not be taken
+to suggest that plaintiffs cannot use other types of
+objective evidence to make this showing. The Nieves
+exception is satisfied in “circumstances where officers have
+probable cause to make arrests, but typically exercise their
+discretion not to do so.” 587 U. S., at 406. “The only express
+limit we placed on the sort of evidence a plaintiff may present for
+that purpose is that it must be objective.” Ante, at 4. As
+the United States explains, such objective evidence could “include
+officers’ employment of an unusual, irregular, or unnecessarily
+onerous arrest procedure,” as well as “[t]he timing of and events
+leading up to a plaintiff ’s arrest.” Brief for United States
+as Amicus Curiae 20.[1]*
+Similarly, “if officers falsely document the arrest or include
+other indicia of retaliatory motive in arrest-related documents,
+that too might suggest meaningfully differential treatment.”
+Id., at 21.
+
+															Here, in addition to her survey, Gonzalez
+presented this other kind of evidence as well. Before the District
+Court, Gonzalez pointed to, among other things, details about the
+anomalous procedures used for her arrest and statements in the
+arresting officer’s warrant affidavit suggesting a retaliatory
+motive. See Brief for Petitioner 43–44. Those categories of
+evidence, too, can support the conclusion that Gonzalez “was
+arrested when otherwise similarly situated individuals not engaged
+in the same sort of protected speech had not been.” Nieves,
+587 U. S., at 407. On remand, the lower courts may consider
+the full scope of objective evidence that Gonzalez has offered to
+establish differential treatment. See ante, at 4.
+
+															With this understanding, I join the Court’s
+per curiam opinion.
+
+Notes
+1
+*Justice Alito suggests that
+evidence of this sort—such as the fact that “a police officer has
+been surveilling [a plaintiff ’s] house for several
+weeks”—would not “count towards the Nieves exception.”
+Ante, at 10 (concurring opinion). He does not explain,
+however, why such evidence would not be objective, or why such
+evidence would not be relevant to proving that a plaintiff “was
+arrested when otherwise similarly situated individuals not engaged
+in the same sort of protected speech had not been.” Nieves,
+587 U. S., at 407.
+
+

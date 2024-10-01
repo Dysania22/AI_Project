@@ -1,0 +1,117 @@
+::decision_cite:: 22-193
+::decision_name::  Muldrow v. City of St. Louis
+::decision_year:: 2024
+::opinion_author:: Kavanaugh
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–193
+
+															_________________
+
+															Jatonya Clayborn Muldrow, PETITIONER v.
+City of St. Louis, Missouri, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the eighth circuit
+
+															[April 17, 2024]
+
+															
+
+															Justice Kavanaugh, concurring in the
+judgment.
+
+															Title VII of the Civil Rights Act of 1964 makes
+it unlawful for an employer “to discriminate against any individual
+with respect to his compensation, terms, conditions, or privileges
+of employment, because of such individual’s race, color, religion,
+sex, or national origin.” 42 U. S. C. §2000e–2(a)(1). The
+question presented in this case is whether transferring an
+employee—for example, changing an employee’s job responsibilities
+or job location—on the basis of race, color, religion, sex, or
+national origin violates Title VII. The answer is yes.
+
+															I therefore agree with the straightforward
+opinion jointly authored by Judge Tatel and Judge Ginsburg for the
+en banc D. C. Circuit. See Chambers v. District of
+Columbia, 35 F. 4th 870 (2022). As that court explained,
+even when a transfer does not change an employee’s compensation, a
+transfer does change the employee’s terms, conditions, or
+privileges of employment. See id., at 874–879. Therefore, a
+transfer made on the basis of the employee’s race, color, religion,
+sex, or national origin violates Title VII. See id., at
+874–875.
+
+															As I see it and as the D. C. Circuit saw
+it, the issue here is not complicated. Suppose that an employer
+says to an employee in the Columbus office: “We are transferring
+you to the Cincinnati office because you are black. But your
+compensation will not change.” Does that violate Title VII? Of
+course it does. To begin with, the employer has treated the
+employee differently because of race. To be sure, the fact that a
+transfer may not involve a change in compensation can affect the
+amount of any damages, as Muldrow’s attorney acknowledged. See Tr.
+of Oral Arg. 41–42. But a transfer changes the terms, conditions,
+or privileges of employment. Therefore, a discriminatory transfer
+violates the statute. “The plain text of Title VII requires no
+more.” Chambers, 35 F. 4th, at 875.[1]
+
+															Unlike the D. C. Circuit, some Courts of
+Appeals have held that discriminatory transfers are not prohibited
+by Title VII unless the transfer also causes significant employment
+disadvantage. Ante, at 4–5, n. 1. Today, this Court
+definitively rejects those rulings. Ante, at 6, 7,
+n. 2. I fully agree with the Court on that point.
+
+															But the Court’s opinion then goes on to require
+that a plaintiff in a discriminatory-transfer case show at least
+“some harm” beyond the harm of being transferred on the basis of
+race, color, religion, sex, or national origin. Ante, at 6.
+I disagree with the Court’s new some-harm requirement. No court has
+adopted a some-harm requirement, and no party or amicus
+advocated that requirement to this Court. More to the point, the
+text of Title VII does not require a separate showing of some harm.
+The discrimination is harm. The only question then is whether the
+relevant employment action changes the compensation, terms,
+conditions, or privileges of employment. A transfer does so.
+Therefore, as the D. C. Circuit explained, a transfer on the
+basis of race, color, religion, sex, or national origin is
+actionable under Title VII. Chambers, 35 F. 4th, at
+874–879.
+
+															All of that said, the Court’s new some-harm
+requirement appears to be a relatively low bar. Importantly, the
+Court emphasizes that “some harm” is less than significant harm,
+serious harm, or substantial harm. Ante, at 6. Therefore,
+anyone who has been transferred because of race, color, religion,
+sex, or national origin should easily be able to show some
+additional harm—whether in money, time, satisfaction, schedule,
+convenience, commuting costs or time, prestige, status, career
+prospects, interest level, perks, professional relationships,
+networking opportunities, effects on family obligations, or the
+like. So even though I respectfully disagree with the Court’s new
+some-harm requirement, I expect that the Court’s approach and my
+preferred approach will land in the same place and lead to the same
+result in 99 out of 100 discriminatory-transfer cases, if not in
+all 100.
+
+Notes
+1
+ To be sure, the
+employment action in a transfer case must actually be a transfer
+(or denied transfer), which requires a change (or denied change) in
+the compensation, terms, conditions, or privileges of employment.
+See Brief for District of Columbia et al. as Amici Curiae
+17–18. There may be edge cases about what qualifies as a transfer.
+But as the Solicitor General notes, a change in an employee’s job
+location or job responsibilities readily qualifies. See Brief for
+United States as Amicus Curiae 11, 22.
+
+

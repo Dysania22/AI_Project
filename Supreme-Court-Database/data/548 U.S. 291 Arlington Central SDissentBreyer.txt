@@ -1,0 +1,8 @@
+::decision_cite:: 548 U.S. 291
+::decision_name::  Arlington Central School Dist. Bd. of Ed. v. Murphy
+::decision_year:: 2006
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+

@@ -1,0 +1,110 @@
+::decision_cite:: 22-193
+::decision_name::  Muldrow v. City of St. Louis
+::decision_year:: 2024
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–193
+
+															_________________
+
+															Jatonya Clayborn Muldrow, PETITIONER v.
+City of St. Louis, Missouri, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the eighth circuit
+
+															[April 17, 2024]
+
+															
+
+															Justice Thomas, concurring in the
+judgment.
+
+															I agree with Justice Alito that the Courts of
+Appeals all appear to articulate the same principle, but with
+slightly varying verbal formulations: A plaintiff bringing a claim
+under 42 U. S. C. §2000e–2(a)(1) must show harm that is
+more than trifling. Post, at 1–2 (opinion concurring in
+judgment). And, there is little practical difference between that
+principle and the Court’s holding. Ante, at 1 (holding that
+an employee “must show some harm”).
+
+															I am not convinced, however, that the Court
+accurately characterizes the Eighth Circuit’s decision. I do not
+read the Eighth Circuit to have necessarily imposed a
+heightened-harm requirement in the form of a “significance” test.
+The Eighth Circuit defined an adverse employment action as “a
+tangible change in working conditions that produces a material
+employment disadvantage.” 30 F. 4th 680, 688 (2022) (internal
+quotation marks omitted). It further explained that “minor changes
+in duties or working conditions, even unpalatable or unwelcome
+ones, which cause no materially significant disadvantage, do not
+rise to the level of an adverse employment action.” Ibid.
+(alteration and internal quotation marks omitted). In other words,
+a plaintiff must have suffered an actual disadvantage as compared
+to minor changes—i.e., more than a trifling harm. That
+standard aligns with the Court’s observation that a plaintiff must
+show “some ‘disadvantageous’ change in an employment term or
+condition.” Ante, at 5 (quoting Oncale v.
+Sundowner Offshore Services, Inc., 523 U.S.
+75, 80 (1998)).
+
+															The Court insists that the Eighth Circuit must
+have demanded more given the weight of Muldrow’s allegations.
+Specifically, the Court underscores Muldrow’s claims that the City
+of St. Louis “moved [her] from a plainclothes job in a
+prestigious specialized division” with a take-home car and a
+regular schedule, to a “uniformed job supervising one district’s
+patrol officers,” with no take-home car and an irregular schedule.
+Ante, at 10. But, most of those allegations are forfeited or
+attributable to a nonparty, the Federal Bureau of Investigation.
+See 2020 WL 5505113, *9, n. 20 (ED Mo., Sept. 11, 2020)
+(observing that Muldrow did not raise arguments based on “having to
+return her take-home [car],” “changes to her schedule, including
+having to work weekends,” or “having to work in plain clothes”); 30
+F. 4th, at 689 (concluding that “the FBI had the sole
+authority to revoke” Muldrow’s plainclothes and take-home car
+privileges). Before the Eighth Circuit, Muldrow argued only that
+the City moved her to a job that was “more administrative and less
+prestigious.” Id., at 688. Her “only evidence” in support of
+that argument was “her own deposition testimony,” which neither the
+District Court nor the Eighth Circuit found persuasive.
+Ibid. And, Muldrow’s testimony certainly did not establish
+any “proof of harm resulting from [her] reassignment.” Ibid.
+After the transfer, Muldrow’s “pay and rank remained the same, she
+was given a supervisory role, and she was responsible for
+investigating violent crimes, such as homicides and robberies.”
+Ibid. Muldrow even conceded that the transfer “did not harm
+her future career prospects.” Ibid. At most, then, Muldrow
+“expresse[d] a mere preference for one position over the other.”
+Id., at 689.
+
+															Muldrow failed to prove that there was any
+nontrifling change in her job’s prestige—which was her lone theory
+of harm. Id., at 688–689. The Eighth Circuit rejected
+Muldrow’s adverse employment action claim accordingly. I fail to
+see how the Eighth Circuit’s reasoning—that a plaintiff must offer
+colorable evidence of harm—is equivalent to the heightened-harm
+requirement the Court concludes the Eighth Circuit applied.
+Ante, at 10 (agreeing that “[t]he transfer must have left
+[Muldrow] worse off ”).
+
+															All that said, I recognize that the terms
+“material” and “significant” can (but do not always) imply a
+heightened-harm requirement. Although I find it unlikely, it is
+possible that the Eighth Circuit had such a stringent test in mind
+when it stated that a plaintiff must show a “ ‘materially
+significant disadvantage.’ ” 30 F. 4th, at 688. I thus
+agree to vacate and remand to the extent the Eighth Circuit’s
+analysis is inconsistent with a more-than-trifling-harm
+requirement.
+
+													

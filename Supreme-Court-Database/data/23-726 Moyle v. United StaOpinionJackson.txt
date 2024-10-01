@@ -1,0 +1,324 @@
+::decision_cite:: 23-726
+::decision_name::  Moyle v. United States
+::decision_year:: 2024
+::opinion_author:: Jackson
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 23–726 and 23–727
+
+															_________________
+
+															Mike Moyle, Speaker of the Idaho House
+of Representatives, et al., PETITIONERS
+
+															23–726v.
+
+															United States
+
+															
+
+															Idaho, PETITIONER
+
+															23–727v.
+
+															UNITED STATES
+
+															on writs of certiorari to the united states
+court of appeals for the ninth circuit
+
+															[June 26, 2024]
+
+															
+
+															Justice Jackson, concurring in part and
+dissenting in part.
+
+															In 1986, Congress passed the Emergency Medical
+Treatment and Labor Act (EMTALA), which requires hospitals to
+provide stabilizing treatment when patients present with emergency
+medical conditions. See 42 U. S. C. §1395dd. Sometimes,
+an abortion is the only way to stabilize a patient and, therefore,
+comply with EMTALA. But Idaho law prohibits abortions unless the
+treating physician believes that the abortion is “necessary to
+prevent the [patient’s] death.” Idaho Code Ann. §18–622(2)(a)(i)
+(Supp. 2023).
+
+															Recognizing the clear conflict between EMTALA
+and Idaho law, a Federal District Judge issued an injunction that
+had the effect of ensuring that Idaho physicians would be able to
+provide the abortion care EMTALA requires. Five months ago, this
+Court stayed that injunction. As a legal matter, this Court’s stay
+meant that unless a doctor could actually say that the abortion was
+necessary to prevent a patient’s death, that doctor could no longer
+provide abortion care that she viewed as reasonably necessary to
+keep a patient from losing her uterus, going into organ failure, or
+avoiding any number of other serious health risks. Compare
+§18–622(a)(i) with 42 U. S. C. §1395dd(e)(1)(A). As a
+practical matter, this Court’s intervention meant that Idaho
+physicians were forced to step back and watch as their patients
+suffered, or arrange for their patients to be airlifted out of
+Idaho.
+
+															This months-long catastrophe was completely
+unnecessary. More to the point, it directly violated federal law,
+which in our system of government is supreme. See Art. VI,
+cl. 2. As Justice Kagan explains, EMTALA plainly requires
+doctors to provide medically necessary stabilizing abortions in
+limited situations. See ante, at 4–6 (concurring opinion).
+To the extent that Idaho law conflicts with EMTALA, the State’s law
+must give way. I join in Justice Kagan’s statutory analysis, see
+ibid., and I concur in the Court’s per curiam
+decision to lift its stay, which should not have been entered in
+the first place. I dissent in part because, in my view, the Court
+is wrong to dismiss these cases as improvidently granted.
+
+															I
+
+															This Court typically dismisses cases as
+improvidently granted based on “circumstances . . . which
+‘were not . . . fully apprehended at the time certiorari
+was granted.’ ” The Monrosa v. Carbon Black Export,
+Inc., 359 U.S.
+180, 183 (1959) (some alterations in original). This procedural
+mechanism should be reserved for that end—not turned into a tool
+for the Court to use to avoid issues that it does not wish to
+decide.
+
+															The reasons that justified our grant of
+certiorari in these cases still hold true today. See this Court’s
+Rule 11. The importance of recognizing Congress’s judgments in
+EMTALA remains as imperative as ever. The United States is still
+hamstrung in its ability to enforce federal law while States pass
+laws that effectively nullify EMTALA’s requirements. And, on the
+ground, healthcare providers “have been all but paralyzed by legal
+uncertainties,” placing pregnant patients at risk while they are
+waiting to be transferred out of State to receive the care they
+need. Brief for St. Luke’s Health System as Amicus Curiae
+14–15.
+
+															If anything, the need for a clear answer to the
+Supremacy Clause question has only increased in the intervening
+months. Other States across the country have enacted legislation
+that gives rise to the same sort of legal conflict that Idaho has
+created. This pre-emption issue is not going away anytime soon and
+will most certainly return to this Court. Indeed, it already has.
+Just three days before we granted this petition, the Fifth Circuit
+decided a similar case, affirming a permanent injunction that
+prevents the United States from enforcing EMTALA’s requirements
+with respect to stabilizing emergency abortions prohibited by Texas
+law. See Texas v. Becerra, 89 F. 4th 529, 533
+(2024). The United States has already petitioned for certiorari in
+that case. See Pet. for Cert. in Becerra v. Texas,
+O. T. 2023, No. 23–1076.
+
+															Nor has there been any change in today’s cases
+that might eliminate or undermine the need for this Court’s review.
+The Government continues to maintain (correctly, in my view) that
+EMTALA’s plain text requires hospitals to provide certain emergency
+abortions when doing so is the only way to stabilize an emergency
+condition. Brief for United States 12–20. Idaho continues to
+criminalize the provision of such abortions unless doing so is
+necessary to prevent the patient’s death. Idaho Code Ann.
+§18–622(2)(a)(i). And both Idaho and the United States still agree
+that Idaho law directly criminalizes emergency care that the
+Federal Government reads EMTALA to require. See Tr. of Oral Arg.
+16–17, 65–66. Idaho’s lawyers may have changed their tune about the
+exact types of medical care that fall in the gap between state and
+federal law, but the fundamentals of this dispute remain the
+same.
+
+															II
+
+															Most importantly, as Justice Kagan observes,
+the conflict between the state and federal law—as they are actually
+being interpreted and applied on the ground—is both substantial and
+significant. Ante, at 4–6. It is a clash that clearly exists
+despite the attempt by Idaho’s counsel to muddy the waters
+concerning the scope of the State’s law.
+
+															The textual conflict is plain. EMTALA requires
+stabilizing treatment if a patient has an acute medical condition
+that is so severe “that the absence of immediate medical attention
+could be reasonably expected to” either result in a serious health
+risk, or seriously threaten bodily functions or organs. 42
+U. S. C. §§1395dd(b)(1), (e)(1)(A). In such cases, EMTALA
+requires hospitals “to provide such medical treatment of the
+condition as may be necessary to assure, within reasonable medical
+probability, that no material deterioration of the condition is
+likely to . . . occur.” §1395dd(e)(3)(A). Idaho’s broad
+criminalization of abortion—unless the treating physician believes
+that the abortion is “necessary to prevent the [patient’s] death,”
+Idaho Code Ann. §18–622(2)(a)(i)—conflicts with the text of EMTALA.
+Put simply, under federal law, a hospital must provide an
+emergency abortion that is reasonably necessary to preserve a
+patient’s health within the meaning of EMTALA. But, under Idaho
+law, a doctor cannot provide this care (required by federal law)
+without committing a criminal act.
+
+															From the beginning of this litigation, the
+United States has emphasized the host of emergency medical
+conditions that require stabilizing abortions—even when the
+procedure is not necessarily life saving. That list includes
+pre-eclampsia, preterm premature rupture of the membranes (PPROM),
+sepsis, and placental abruption, to name just a few examples.
+Having now been sued over its interference with EMTALA’s
+protections for people experiencing these conditions, Idaho has
+shifted its position, both here and before the District Court,
+recharacterizing abortions in these scenarios as life-saving care
+permitted under Idaho law.
+
+															Some of my colleagues appear to view this
+convenient rhetorical maneuver as a material change that (also
+conveniently) reduces the conflict between state and federal law to
+the point that a ruling from this Court is no longer warranted. See
+ante, at 6–7 (Barrett, J., concurring). But it is both
+legally and factually implausible to say that Idaho’s current
+litigating position actually mitigates the conflict between that
+State’s law and EMTALA.
+
+															The conflict between state and federal law still
+exists—in real life. Idaho cannot credibly maintain that its law
+always permits abortions in cases of PPROM or pre-eclampsia
+such that its mandate never conflicts with federal law. The
+same medical condition can present with different risks in
+different patients. See, e.g., Brief for Physicians
+for Reproductive Health as Amicus Curiae 10–11; Brief for
+Physicians for Human Rights as Amicus Curiae 11–19. And,
+often, a doctor simply does not know what the risks are or whether
+a patient might face death. See Tr. of Oral Arg. 103–104; 2 App.
+615–617. Such a doctor, observing the different legal thresholds
+for action under state and federal law—not to mention the severe
+criminal penalties for a miscalculation—would surely be cowed into
+not providing abortion care that medical standards warrant and
+federal law requires. Do not take my word for this; it is
+already happening.[1]* So
+it is strange, to say the least, that this Court would shirk its
+duty to resolve a pressing legal issue on the basis of
+representations that defy medical realities.
+
+															In any event, the representations Idaho’s
+counsel made during oral argument and in the State’s briefs filed
+in this Court are not a definitive interpretation of Idaho law.
+That authority remains with the Idaho Supreme Court, which has
+never endorsed the State’s position. To the contrary, the Idaho
+Supreme Court has emphasized that, to avoid criminal liability, a
+doctor must subjectively believe that an abortion is necessary to
+prevent death. Planned Parenthood Great Northwest v.
+State, 171 Idaho 374, 445–446, 522 P.3d 1132, 1203–1204
+(2023). And that is to say nothing of local prosecutors, who may
+not be aware of (or care about) Idaho’s newfound interpretation of
+its abortion ban, and who are highly incentivized to enforce the
+law to the hilt. See Idaho Code Ann. §63–3642 (Supp. 2023)
+(withholding funding from local governments if their officials
+decline to enforce Idaho felony laws, which include these felony
+abortion laws); see also Brief for Idaho Coalition for Safe
+Healthcare, Inc., as Amicus Curiae 14–24 (discussing myriad
+ways in which state and local officials in Idaho have targeted
+physicians). Still, some of my colleagues latch onto the bald
+representations of Idaho’s counsel, using them as an escape hatch
+that justifies our dispensing with having to issue a merits ruling
+in these cases.
+
+															We cannot simply wind back the clock to how
+things were before the Court injected itself into this matter. Our
+intervention has already distorted this litigation process. We
+permitted Idaho’s law to go into effect by staying the District
+Court’s injunction in the first place, then allowed this matter to
+sit on our merits docket for five months while we considered the
+question presented. It is too little, too late for the Court to
+take a mulligan and just tell the lower courts to carry on as if
+none of this has happened. As the old adage goes: The Court has
+made this bed so now it must lie in it—by proceeding to decide the
+merits of the critical pre-emption issue this case presents.
+
+															We have granted certiorari and heard argument.
+We have had ample opportunity to consider the issues. The parties
+were well represented on both sides, and dozens of amici
+have weighed in. What is more, the necessary legal reasoning is
+straightforward, and the answer to the question presented is—or at
+least should be—quite clear: Idaho law prohibits what federal law
+requires, so to that extent, under the Supremacy Clause, Idaho’s
+law is pre-empted. See Mutual Pharmaceutical Co. v.
+Bartlett, 570 U.S.
+472, 479–480 (2013) (“[I]t has long been settled that state
+laws that conflict with federal laws are ‘without effect’ ”
+(quoting Maryland v. Louisiana, 451 U.S.
+725, 746 (1981))). There is simply no good reason not to
+resolve this conflict now.
+
+															*  *  *
+
+															Despite the clarity of the legal issue and the
+dire need for an answer from this Court, today six Justices refuse
+to recognize the rights that EMTALA protects. See ante, at
+4–7 (Barrett, J., concurring); post, at 4–11
+(Alito, J., dissenting). The majority opts, instead, to
+dismiss these cases. But storm clouds loom ahead. Three Justices
+suggest, at least in this context, that States have free rein to
+nullify federal law. See post, at 11–14 (Alito, J.,
+dissenting). And three more decline to disagree with those
+dissenters on the merits. See ante, at 4–7
+(Barrett, J., concurring). The latter group offers only
+murmurs that “petitioners have raised a difficult and consequential
+argument” about Congress’s authority under the Spending Clause.
+Ante, at 6 (Barrett, J., concurring). So, as of today,
+the Court has not adopted Idaho’s farfetched theories—but it has
+not rejected them either.
+
+															Instead, the Court puts off the decision. But
+how long must pregnant patients wait for an answer? Until we
+confront the pending petition that the Government filed with us
+after the Fifth Circuit enabled Texas’s flouting of EMTALA? Until
+these very cases return to us in a few years? Will this Court just
+have a do-over, rehearing and rehashing the same arguments we are
+considering now, just at a comparatively more convenient point in
+time? Or maybe we will keep punting on this issue altogether,
+allowing chaos to reign wherever lower courts enable States to
+flagrantly undercut federal law, facilitating the suffering of
+people in need of urgent medical treatment.
+
+															After today, there will be a few months—maybe a
+few years—during which doctors may no longer need to airlift
+pregnant patients out of Idaho. As Justice Kagan emphasizes,
+portions of Idaho’s law will be preliminarily enjoined (at least
+for now). Ante, at 2, 4. But having not heard from this
+Court on the ultimate pre-emption issue, Idaho’s doctors will still
+have to decide whether to provide emergency medical care in the
+midst of highly charged legal circumstances with no guarantee that
+this fragile detente over the State’s categorical prohibitions will
+be maintained. Cf. ante, at 8 (Barrett, J., concurring)
+(“Even with the preliminary injunction in place, Idaho’s ability to
+enforce its law remains almost entirely intact”).
+
+															So, to be clear: Today’s decision is not a
+victory for pregnant patients in Idaho. It is delay. While this
+Court dawdles and the country waits, pregnant people experiencing
+emergency medical conditions remain in a precarious position, as
+their doctors are kept in the dark about what the law requires.
+This Court had a chance to bring clarity and certainty to this
+tragic situation, and we have squandered it. And for as long as we
+refuse to declare what the law requires, pregnant patients in
+Idaho, Texas, and elsewhere will be paying the price. Because we
+owe them—and the Nation—an answer to the straightforward
+pre-emption question presented in these cases, I respectfully
+dissent.
+
+Notes
+1
+*See Brief for Idaho Coalition
+for Safe Healthcare, Inc., as Amicus Curiae 7–13 (providing
+examples in Idaho where doctors’ lack of certainty prevented them
+from providing medically necessary abortions); see also Brief for
+St. Luke’s Health System as Amicus Curiae 14–16 (same);
+Brief for Amanda Zurawski et al. as Amici Curiae 29–30
+(same); Brief for Physicians for Human Rights as Amicus
+Curiae 12–17 (same).
+
+

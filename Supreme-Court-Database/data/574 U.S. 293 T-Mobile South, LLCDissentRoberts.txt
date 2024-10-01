@@ -1,0 +1,304 @@
+::decision_cite:: 574 U.S. 293
+::decision_name::  T-Mobile South, LLC v. City of Roswell
+::decision_year:: 2015
+::opinion_author:: Roberts
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–975
+
+															_________________
+
+															T-MOBILE SOUTH, LLC, PETITIONER v.CITY OF ROSWELL,
+GEORGIA
+
+															on writ of certiorari to the united states court of appeals for
+the eleventh circuit
+
+															[January 14, 2015]
+
+															Chief Justice Roberts, with whom Justice Ginsburg joins,
+and with whom Justice Thomas joins as to Part I,
+dissenting.
+
+															The statute at issue in this case provides that “[a]ny decision
+. . . to deny a request . . . shall be in
+writing and supported by substantial evidence contained in a
+written record.”47 U. S. C. §332(c)(7)(B)(iii). The Court
+concludes that the City loses this case not because it failed to
+provide its denial in writing. It did provide its denial in
+writing. Nor does the City lose because the denial was not
+supported by substantial evidence in a written record. The City
+compiled a written record; whether that record contained
+substantial evidence supporting the denial is not at issue here and
+has not been decided. Nor does the City lose because its denial was
+not accompanied by a statement of reasons apart from the written
+record. A sharp conflict had developed in the lower courts over the
+necessity of such a separate statement, and the Court today
+squarely holds that one is not required. Ante, at 5, 8–11.
+No, the City instead loses because of a question of timing: The
+written record was not made available roughly the same day as the
+denial—a requirement found nowhere in the text of the statute.
+
+															The Court says this timing requirement is necessary for judicial
+review of whether the denial is supported by substantial evidence.
+A reviewing court, however, can carry out its function just as
+easily whether the record is submitted four weeks or four days
+before the lawsuit is filed—or four days after, for that
+matter. The Court also supports its timing rule by saying that the
+company whose application is denied needs the time to carefully
+consider whether to seek review. But cell service providers are not
+Mom and Pop operations. As this case illustrates, they participate
+extensively in the local government proceedings, and do not have to
+make last-second, uninformed decisions on whether to seek
+review.
+
+															The City here fully complied with its obligations under the
+statute: It issued its decision in writing, and it sub-mitted a
+written record containing—so far as we know—substantial evidence
+supporting that decision. I respectfully dissent from the Court’s
+contrary conclusion.
+
+															I
+
+															Section 332(c)(7), enacted as part of the Telecommunications Act
+of 1996, places several limits on local governments’ authority to
+regulate the siting of cell towers and other telecommunications
+facilities. A locality’s regulations must not unreasonably
+discriminate among service providers, effectively prohibit the
+provision of service, or rest on concerns about the environmental
+effects of radio emissions. See §§332(c)(7)(B)(i), (iv). In
+addition, the provision central to this case specifies that “[a]ny
+decision by a State or local government . . . to deny a
+request to place, construct, or modify” a cell tower “shall be in
+writing and supported by substantial evidence contained in a
+written record.” §332(c)(7)(B)(iii). And another provision
+authorizes expedited judicial review of a locality’s alleged
+failure to comply with these rules. See §332(c)(7)(B)(v).
+
+															After the city council of Roswell voted to deny T-Mobile’s
+application to build a cell tower, the City sent T-Mobile a short
+letter that announced the denial but provided no further
+explanation. The question T-Mobile has presented to this Court is
+whether such a letter satisfies the “decision . . . in
+writing” requirement of Section 332(c)(7)(B)(iii). See Pet. for
+Cert. i.
+
+															I would hold it does. The City’s letter was certainly in
+writing. And it certainly memorialized the denial of T-Mobile’s
+application. So T-Mobile’s only hope is that the lack of
+explanation for the denial means the letter isnot truly a
+“decision.” But like the majority, I reject T-Mobile’s contention
+that the term “decision” inherently demands a statement of reasons.
+Dictionary definitions support that conclusion. See ante, at
+12 (citing Black’s Law Dictionary); see also B. Garner, A
+Dictionary of Modern Legal Usage 251 (2d ed. 1995) (grouping
+“decision” with “judgment,” as distinct from “opinion”).
+
+															A comparison between Section 332(c)(7)(B)(iii) and other
+statutory provisions that were on the books in 1996 also suggests
+that when Congress wants decisionmakers to supply explanations, it
+says so. Consider first the Administrative Procedure Act. In the
+context of formal adjudication and rulemaking, it demands that
+“decisions . . . include a statement of . . .
+findings and conclusions, and the reasons or basis therefor,
+on all the material issues.”5 U. S. C. §557(c)(A) (1994
+ed.) (emphasis added). Even in informal proceedings, an agency must
+give prompt notice of the denial of a written application, and,
+“[e]xcept in affirming a prior denial or when the denial is
+self-explanatory, the notice shall be accompanied by a brief
+statement of the grounds for denial.” §555(e) (emphasis
+added).
+
+															The Communications Act of 1934, which the Telecommunications Act
+overhauled, itself contains a similar express requirement. Section
+309 allows an interested party to petition the Federal
+Communications Commission to deny a license application.47
+U. S. C. §309(d)(1) (1994 ed.). If the FCC decides to
+grant an application despite such a petition, it must “issue a
+concise statement of the reasons for denying the petition.”
+§309(d)(2). And a provision added along with Section 332(c)(7) in
+the Telecommunications Act provides that when the FCC grants or
+denies a petition for regulatory forbearance, it “shall
+explain its decision in writing.” §160(c) (2000 ed.)
+(emphasis added). Many other statutes in effect in 1996 could be
+added to the list. See, e.g., 19 U. S. C. §1515(a)
+(1994 ed.) (notice of customs protest denial “shall include a
+statement of the reasons for the denial”);30 U. S. C.
+§944 (1994 ed.) (individual whose claim for black lung benefits “is
+denied shall receive . . . a written statement of the
+reasons for denial”);38 U. S. C. §5104(b) (1994 ed.)
+(notice of denial of veterans benefits must include “a statement of
+the reasons for the decision”).
+
+															Given the commonplace nature of express requirements that
+reasons be given—and the inclusion of such provisions in the
+Administrative Procedure Act, the original Communications Act, and
+another provision of the Telecommunications Act—the absence of one
+in Section 332(c)(7)(B)(iii) is telling, and supports reading
+“decision . . . in writing” to demand nothing more than
+what it says: a written document that communicates the town’s
+denial.
+
+															In my view, resolving that interpretive question in the City’s
+favor also resolves the case as it stands in this Court. Although
+Section 332(c)(7)(B)(iii) goes on to require that a denial be
+“supported by substantial evidence contained in a written record,”
+the adequacy of the City’s written record is not properly before
+us. As the Eleventh Circuit noted in its opinion below, the “sole
+issue” before it was the “in writing” requirement; it did not
+examine whether the City’s denial was supported by substantial
+evidence. 731 F. 3d 1213, 1221, n. 7 (2013). The Court
+today also—correctly—does not decide whether substantial evidence
+supported the City’s denial. The Eleventh Circuit’s judgment
+therefore ought to be affirmed and the case remanded to the
+District Court for further proceedings on T-Mobile’s remaining
+challenges.
+
+															II
+
+															The Court agrees that the City was not required to explain its
+reasoning in its denial letter, but it nonetheless rules for
+T-Mobile. The improbable linchpin of this outcome is the City’s
+failure to finalize the minutes of the April 12 city council
+meeting until May 10. Improbable because, so far as I can tell,
+T-Mobile never even mentioned this timeline, let alone based an
+argument on it, in its filings in the lower courts or its petition
+for certiorari. Nor did the Eleventh Circuit address this timing
+question in any way. Cf. Zivotofsky v. Clinton, 566
+U. S. ___, ___ (2012) (slip op., at 12) (“Ordinarily, we do
+not decide in the first instance issues not decided below.”
+(internal quotation marks omitted)).
+
+															The Court nonetheless rules against Roswell on this ground,
+proceeding in two steps: First it concludes that a town must
+provide written reasons in some form (the minutes being the
+only candidate here); then it decides a town must make those
+reasons available “essentially contemporaneously” with its decision
+(the final minutes were not). Ante, at 14. In my view, the
+first step is justified by the statutory text, but the second is
+not.
+
+															The need to provide reasons in some form follows from the
+portion of Section 332(c)(7)(B)(iii) requiring that denials be
+“supported by substantial evidence contained in a written record.”
+Like the majority, I read this phrase as specifying a familiar
+standard of review to be used if a denial is challenged in court.
+And like the majority, I agree that substantial evidence review
+requires that a decisionmaker’s reasons be identifiable in the
+written record. If a reviewing court cannot identify any of a
+town’s reasons for denying an application, it cannot determine
+whether substantial evidence supports those reasons, and the town
+loses.
+
+															But then the Court goes a step further and creates a timing
+rule: A town must provide “its written reasons at essentially the
+same time as it communicates its denial.” Ante, at 10. This
+timing rule is nowhere to be found in the text of Section
+332(c)(7)(B)—text that expressly establishes other time
+limits, both general and specific. See §332(c)(7)(B)(ii) (requiring
+localities to act on siting requests “within a reasonable period of
+time”); §332(c)(7)(B)(v) (giving injured parties 30 days to seek
+judicial review). Despite its assertion that the statute’s
+“enumerated limitations” constitute “an exclusive list,”
+ante, at 9, the Court offers two justifications for its
+inference of this additional, unenumerated limitation.
+
+															The first is that “a court cannot review the denial without
+knowing the locality’s reasons,” so it would “stymie” judicial
+review to allow delay between the issuance of the decision and the
+statement of reasons. Ante, at 10. This makes little sense.
+The Court’s “essentially contemporaneous” requirement presumably
+means the town must produce its reasons within a matter of days
+(though the majority never says how many). But a reviewing court
+does not need to be able to discern the town’s reasons within mere
+days of the decision. At that point no one has even asked the court
+to review the denial. The fact that a court cannot conduct review
+without knowing the reasons simply means that if the town has not
+already made the record available, it must do so by whatever
+deadline the court sets. The court should proceed “on an expedited
+basis,” §332(c)(7)(B)(v), but that hardly means it will need the
+record within days of the town’s decision. And in this case there
+is no indication that the City’s submission of the written record
+was untimely or delayed the District Court’s review.
+
+															The Court’s second justification focuses on the denied
+applicant, which must choose within 30 days from the denial whether
+to take the town to court. §332(c)(7)(B)(v). “[W]ithout knowing the
+locality’s reasons,” the majority says, the applicant “may not be
+able to make a considered decision whether to seek judicial
+review.” Ante, at 10. This concern might have force if towns
+routinely made these decisions in secret, closed-door proceedings,
+or if applicants were unsophisticated actors. But the local zoning
+board or town council is not the Star Chamber, and a
+telecommunications company is no babe in the legal woods. Almost
+invariably in cases addressing Section 332(c)(7), the relevant
+local authority has held an open meeting at which the applicant was
+present and the issues publicly aired. In this case and others,
+T-Mobile has brought its own court reporter, ensuring that it has a
+verbatim transcript of the meeting well before the town is likely
+to finalize its minutes. See Brief for Petitioner 12, n. 2;
+T-Mobile South, LLC v. City of Milton, Georgia, 728
+F. 3d 1274, 1277 (CA11 2013). I strongly doubt that a
+sophisticated, well-lawyered company like T-Mobile—with extensive
+experience with these particular types of proceedings—would have
+any trouble consulting its interests and deciding whether to seek
+review before it had received a written explanation from the town.
+The Court worries about towns “sandbagg[ing]” companies with
+unexpected reasons, ante, at 10, n. 3, but if those
+reasons in fact come out of nowhere, they will not be supported by
+substantial evidence in the record. And if the company’s initial
+complaint mistakes the town’s reasoning, the company will have no
+difficulty amending its allegations. See Fed. Rule Civ. Proc.
+15(a).
+
+															In sum, there is nothing impractical about reading the statutory
+text to require only that the reasons implied by the term
+“substantial evidence” be discernible to the court when it conducts
+substantial evidence review. Demanding “essentially
+contemporaneous” written reasons adds a requirement that Congress
+has included expressly in many other statutes, but not in this one.
+See supra, at3–4.
+
+															*  *  *
+
+															For the foregoing reasons, the Court’s opinion and judgment are
+wrong. But this is not a “the sky is falling” dissent. At the end
+of the day, the impact on cities and towns across the Nation should
+be small, although the new unwritten requirement could be a trap
+for the unwary hamlet or two. All a local government need do is
+withhold its final decision until the minutes are typed up, and
+make the final decision and the record of proceedings (with
+discernible reasons) available together.
+
+															Today’s decision is nonetheless a bad break for Roswell. Or
+maybe not. The Court leaves open the question of remedy,
+ante, at 14, and it may be that failure to comply with the
+“in writing” requirement as construed by the Court can be excused
+as harmless error in appropriate cases. It is hard to see where the
+harm is here. T-Mobile somehow managed to make the tough call to
+seek review of the denial of an application it had spent months and
+many thousands of dollars to obtain, based on a hearing it had
+attended. And nothing about Roswell’s failure to meet the
+“contemporaneously” requirement delayed, much less “stymied,”
+judicial review.
+
+															The Court today resolves the conflict over whether a town must
+provide a statement of reasons with its final decision, apart from
+the written record. We now know it need not. As the Court explains,
+“nothing in [the] text [of the Act] imposes any requirement that
+the reasons be given in any particular form,” and there is “in the
+Act no command—either explicit or implicit—that localities must
+provide those reasons in a specific document.” Ante, at 9.
+Good analysis—which also should have been followed to reject the
+timing requirement the Court creates today.
+
+															I respectfully dissent.
+
+													

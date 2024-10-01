@@ -1,0 +1,111 @@
+::decision_cite:: 22-448
+::decision_name::  Consumer Financial Protection Bureau v. Community Financial Services Assn. of America, Ltd.
+::decision_year:: 2024
+::opinion_author:: Jackson
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–448
+
+															_________________
+
+															CONSUMER FINANCIAL PROTECTION BUREAU, et al.,
+PETITIONERS v. COMMUNITY FINANCIAL SERVICES ASSOCIATION OF
+AMERICA, LIMITED, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the fifth circuit
+
+															[May 16, 2024]
+
+															
+
+															Justice Jackson, concurring.
+
+															Today, the Court correctly concludes that, based
+on the plain meaning of the text of the Appropriations Clause, “an
+appropriation is simply a law that authorizes expenditures from a
+specified source of public money for designated purposes.”
+Ante, at 5. The statute that Congress passed to fund the
+Consumer Financial Protection Bureau easily meets the
+Appropriations Clause’s minimal requirements. See ante, at
+15. It authorizes the Bureau to withdraw money from “the combined
+earnings of the Federal Reserve System,” 12 U. S. C.
+§5497(a)(1), in order “to pay the expenses of the Bureau in
+carrying out its duties and responsibilities,” §5497(c)(1). In my
+view, nothing more is needed to decide this case.
+
+															Indeed, there are good reasons to go no further.
+When the Constitution’s text does not provide a limit to a
+coordinate branch’s power, we should not lightly assume that
+Article III implicitly directs the Judiciary to find one. The
+Constitution was “intended to endure for ages to come, and,
+consequently, to be adapted to the various crises of human
+affairs.” McCulloch v. Maryland, 4 Wheat. 316, 415
+(1819) (emphasis deleted). An essential aspect of the
+Constitution’s endurance is that it empowers the political branches
+to address new challenges by enacting new laws and policies—without
+undue interference by courts. To that end, we have made clear in
+cases too numerous to count that nothing in the Constitution gives
+federal courts “ ‘some amorphous general supervision of the
+operations of government.’ ” Raines v. Byrd,
+521 U.S.
+811, 829 (1997) (quoting United States v.
+Richardson, 418 U.S.
+166, 192 (1974) (Powell, J., concurring)). Put another way, the
+principle of separation of powers manifested in the Constitution’s
+text applies with just as much force to the Judiciary as it does to
+Congress and the Executive. See Public Workers v.
+Mitchell, 330 U.S.
+75, 90–91 (1947).
+
+															This case illustrates why. As the Court
+explains, in response to the devastation wrought by the 2008
+financial crisis, Congress passed and the President signed the
+Dodd-Frank Wall Street Reform and Consumer Protection Act. See
+ante, at 2. In that statute, Congress chose to fund the
+Bureau outside of the annual appropriations process. See
+ante, at 3. Drawing on its extensive experience in financial
+regulation, Congress designed the funding scheme to protect the
+Bureau from the risk that powerful regulated entities might capture
+the annual appropriations process. See, e.g.,
+S. Rep. No. 111–176, pp. 162–164 (2010); A. Levitin, The
+Politics of Financial Regulation and the Regulation of Financial
+Politics, 127 Harv. L. Rev. 1991, 2056–2058 (2014); R. Barkow,
+Insulating Agencies, 89 Texas L. Rev. 15, 42–45, 67, 77
+(2010); see also ante, at 4 (Kagan, J., concurring)
+(describing long history of congressional flexibility in designing
+funding schemes for financial regulators).
+
+															Respondents, two associations of payday lenders,
+represent exactly the type of entity the Bureau’s progenitors
+sought to regulate and whose influence Congress may have feared.
+See O. Bar-Gill & E. Warren, Making Credit Safer, 157 U. Pa.
+L. Rev. 1, 44–45, 55–59, 68–70 (2008). In urging us to find
+the Bureau’s funding scheme unconstitutional, then, respondents
+would not only have us find unstated limits in the Constitution’s
+text, they would have us undercut the considered judgments of a
+coordinate branch about how to respond to a pressing national
+concern.
+
+															Of course, to say that Congress had reasons for
+designing the Bureau’s funding scheme in the manner it did is not
+to endorse those policy choices. “With the wisdom of the policy
+adopted, with the adequacy or practicability of the law enacted to
+forward it, the courts are both incompetent and unauthorized to
+deal.” Nebbia v. New York, 291
+U.S. 502, 537 (1934). Instead, the Constitution places primary
+responsibility for checking the political branches with the People.
+See King v. Burwell, 576 U.S.
+473, 498 (2015) (“In a democracy, the power to make the law
+rests with those chosen by the people”). It is to them that the
+Court rightly returns any remaining policy questions posed by
+today’s case.
+
+													

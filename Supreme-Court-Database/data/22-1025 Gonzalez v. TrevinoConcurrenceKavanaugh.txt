@@ -1,0 +1,93 @@
+::decision_cite:: 22-1025
+::decision_name::  Gonzalez v. Trevino
+::decision_year:: 2024
+::opinion_author:: Kavanaugh
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–1025
+
+															_________________
+
+															SYLVIA GONZALEZ, PETITIONER v. EDWARD
+TREVINO, II, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the fifth circuit
+
+															[June 20, 2024]
+
+															
+
+															Justice Kavanaugh, concurring.
+
+															Sylvia Gonzalez was arrested for intentionally
+stealing a government record. See Tex. Penal Code Ann. §37.10(a)(3)
+(West Cum. Supp. 2023). Gonzalez sued city officials under 42
+U. S. C. §1983, alleging that she was arrested in
+retaliation for First Amendment-protected activity.
+
+															But Gonzalez conceded that city officials had
+probable cause to arrest her for intentionally removing the
+government record. (A video shows Gonzalez putting the government
+record into her binder at a city council meeting. See ante,
+at 1–4 (Alito, J., concurring).) An arrestee ordinarily cannot sue
+a public official under §1983 for retaliatory arrest if the
+official had probable cause to make the arrest. See Nieves
+v. Bartlett, 587 U.S. 391, 404 (2019). To somehow maintain
+her §1983 suit, Gonzalez invoked what is known as the Nieves
+exception. That exception applies when an individual is arrested
+for minor criminal conduct where officers “typically exercise their
+discretion not” to arrest. Id., at 406. The prime example is
+jaywalking. Id., at 407.
+
+															To come within the Nieves exception,
+Gonzalez was required to present “objective evidence” that she was
+arrested when “similarly situated individuals” who engaged in the
+same conduct would not have been arrested. Ibid. Of
+course, Gonzalez could not plausibly claim that people in Texas who
+steal things (or more precisely here, who steal government records)
+do not get arrested. Instead, she says that she took the government
+record accidentally, not intentionally, and that people who
+accidentally remove government documents are not arrested.
+
+															Properly understood, that is not a
+Nieves-exception claim at all. The Nieves exception
+is a conduct-based comparison. Only if the conduct does not usually
+trigger an arrest under any statute can you have a
+Nieves-exception claim—like jaywalking. Gonzalez’s argument
+turns not on her conduct (taking government records) but rather on
+her mens rea. She essentially argues that an objectively
+reasonable officer would have known that Gonzalez accidentally
+rather than intentionally took the government record.
+
+															When Gonzalez conceded that the officials had
+probable cause to arrest her, however, she necessarily conceded
+that the officers had probable cause to conclude that she
+“intentionally” removed the document. Tex. Penal Code Ann.
+§37.10(a)(3). That may have been an unwise concession. But it
+should have foreclosed Gonzalez’s attempt to contest her mens
+rea for purposes of her §1983 retaliatory arrest claim. And
+even if Gonzalez had not made the concession, the question here
+would be whether an objectively reasonable officer would have known
+that Gonzalez accidentally (rather than intentionally) took the
+document. In short, this is (at most) a case about probable cause
+as to mens rea, not about conduct-based comparisons. This
+case has nothing to do with the Nieves exception.
+
+															At this point, the Court’s grant of certiorari
+looks ill-advised given that the question presented about the
+Nieves exception bears no relation to the issue on which
+Gonzalez’s suit actually turns. In any event, we are where we are.
+I concur in the per curiam because the per curiam
+does not seem to say anything that is harmful to the law, even
+though the per curiam (in my view) does not really have
+anything to do with Gonzalez’s case.
+
+													

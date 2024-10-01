@@ -1,0 +1,439 @@
+::decision_cite:: 22-1074
+::decision_name::  Sheetz v. El Dorado County
+::decision_year:: 2024
+::opinion_author:: Barrett
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–1074
+
+															_________________
+
+															GEORGE SHEETZ, PETITIONER v. COUNTY OF
+EL DORADO, CALIFORNIA
+
+															on writ of certiorari to the court of appeal
+of california, third appellate district
+
+															[April 12, 2024]
+
+															
+
+															Justice Barrett delivered the opinion of the
+Court.
+
+															George Sheetz wanted to build a small,
+prefabricated home on his residential parcel of land. To obtain a
+permit, though, he had to pay a substantial fee to mitigate local
+traffic congestion. Relying on this Court’s decisions in
+Nollan v. California Coastal Comm’n, 483 U.S.
+825 (1987), and Dolan v. City of Tigard,
+512 U.S.
+374 (1994), Sheetz challenged the fee as an unlawful “exaction”
+of money under the Takings Clause. The California Court of Appeal
+rejected that argument because the traffic impact fee was imposed
+by legislation, and, according to the court, Nollan and
+Dolan apply only to permit conditions imposed on an
+ad hoc basis by administrators. That is incorrect. The Takings
+Clause does not distinguish between legislative and administrative
+permit conditions.
+
+															I
+
+															A
+
+															El Dorado County, California is a rural
+jurisdiction that lies east of Sacramento and extends to the Nevada
+border. Much of the County’s 1,700 square miles is backcountry. It
+is home to the Sierra Nevada mountain range and the Eldorado
+National Forest. Those areas, composed mainly of public lands, are
+sparsely populated. Visitors from around the world use the natural
+areas for fishing, backpacking, and other recreational
+activities.
+
+															Most of the County’s residents are concentrated
+in the west and east regions. In the west, the towns of El Dorado
+Hills, Cameron Park, and Shingle Springs form the outer reaches of
+Sacramento’s suburbs. Placerville, the county seat, lies just
+beyond them. In the east, residents live along the south shores of
+Lake Tahoe. Highway 50 connects these population centers and
+divides the County into north and south portions.
+
+															In recent decades, the County has experienced
+significant population growth, and with it an increase in new
+development. To account for the new demand on public services, the
+County’s Board of Supervisors adopted a planning document, which it
+calls the General Plan, to address issues ranging from wastewater
+collection to land-use restrictions.[1] The Board of Supervisors is a legislative body under
+state law, and the adoption of its General Plan is a legislative
+act. See Cal. Govt. Code Ann. §65300 et seq. (West
+2024).
+
+															To address traffic congestion, the General Plan
+requires developers to pay a traffic impact fee as a condition of
+receiving a building permit. The County uses proceeds from these
+fees to fund improvements to its road system. The fee amount is
+determined by a rate schedule, which takes into account the type of
+development (commercial, residential, and so on) and its location
+within the County. The amount is not based on “the cost
+specifically attributable to the particular project on which the
+fee is imposed.” 84 Cal. App. 5th 394, 402, 300 Cal. Rptr. 3d 308,
+312 (2022).
+
+															B
+
+															George Sheetz owns property in the center of
+the County near Highway 50, which the General Plan classifies as
+“Low Density Residential.” [2] Sheetz and his wife applied for a permit to build a
+modest prefabricated house on the parcel, with plans to raise their
+grandson there. As a condition of receiving the permit, the County
+required Sheetz to pay a traffic impact fee of $23,420, as dictated
+by the General Plan’s rate schedule. Sheetz paid the fee under
+protest and obtained the permit. The County did not respond to his
+request for a refund.
+
+															Sheetz sought relief in state court. He claimed,
+among other things, that conditioning the building permit on the
+payment of a traffic impact fee constituted an unlawful “exaction”
+of money in violation of the Takings Clause. In Sheetz’s view, our
+decisions in Nollan v. California Coastal Comm’n,
+483 U.S.
+825, and Dolan v. City of Tigard, 512 U.S.
+374, required the County to make an individualized
+determination that the fee amount was necessary to offset traffic
+congestion attributable to his specific development. The County’s
+predetermined fee schedule, Sheetz argued, failed to meet that
+requirement.
+
+															The trial court rejected Sheetz’s claim and the
+California Court of Appeal affirmed. Relying on precedent from the
+California Supreme Court, the Court of Appeal asserted that the
+Nollan/Dolan test applies only to permit conditions
+imposed “ ‘on an individual and discretionary basis.’ ”
+84 Cal. App. 5th, at 406, 300 Cal. Rptr. 3d, at 316 (quoting San
+Remo Hotel L. P. v. City and Cty. of San Francisco,
+
+27 Cal. 4th 643, 666–670, 
+41 P.3d 87, 102–105 (2002)). Fees imposed on “a broad class of
+property owners through legislative action,” it said, need not
+satisfy that test. 84 Cal. App. 5th, at 407, 300 Cal. Rptr. 3d, at
+316. The California Supreme Court denied review.
+
+															State courts have reached different conclusions
+on the question whether the Takings Clause recognizes a distinction
+between legislative and administrative conditions on land-use
+permits.[3] We granted
+certiorari to resolve the split. 600 U. S. ___ (2023).
+
+															II
+
+															A
+
+															When the government wants to take private
+property to build roads, courthouses, or other public projects, it
+must compensate the owner at fair market value. The just
+compensation requirement comes from the Fifth Amendment’s Takings
+Clause, which provides: “nor shall private property be taken for
+public use, without just compensation.” By requiring the government
+to pay for what it takes, the Takings Clause saves individual
+property owners from bearing “public burdens which, in all fairness
+and justice, should be borne by the public as a whole.”
+Armstrong v. United States, 364 U.S.
+40, 49 (1960).
+
+															The Takings Clause’s right to just compensation
+coexists with the States’ police power to engage in land-use
+planning. (Though at times the two seem more like in-laws than
+soulmates.) While States have substantial authority to regulate
+land use, see Village of Euclid v. Amber Realty Co.,
+272 U.S.
+365 (1926), the right to compensation is triggered if they
+“physically appropriat[e]” property or otherwise interfere with the
+owner’s right to exclude others from it, Cedar Point Nursery
+v. Hassid, 594 U.S. 139, 149–152 (2021). That sort of
+intrusion on property rights is a per se taking.
+Loretto v. Teleprompter Manhattan CATV Corp.,
+458 U.S.
+419, 426 (1982). Different rules apply to State laws that
+merely restrict how land is used. A use restriction that is
+“reasonably necessary to the effectuation of a substantial
+government purpose” is not a taking unless it saps too much of the
+property’s value or frustrates the owner’s investment-backed
+expectations. Penn Central Transp. Co. v. New York
+City, 438 U.S.
+104, 123, 127 (1978); see also Lucas v. South
+Carolina Coastal Council, 505 U.S.
+1003, 1016 (1992) (“[T]he Fifth Amendment is violated when
+land-use regulation does not substantially advance legitimate state
+interests or denies an owner economically viable use of his
+land” (internal quotation marks omitted)).
+
+															Permit conditions are more complicated. If the
+government can deny a building permit to further a “legitimate
+police-power purpose,” then it can also place conditions on the
+permit that serve the same end. Nollan, 483 U. S., at
+836. Such conditions do not entitle the landowner to compensation
+even if they require her to convey a portion of her property to the
+government. Ibid. Thus, if a proposed development will
+“substantially increase traffic congestion,” the government may
+condition the building permit on the owner’s willingness “to deed
+over the land needed to widen a public road.” Koontz v.
+St. Johns River Water Management Dist., 570 U.S.
+595, 605 (2013). We have described permit conditions of this
+nature as “a hallmark of responsible land-use policy.” Ibid.
+The government is entitled to put the landowner to the choice of
+accepting the bargain or abandoning the proposed development. See
+R. Epstein, Bargaining With the State 188 (1993).
+
+															The bargain takes on a different character when
+the government withholds or conditions a building permit for
+reasons unrelated to its land-use interests. Imagine that a local
+planning commission denies the owner of a vacant lot a building
+permit unless she allows the commission to host its annual holiday
+party in her backyard (in propertyspeak, granting it a
+limited-access easement). The landowner is “likely to accede to the
+government’s demand, no matter how unreasonable,” so long as she
+values the building permit more. Koontz, 570 U. S., at
+605. So too if the commission gives the landowner the option of
+bankrolling the party at a local pub instead of hosting it on her
+land. See id., at 612–615. Because such conditions lack a
+sufficient connection to a legitimate land-use interest, they
+amount to “an out-and-out plan of extortion.” Nollan, 483
+U. S., at 837 (internal quotation marks omitted).
+
+															Our decisions in Nollan and Dolan
+address this potential abuse of the permitting process. There, we
+set out a two-part test modeled on the unconstitutional conditions
+doctrine. See Perry v. Sindermann, 408 U.S.
+593, 597 (1972) (government “may not deny a benefit to a person
+on a basis that infringes his constitutionally protected
+interests”). First, permit conditions must have an “essential
+nexus” to the government’s land-use interest. Nollan, 483
+U. S., at 837. The nexus requirement ensures that the
+government is acting to further its stated purpose, not leveraging
+its permitting monopoly to exact private property without paying
+for it. See id., at 841. Second, permit conditions must have
+“ ‘rough proportionality’ ” to the development’s impact
+on the land-use interest. Dolan, 512 U. S., at 391. A
+permit condition that requires a landowner to give up more than is
+necessary to mitigate harms resulting from new development has the
+same potential for abuse as a condition that is unrelated to that
+purpose. See id., at 393. This test applies regardless of
+whether the condition requires the landowner to relinquish property
+or requires her to pay a “monetary exactio[n]” instead of
+relinquishing the property. Koontz, 570 U. S., at
+612–615.
+
+															B
+
+															The California Court of Appeal declined to
+assess the County’s traffic impact fee for an essential nexus and
+rough proportionality based on its view that the
+Nollan/Dolan test does not apply to “legislatively
+prescribed monetary fees.” 84 Cal. App. 5th, at 407, 300 Cal. Rptr.
+3d, at 316 (internal quotation marks omitted). That was error.
+Nothing in constitutional text, history, or precedent supports
+exempting legislatures from ordinary takings rules.
+
+															The Constitution’s text does not limit the
+Takings Clause to a particular branch of government. The Clause
+itself, which speaks in the passive voice, “focuses on (and
+prohibits) a certain ‘act’: the taking of private property without
+just compensation.” Knight v. Metropolitan Govt. of
+Nashville & Davidson Cty., 67 F. 4th 816, 829 (CA6 2023).
+It does not single out legislative acts for special treatment. Nor
+does the Fourteenth Amendment, which incorporates the Takings
+Clause against the States. On the contrary, the Amendment
+constrains the power of each “State” as an undivided whole. §1.
+Thus, there is “no textual justification for saying that the
+existence or the scope of a State’s power to expropriate private
+property without just compensation varies according to the branch
+of government effecting the expropriation.” Stop the Beach
+Renourishment, Inc. v. Florida Dept. of Environmental
+Protection, 560 U.S.
+702, 714 (2010) (plurality opinion). Just as the Takings Clause
+“protects ‘private property’ without any distinction between
+different types,” Horne v. Department of Agriculture,
+576 U.S.
+351, 358 (2015), it constrains the government without any
+distinction between legislation and other official acts. So far as
+the Constitution’s text is concerned, permit conditions imposed by
+the legislature and other branches stand on equal footing.
+
+															The same goes for history. In fact, special
+deference for legislative takings would have made little sense
+historically, because legislation was the conventional way that
+governments exercised their eminent domain power. Before the
+founding, colonial governments passed statutes to secure land for
+courthouses, prisons, and other public buildings. See,
+e.g., 4 Statutes at Large of South Carolina 319 (T.
+Cooper ed. 1838) (Act of 1770) (Cooper); 6 Statutes at Large, Laws
+of Virginia 283 (W. Hening ed. 1819) (Act of 1752) (Hening). These
+statutes “invariably required the award of compensation to the
+owners when land was taken.” J. Ely, “That Due Satisfaction May Be
+Made:” the Fifth Amendment and the Origins of the Compensation
+Principle, 36 Am. J. Legal Hist. 1, 5 (1992). Colonial practice
+thus echoed English law, which vested Parliament alone with the
+eminent domain power and required that property owners receive
+“full indemnification . . . for a reasonable price.” 1 W.
+Blackstone, Commentaries on the Laws of England 139 (1768).
+
+															During and after the Revolution, governments
+continued to exercise their eminent domain power through
+legislation. States passed statutes to obtain private land for
+their new capitals and provided compensation to the landowners.
+See, e.g., 4 Cooper 751–752 (Act of 1786); 10 Hening
+85–87 (1822 ed.) (Act of 1779). At the national level, Congress
+passed legislation to settle the Northwest Territory, which
+likewise required the payment of compensation to dispossessed
+property owners. Northwest Ordinance of 1789, 1Stat. 52. Two years
+later, the Fifth Amendment enshrined this longstanding practice.
+Against this background, it is little surprise that early
+constitutional theorists understood the Takings Clause to bind the
+legislature specifically. See, e.g., 3 J. Story,
+Commentaries on the Constitution of the United States §1784, p. 661
+(1833); 2 J. Kent, Commentaries on American Law 275–276 (1827). Far
+from supporting a deferential view, history shows that legislation
+was a prime target for scrutiny under the Takings Clause.
+
+															Precedent points the same way as text and
+history. A legislative exception to the Nollan/Dolan
+test “conflicts with the rest of our takings jurisprudence,” which
+does not otherwise distinguish between legislation and other
+official acts. Knick v. Township of Scott, 588 U.S.
+180, 185 (2019). That is true of physical takings, regulatory
+takings, and the unconstitutional conditions doctrine in which the
+Nollan/Dolan test is rooted.
+
+															Start with our physical takings cases. We have
+applied the per se rule requiring just compensation to
+both legislation and administrative action. In Loretto, we
+held that a state statute effected a taking because it authorized
+cable companies to install equipment on private property without
+the owner’s consent. 458 U. S., at 438. In Horne, we
+held that an administrative order effected a taking because it
+required farmers to give the Federal Government a portion of their
+crop to stabilize market prices. 576 U. S., at 361. The branch
+of government that authorized the appropriation did not matter to
+the analysis in either case. Nor should it have. As we have
+explained: “The essential question is not . . . whether
+the government action at issue comes garbed as a regulation (or
+statute, or ordinance, or miscellaneous decree). It is whether the
+government has physically taken property for itself or someone
+else.” Cedar Point, 594 U. S., at 149.
+
+															This principle is evident in our regulatory
+takings cases too. We have examined land-use restrictions imposed
+by both legislatures and administrative agencies to determine
+whether the restriction amounted to a taking. In Pennsylvania
+Coal Co. v. Mahon, we held a state statute effected a
+taking because it prohibited the owner of mineral rights from
+mining coal beneath the surface estate, thus depriving the mineral
+rights of practically all economic value. 260
+U.S. 393, 414 (1922). And in Palazzolo v. Rhode
+Island, we remanded for the lower courts to determine whether
+an agency decision effected a taking when it denied the owner
+permission to build a beach club on the wetland portion of his
+property but allowed him to build a home on the upland portion.
+533 U.S.
+606, 631 (2001). Here again, our decisions did not suggest that
+the outcome turned on which branch of government imposed the
+restrictions.
+
+															Excusing legislation from the
+Nollan/Dolan test would also conflict with precedent
+applying the unconstitutional conditions doctrine in other
+contexts. We have applied that doctrine to scrutinize legislation
+that placed conditions on the right to free speech, Agency for
+Int’l Development v. Alliance for Open Society Int’l,
+Inc., 570 U.S.
+205 (2013), free exercise of religion, Sherbert v.
+Verner, 374 U.S.
+398 (1963), and access to federal courts, Terral v.
+Burke Constr. Co., 257 U.S.
+529 (1922), among others, e.g., Memorial
+Hospital v. Maricopa County, 415
+U.S. 250 (1974) (right to travel). Failing to give like
+treatment to legislative conditions on building permits would thus
+“relegat[e the just compensation requirement] to the status of a
+poor relation” to other constitutional rights. Dolan, 512
+U. S., at 392.
+
+															In sum, there is no basis for affording property
+rights less protection in the hands of legislators than
+administrators. The Takings Clause applies equally to both—which
+means that it prohibits legislatures and agencies alike from
+imposing unconstitutional conditions on land-use permits.
+
+															III
+
+															The County no longer contends otherwise. In
+fact, at oral argument, the parties expressed “radical agreement”
+that conditions on building permits are not exempt from scrutiny
+under Nollan and Dolan just because a legislature
+imposed them. Tr. of Oral Arg. 4, 73–74. The County was wise to
+distance itself from the rule applied by the California Court of
+Appeal, because, as we have explained, a legislative exception to
+the ordinary takings rules finds no support in constitutional text,
+history, or precedent.
+
+															We do not address the parties’ other disputes
+over the validity of the traffic impact fee, including whether a
+permit condition imposed on a class of properties must be tailored
+with the same degree of specificity as a permit condition that
+targets a particular development. The California Court of Appeal
+did not consider this point—or any of the parties’ other nuanced
+arguments—because it proceeded from the erroneous premise that
+legislative permit conditions are categorically exempt from the
+requirements of Nollan and Dolan. Whether the
+parties’ other arguments are preserved and how they bear on
+Sheetz’s legal challenge are for the state courts to consider in
+the first instance.
+
+															*  *  *
+
+															The judgment of the California Court of Appeal
+is vacated, and the case is remanded for further proceedings not
+inconsistent with this opinion.
+
+															It is so ordered.
+
+Notes
+1
+ See County of El Dorado
+Adopted General Plan,
+https://edcgov.us/Government/planning/Pages/adopted_general_plan.aspx.
+2
+ See Figure LU–1: Land Use
+Diagram, https://edcgov.us/government/
+planning/adoptedgeneralplan/figures/documents/LU-1.pdf.
+3
+ Compare,
+e.g., Home Builders Assn. of Dayton and Miami
+Valley v. Beavercreek, 89 Ohio St. 3d 121, 128, 729
+N.E.2d 349, 356 (2000); Northern Ill. Home Builders Assn. v.
+County of Du Page, 
+165 Ill. 2d 25, 32–33, 
+649 N.E.2d 384, 389 (1995) (applying the
+Nollan/Dolan test to legislative permit conditions),
+with, e.g., St. Clair Cty. Home Builders Assn.
+v. Pell City, 61 So. 3d 992, 1007 (Ala. 2010); Home
+Builders Assn. of Central Ariz. v. Scottsdale, 187 Ariz.
+479, 486, 
+930 P.2d 993, 1000 (1997) (following California’s
+approach).
+
+

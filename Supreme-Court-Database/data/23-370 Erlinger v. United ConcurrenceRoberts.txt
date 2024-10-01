@@ -1,0 +1,38 @@
+::decision_cite:: 23-370
+::decision_name::  Erlinger v. United States
+::decision_year:: 2024
+::opinion_author:: Roberts
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 23–370
+
+															_________________
+
+															PAUL ERLINGER, PETITIONER v. UNITED
+STATES
+
+															on writ of certiorari to the united states
+court of appeals for the seventh circuit
+
+															[June 21, 2024]
+
+															Chief Justice Roberts, concurring.
+
+															I join the opinion of the Court because I agree
+that under the Fifth and Sixth Amendments, a defendant is entitled
+to have a jury determine beyond a reasonable doubt whether his
+predicate offenses were committed on different occasions for
+purposes of the Armed Career Criminal Act. But as Justice Kavanaugh
+explains, violations of that right are subject to harmless error
+review. See post, at 9–11 (dissenting opinion). The Seventh
+Circuit should thus consider on remand the Government’s contention
+that the error here was harmless.
+
+													

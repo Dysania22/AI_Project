@@ -1,0 +1,780 @@
+::decision_cite:: 22O141
+::decision_name::  Texas v. New Mexico
+::decision_year:: 2024
+::opinion_author:: Jackson
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 141, Orig.
+
+															_________________
+
+															TEXAS, PLAINTIFF v. NEW MEXICO AND
+COLORADO
+
+															on exception to third interim report of the
+special master
+
+															[June 21, 2024]
+
+															
+
+															Justice Jackson delivered the opinion of the
+Court.
+
+															The Rio Grande River begins in Colorado, flows
+through New Mexico into Texas, and then courses along the
+Texas-Mexico border. The Rio Grande Compact (Compact)—an interstate
+agreement between Colorado, New Mexico, and Texas—governs the
+“equitable apportionment” of the waters of the Rio Grande among
+those three States. To ensure that Texas receives its share of
+water, the Compact relies on the United States Bureau of
+Reclamation to operate the Rio Grande Project, an irrigation system
+in southern New Mexico.
+
+															In 2013, Texas filed suit against the other two
+signatory States, alleging that, in violation of the Compact,
+excessive groundwater pumping in New Mexico was depleting supplies
+of Rio Grande water bound for Texas. The United States sought to
+intervene, and in a decision we issued six Terms ago, we allowed it
+to do so. See Texas v. New Mexico, 583 U.S. 407
+(2018). In our opinion, we explained that the Federal Government
+has its own distinct interests in holding New Mexico to its
+obligations under the Compact, as the Compact is “inextricably
+intertwined” with the United States’ operation of the Rio Grande
+Project. Id., at 413.
+
+															Now, Texas and New Mexico have agreed to a
+proposed consent decree that would resolve this case and codify a
+methodology for determining each State’s allocation of the Rio
+Grande’s waters. But the United States opposes the proposed consent
+decree, contending that it would dispose of the Federal
+Government’s claims that New Mexican groundwater pumping is
+violating the Compact.
+
+															We agree with the United States. “[P]arties who
+choose to resolve litigation through settlement may not dispose of
+the claims of a third party.” Firefighters v.
+Cleveland, 478
+U.S. 501, 529 (1986). The United States still advances the same
+claims as it did in 2018, backed by the same unique federal
+interests we identified then. Through the consent decree, the
+States would settle all parties’ Compact claims and, in the
+process, cut off the United States’ requested relief as to New
+Mexican groundwater pumping. Because our precedent does not permit
+that result, the States’ motion to enter the consent decree is
+denied.
+
+															I
+
+															A
+
+															The Rio Grande springs from the San Juan
+Mountains just east of the Continental Divide in southwestern
+Colorado. After tumbling out of the Rocky Mountains, the river cuts
+south through the deserts of New Mexico before crossing into Texas
+near the city of El Paso. From there, the river snakes its way
+southeast, marking the border between the United States and Mexico
+and eventually spilling into the Gulf of Mexico at the city of
+Brownsville, Texas.
+
+															Of course, when a river touches so many
+jurisdictions, disputes about water rights are bound to follow. The
+Rio Grande is no exception. In the late 19th century, Mexico began
+to voice concerns about water shortages caused by increased use of
+the Rio Grande’s upstream waters in the United States. See National
+Resources Committee, Regional Planning: Part VI—The Rio Grande
+Joint Investigation in the Upper Rio Grande Basin in Colorado, New
+Mexico, and Texas, 1936–1937, pp. 7–8 (1938). In 1906, the United
+States and Mexico settled that dispute and entered into a treaty,
+with the United States promising to provide Mexico 60,000 acre-feet
+of Rio Grande water each year. See Convention Between the United
+States and Mexico Providing for the Equitable Distribution of the
+Waters of the Rio Grande for Irrigation Purposes, May 21, 1906, 34
+Stat. 2953, T. S. No. 455. To deliver on that promise, the
+United States needed to harness the river’s irregular ebb and flow
+brought on by alternating dry spells and floods. Accordingly, the
+Federal Government resolved to construct a new dam and reservoir at
+Elephant Butte in New Mexico, about 100 miles north of the
+Texas-New Mexico border. Among the first irrigation projects
+authorized by the Reclamation Act of 1902, the dam and reservoir
+constituted an essential component of the new Rio Grande Project,
+an irrigation system implemented by the United States Bureau of
+Reclamation (Reclamation). See Act of Feb. 25, 1905, ch. 798, 33
+Stat. 814.
+
+															Thanks to the Rio Grande Project, the United
+States had harnessed the Rio Grande’s water. But that raised
+another question: What to do with it? Enter the “Downstream
+Contracts,” a series of agreements between the United States and
+two irrigation districts in New Mexico and Texas. First signed in
+1906 and later renegotiated in the 1930s, the Downstream Contracts
+provided that, after allocating Mexico’s share of Rio Grande water
+under the 1906 Treaty, the United States would deliver
+apportionments of water to the two political subdivisions—the
+Elephant Butte Irrigation District in New Mexico (EBID) and El Paso
+County Water Improvement District No. 1 in Texas (EP1).
+Specifically, Reclamation agreed to supply water to 88,000
+irrigable acres in EBID and 67,000 irrigable acres in EP1,
+amounting to shares of about 57% and 43% of the reserved water,
+respectively. Letter from S. Somach to Special Master, p. 36
+(May 8, 2018).
+
+															That left the competing water-rights claims of
+Colorado, New Mexico, and Texas. To resolve that dispute, those
+States looked to the U. S. Constitution’s Compact Clause,
+which permits States to enter into agreements among themselves,
+with the consent of Congress. Art. I, §10, cl. 3. While
+contractual in nature, an interstate compact “ ‘is not just a
+contract,’ but also ‘a federal statute enacted by Congress’ that
+preempts contrary state law.” New York v. New Jersey,
+598 U.S. 218, 224 (2023) (quoting Alabama v. North
+Carolina, 560 U.S. 330, 351 (2010)). Once Congress gives its
+stamp of approval, an interstate compact becomes the law of the
+land, much like any other federal statute.
+
+															In 1938, with Congress’s endorsement, Colorado,
+New Mexico, and Texas agreed to the Rio Grande Compact, which
+“effect[ed] an equitable apportionment” of the Rio Grande’s waters
+among the three States. Act of May 31, 1939, 53 Stat. 785. For the
+upstream States, the Compact imposed certain delivery obligations.
+It required Colorado to deliver a particular amount of water to the
+New Mexican border. Id., at 787–788. “But then, instead of
+similarly requiring New Mexico to deliver a specified amount of
+water annually to the Texas state line, the Compact directed New
+Mexico to deliver water to the [Elephant Butte] Reservoir.”
+Texas, 583 U. S., at 410–411. That “choice made all the
+sense in the world in light of the simultaneously negotiated
+Downstream Contracts that promised Texas water districts a certain
+amount of water every year from the Reservoir’s resources.”
+Id., at 411. In other words, the Compact relied on
+Reclamation to apportion water through its contractual obligations
+to EBID and EP1.
+
+															Although the Rio Grande’s waters were plentiful
+in the 1930s, drought conditions set in beginning in the late 1940s
+and early 1950s. As a result, entities in southern New Mexico below
+the Elephant Butte Reservoir began pumping groundwater at
+increasing levels to support local agriculture. That groundwater
+pumping had important hydrological implications for the Rio Grande
+Project.
+
+															Here’s why: When Reclamation releases water from
+Elephant Butte, the water flows into the bed of the Rio Grande, and
+then to a series of canals and ditches, eventually reaching
+irrigated farms, its final destination. Some of the water runs off
+of the fields or percolates into the ground, returning to the river
+through drains or seepage. Due to these “return flows,” water
+trickles back to the Rio Grande riverbed, where it proceeds farther
+downstream to other irrigation destinations. But groundwater
+pumping in southern New Mexico interrupts that process, both by
+drawing water away from the river and by intercepting the return
+flows that would otherwise replenish it. Put simply, the more
+groundwater pumping between the Elephant Butte Reservoir and Texas,
+the more water Reclamation has to release from the reservoir to
+comply with its delivery obligations.
+
+															Reclamation dealt with these changing
+circumstances by developing an equation known as the D2 Curve.
+Using Project data from 1951 to 1978—the so-called D2 Period that
+witnessed New Mexico’s ramped-up groundwater pumping—Reclamation
+devised a linear regression model to help it predict how much water
+would be available to EBID and EP1 based on a given release of
+water from the Elephant Butte Reservoir.
+
+															The extent of groundwater pumping in New Mexico
+nonetheless remained a point of contention, and in 2013, Texas
+filed an original action in this Court against New Mexico.[1] Among other things, Texas alleged
+that New Mexico was violating the Compact by permitting local
+entities to pump groundwater at levels exceeding those contemplated
+in 1938, intercepting water bound for the Lone Star State. Texas
+requested declaratory, injunctive, and monetary relief, including
+an injunction commanding New Mexico to cease all interference with
+the United States’ operation of the Rio Grande Project.
+
+															The United States sought to intervene in Texas’s
+suit and filed its own complaint in 2014. Like Texas, the Federal
+Government took issue with New Mexico’s groundwater pumping,
+explaining that excessive water interception below Elephant Butte
+could reduce Project efficiency “to a point where 43% of the
+available water could not be delivered to [EP1], and 60,000
+acre-feet per year could not be delivered to Mexico.” Intervening
+Complaint 4, ¶15. For relief, the United States sought a
+declaration and an injunction requiring New Mexico to stop in-state
+entities from interfering with the Project’s delivery of water to
+EBID, EP1, and Mexico. Id., at 5.
+
+															The Special Master appointed to adjudicate this
+case recommended dismissing the United States’ complaint. But this
+Court allowed the United States to intervene. Specifically, we held
+that “the federal government has an interest in seeing that water
+is deposited in the [Elephant Butte] Reservoir consistent with the
+Compact’s terms,” as that “is what allows the United States to meet
+its duties under the Downstream Contracts, which are themselves
+essential to the fulfillment of the Compact’s expressly stated
+purpose.” Texas, 583 U. S., at 414.
+
+															B
+
+															The litigation continued. After the Special
+Master denied summary judgment and held the first phase of trial,
+Texas and New Mexico negotiated a proposed consent decree. The
+consent decree would make “[c]ompliance with th[e] Decree”
+sufficient to show “compliance with the Compact with respect to the
+division of Rio Grande water below Elephant Butte Reservoir.” Third
+Interim Report of the Special Master Addendum 8, ¶7 (Third Interim
+Report Addendum).
+
+															The centerpiece of the proposed consent decree
+would be the establishment of the Effective El Paso Index (EEPI), a
+new method of determining the allotment of Rio Grande water New
+Mexico must deliver downstream into Texas. The EEPI’s calculations
+of water allocations would be based on conditions during the D2
+Period, when New Mexico was actively depleting return flows through
+groundwater pumping. That is, the EEPI would permit levels of
+pumping “reflected in the 1951–1978 timeframe rather than
+[requiring] a strict return to a pumping condition as existed in
+1938.” Third Interim Report 75. The EEPI would then rely on the El
+Paso Gage, a flow indicator near the New Mexico-Texas border, to
+measure New Mexico’s delivery of water into Texas. Finally, the
+consent decree would require Reclamation to transfer water between
+EBID and EP1 as needed to maintain a specified allotment.
+
+															The States moved the Special Master to approve
+the proposed consent decree, but the United States objected. As
+relevant here, the United States maintained that the consent decree
+would impermissibly dispose of its Compact claims without its
+consent. The Special Master disagreed, however, and issued a Third
+Interim Report recommending that this Court approve the consent
+decree. The United States filed an exception to the report, and we
+set the case for argument.
+
+															II
+
+															A consent decree “embodies an agreement of the
+parties and thus in some respects is contractual in nature.”
+Rufo v. Inmates of Suffolk County Jail, 502 U.S.
+367, 378 (1992). But it is also “an agreement that the parties
+desire and expect will be reflected in, and be enforceable as, a
+judicial decree.” Ibid.
+
+															In Firefighters v. Cleveland,
+478
+U.S. 501, we described the rules that apply when parties wish
+to settle via consent decree over the objection of a nonconsenting
+intervenor. “[W]hile an intervenor is entitled to present evidence
+and have its objections heard . . . on whether to approve
+a consent decree,” it generally cannot block a decree that would
+settle the other parties’ claims “merely by withholding its
+consent.” Id., at 529.
+
+															That rule does not apply, however, when the
+parties’ settlement would also affect the intervenor’s claims.
+Under those circumstances, parties “who choose to resolve
+litigation through settlement may not dispose of the claims of a
+third party . . . without that party’s agreement.”
+Ibid. In other words, a “court’s approval of a consent
+decree between some of the parties . . . cannot dispose
+of the valid claims of nonconsenting intervenors; if properly
+raised, these claims remain and may be litigated by the
+intervenor.” Ibid.
+
+															Consequently, and as we explained 20 years
+before Firefighters, “where the Government seeks an item of
+relief to which evidence adduced at trial may show that it is
+entitled, the [court] may not enter a ‘consent’ judgment without
+the actual consent of the Government.” United States v.
+Ward Baking Co., 376 U.S.
+327, 334 (1964).
+
+															III
+
+															With these legal rules in mind, we must now
+decide whether to approve the States’ proposed consent decree over
+the Federal Government’s objection. The relevant questions under
+our precedents are whether the United States has valid Compact
+claims and whether the proposed consent decree would dispose of
+those claims. Because the answer to each of those questions is yes,
+the consent decree cannot be approved without the United States’
+consent.
+
+															A
+
+															1
+
+															Conventional wisdom posits that, because time
+changes all things, no one can step into the same river twice. This
+case may be an exception, though, for the same considerations that
+convinced us to let the United States intervene six Terms ago also
+lead us to conclude that the United States still has valid Compact
+claims today.
+
+															In 2014, the United States asked to intervene in
+this action, asserting “essentially the same claims Texas already”
+pleaded. Texas, 583 U. S., at 409. Namely, the United
+States alleged that New Mexico was impermissibly “siphon[ing] off
+water below the Reservoir in ways the Downstream Contracts do not
+anticipate.” Id., at 411. The Special Master recommended
+that we dismiss the United States’ complaint, reasoning “that the
+Compact does not confer on the United States the power to enforce
+its terms.” Ibid. But in its exception to that report, the
+United States maintained that “it may pursue claims for violations
+of the Compact itself.” Id., at 412.
+
+															We agreed with the United States. Although
+interstate compacts are (as the name suggests) agreements between
+States, “we have sometimes permitted the federal government to
+participate in compact suits to defend ‘distinctively federal
+interests’ that a normal litigant might not be permitted to pursue
+in traditional litigation.” Id., at 412–413 (quoting
+Maryland v. Louisiana, 451 U.S.
+725, 745, n. 21 (1981)). Examining the nature of the
+United States’ claims and the Rio Grande Project’s unique
+relationship to the Compact, we ticked through “several
+considerations” persuading us that the United States “may pursue
+the particular claims it has pleaded in this case.” 583 U. S.,
+at 413.
+
+															First, “the Compact is inextricably intertwined
+with the Rio Grande Project and the Downstream Contracts,” both
+carried out by the Federal Government. Ibid. The purpose of
+the Compact, recall, was to “ ‘effec[t] an equitable
+apportionment’ ” of the Rio Grande’s waters among the
+signatory States. Ibid. (alteration in original). But it
+“can achieve that purpose only because, by the time the Compact was
+executed and enacted, the United States had negotiated and approved
+the Downstream Contracts, in which it assumed a legal
+responsibility to deliver a certain amount of water to Texas.”
+Ibid. The United States, therefore, “might be said to serve,
+through the Downstream Contracts, as a sort of ‘agent’ of the
+Compact,” responsible for ensuring Texas and New Mexico receive
+their apportionments. Ibid. (some internal quotation marks
+omitted). Or, put another way, “the Compact could be thought
+implicitly to incorporate the Downstream Contracts by reference.”
+Ibid. “However described,” the bottom line was that the
+“federal government has an interest in seeing that water is
+deposited in the Reservoir consistent with the Compact’s terms.”
+Id., at 414. And although running parallel with Texas’s
+asserted interests, the United States’ interest was “distinctively
+federal.” Id., at 413 (internal quotation marks omitted). If
+New Mexico interfered with the Project, for instance, Reclamation
+might prove unable “to meet its duties under the Downstream
+Contracts, which are themselves essential to the fulfillment of the
+Compact’s expressly stated purpose.” Id., at 414 (emphasis
+added).
+
+															Second, along similar lines, we stressed that
+New Mexico had “conceded that the United States plays an integral
+role in the Compact’s operation” and so had its own interests in
+this litigation. Ibid. Specifically, New Mexico had argued
+that the Federal Government was “an indispensable party” because it
+was “ ‘responsible for . . . delivery of
+. . . water’ as required by the Downstream Contracts and
+anticipated by the Compact.” Ibid. (quoting New Mexico’s
+Brief in Opposition to Texas’ Motion for Leave to File Complaint 33
+(Mar. 11, 2013) (2013 BIO); alterations in Texas).
+For that reason, the “ ‘entry of a Decree in accordance with
+Texas’ Prayer for Relief would necessarily affect the United
+States’ interests.’ ” 583 U. S., at 414 (quoting 2013 BIO
+33; emphasis added).
+
+															Third, we also took note of the Federal
+Government’s obligations under the 1906 Treaty. As explained above,
+the United States must deliver 60,000 acre-feet of water from the
+Elephant Butte Reservoir to Mexico, but the United States can “fill
+that Reservoir” only if New Mexico complies with its obligation “to
+deliver a specified amount of water to the facility.” 583
+U. S., at 414. Thus, the United States’ ability to deliver
+water to Mexico depends on New Mexico’s compliance with “its
+Compact obligations,” and “a breach of the Compact could jeopardize
+the federal government’s ability to satisfy its treaty
+obligations.” Ibid. “Permitting the United States to
+proceed” with its own Compact claims would “allow it to ensure that
+those obligations are, in fact, honored.” Id., at
+415.[2]
+
+															In light of these “ ‘distinctively federal
+interests,’ ” we held that the United States could validly
+claim that New Mexico was “effectively breaching its Compact duty
+to deliver water to the Reservoir.” Id., at 411, 413. Our
+2018 decision leads inexorably to the same conclusion today: The
+United States has its own, uniquely federal claims under the
+Compact. If it did not, one might wonder why we permitted the
+Federal Government to intervene in the first place.
+
+															2
+
+															Our 2018 decision is also all but dispositive
+of the States’ arguments that the United States lacks valid Compact
+claims today.
+
+															For starters, the States contend that the United
+States has no valid Compact claims because it does not itself
+receive an apportionment of water under the Compact. Joint Reply to
+Exception of the United States by the State of Texas et al.
+29–31 (Joint Reply). But the United States did not receive an
+apportionment of Rio Grande water in 2018 any more than it does
+now. Rather, as we explained, its claims arise from the Compact’s
+incorporation of the Downstream Contracts and the attendant risk
+that New Mexico’s interference with the Project could leave
+Reclamation unable to meet its contractual and treaty
+obligations.
+
+															The States and the dissent also assert that the
+United States failed to allege a “1938 baseline”—a shorthand for
+the claim that New Mexico’s groundwater pumping should be
+restricted to levels in effect when the Compact was enacted. See
+Joint Reply 36–37; post, at 18–24, and nn. 2–3 (opinion
+of Gorsuch, J.). But that argument, too, is foreclosed by our prior
+decision. There, we explained that Texas had alleged New Mexico was
+“breaching its Compact duty” by allowing downstream water “users to
+siphon off water . . . in ways the Downstream Contracts
+do not anticipate.” Texas, 583 U. S., at 411; see
+Texas’s Complaint 10, ¶18 (alleging that current pumping “changed
+the conditions that existed in 1938”). And we recognized that the
+United States asserted “essentially the same claims Texas already
+has.” Texas, 583 U. S., at 409; see id., at 411
+(United States’ claims “parallel Texas’s”); id., at 415
+(United States seeks “substantially the same relief ” as
+Texas). Whether the United States’ complaint uses the term “1938
+baseline” is beside the point. Both Texas and the United States
+pleaded that New Mexico was violating the Compact by pumping more
+groundwater than the Compact contemplates, and that is still the
+claim that the United States wishes to pursue now.[3]
+
+															Last, we are not persuaded by the States’
+reliance on our decisions in Hinderlider v. La Plata
+River & Cherry Creek Ditch Co., 304 U.S.
+92 (1938), and California v. United States,
+438 U.S.
+645 (1978). The States maintain that they alone represent
+EBID’s and EP1’s interests in an allocation of Compact water;
+accordingly, they say, any interest Reclamation has in fulfilling
+the Downstream Contracts is strictly derivative of the States’
+interest in how the water is apportioned. Joint Reply 31–36; see
+post, at 14, 18. For support, they rely on
+Hinderlider, which held that a Colorado ditch company had no
+right to water that the State of Colorado had agreed to apportion
+to New Mexico under the La Plata River Compact. 304 U. S., at
+106–108. “[T]he States,” we explained, “had power to bind by
+compact their respective appropriators,” id., at 108,
+notwithstanding the ditch company’s pre-existing right under
+Colorado law to a certain apportionment of water, id., at
+98.
+
+															The States’ argument here fails for at least two
+reasons. First, our decision in 2018 is incompatible with the
+suggestion that the Federal Government’s interest is either
+entirely derivative of the States’ interests (as with the
+relationship between the Colorado ditch company and the State of
+Colorado in Hinderlider) or merely a stand-in for the
+interests of the water districts. See post, at 20. Our
+reasons for finding that intervention was warranted—(1) the United
+States’ duties under the Project and the Downstream Contracts, (2)
+the United States’ integral role in the Compact’s operation, and
+(3) the United States’ treaty obligations—stemmed from
+“ ‘distinctively federal interests’ ” the United
+States has, independent of Texas, “in seeing that water is
+deposited in the Reservoir consistent with the Compact’s terms.”
+Texas, 583 U. S., at 413–414 (emphasis added). As it
+did then, the United States continues to claim that New Mexico’s
+interference with the Project’s delivery of water violates the
+Compact. That Texas’s litigation strategy has since changed, such
+that it is now willing to accept a greater degree of groundwater
+pumping, does not erase the United States’ independent stake in
+pursuing claims against New Mexico.
+
+															Second, because Hinderlider was based on
+a compact that is different from the one at issue here, its
+reasoning is inapposite. Different compacts divide state and
+federal authority differently. Hinderlider’s analysis of the
+States’ “conclusive” power to determine their citizens’ shares of
+water was a function of the specifics of the compact in that case,
+which gave the States the sole authority over and responsibility
+for apportionments of the La Plata River. 304 U. S., at 96–98,
+107. Here, by contrast, the United States “plays an integral role
+in the Compact’s operation.” Texas, 583 U. S., at 414.
+Reclamation’s operation of the Project, and the United States’
+obligations to EBID and EP1 under the Downstream Contracts, are the
+means by which the States chose to effectuate the apportionment of
+water in the Compact. Rather than “requiring New Mexico to deliver
+a specified amount of water annually to the Texas state line,” the
+Compact instead “directed New Mexico to deliver water to the”
+Elephant Butte Reservoir. Id., at 410–411. That choice made
+sense only because the “Downstream Contracts . . .
+promised Texas water districts a certain amount of water” via the
+operation of the Project. Id., at 411. Accordingly, the
+Federal Government has its own “interest in seeing that water is
+deposited in the Reservoir consistent with the Compact’s terms” and
+not “siphon[ed] off . . . in ways the Downstream
+Contracts do not anticipate.” Id., at 411, 414.
+
+															For similar reasons, our continued recognition
+of the United States’ valid Compact claims would not, as the States
+assert, “tur[n] on its head the hierarchy of authorities governing
+the distribution of water within a federal irrigation project.”
+Joint Reply 34. Relying on California v. United
+States, 438 U.S.
+645, the States maintain that the Federal Government must
+“comply with state water laws in operating its federal Reclamation
+projects.” Joint Reply 34. True, so far as it goes.
+California held that §8 of the Reclamation Act required the
+United States to comply with state-imposed permit requirements when
+impounding water from the Stanislaus River for use in a federal
+irrigation project. 438 U. S., at 647–650. But the United
+States is not seeking to skirt any state law here.
+
+															Again, the United States’ position is that the
+Compact itself imposes a duty of noninterference on New Mexico.
+That claim is not at odds with California’s holding that the
+Secretary of the Interior must “comply with state laws, not
+inconsistent with congressional directives, governing use of water
+employed in federal reclamation projects.” California v.
+FERC, 495 U.S.
+490, 504 (1990) (discussing California v. United
+States, 438 U. S. 645). The United States’ claims rest on
+its interpretation of the Compact, and the Compact trumps state
+water law. See Texas, 583 U. S., at 412 (“[O]nce
+Congress gives its consent, a compact between States—like any other
+federal statute—becomes the law of the land”); New York, 598
+U. S., at 224.[4]
+
+															B
+
+															1
+
+															Because the United States has valid Compact
+claims and has not agreed to the proposed consent decree, the only
+remaining question is whether the consent decree would dispose of
+those claims. Firefighters, 478 U. S., at 529. We
+conclude it would.
+
+															To start, the States have conceded as much. In
+their briefing before the Special Master, the States acknowledged
+that the consent decree would “resolv[e] all of the Compact claims
+stated by any party.” States’ Joint Motion To Enter
+Consent Decree 33 (Nov. 14, 2022) (emphasis added). Likewise, in
+their reply, the States reaffirmed that “upon entry of the Consent
+Decree, the United States will have no remaining Compact
+claims.” States’ Joint Reply in Support of Joint Motion To
+Enter Consent Decree 7 (Feb. 3, 2023) (emphasis added). The Special
+Master agreed, explaining that the consent decree would “resolv[e]
+the dispute over the Texas and downstream New Mexico
+apportionments.” Third Interim Report 2.
+
+															And those concessions state an obvious
+proposition, because the consent decree would in fact resolve the
+United States’ claims in this action. The United States maintains
+that New Mexico’s pumping breaches that State’s alleged duty under
+the Compact not to interfere with the Project. Intervening
+Complaint 4–5. And the United States seeks an injunction against
+New Mexico that would prohibit that interference. Id., at 5.
+The proposed consent decree, however, would dispose of that legal
+claim and the associated prayer for relief without addressing the
+United States’ contentions, as it neither imposes the duty of
+noninterference that the United States seeks nor enjoins New Mexico
+from allowing groundwater pumping beyond 1938 levels. To the
+contrary, the consent decree would incorporate New Mexico’s
+groundwater pumping into the Compact by adopting a new method for
+apportioning Rio Grande water—the EEPI.
+
+															As explained above, the EEPI would establish “an
+index-based methodology” to assess New Mexico’s compliance with its
+water delivery obligations “based upon Project operations during
+the D2 Period,” from 1951 to 1978. Third Interim Report Addendum 9,
+23, 25. Those decades coincided with the onset of drought
+conditions in the Rio Grande Basin and an accompanying increase in
+groundwater pumping in New Mexico. Measuring New Mexico’s
+compliance with the consent decree (and, by extension, its
+compliance with the Compact) against D2 Period conditions would
+therefore take for granted the very increase in groundwater pumping
+that the United States maintains violates New Mexico’s duty of
+noninterference. See Third Interim Report 75 (“Undisputedly, the
+Consent Decree’s reliance on the D2 period seeks to limit pumping
+to an average amount as reflected in the 1951–1978 timeframe rather
+than a strict return to a pumping condition as existed in
+1938”).
+
+															Were the consent decree adopted, the United
+States would be precluded from claiming what it argues now—that New
+Mexico’s present degree of groundwater pumping violates the
+Compact. Indeed, the consent decree would settle that question by
+deeming New Mexico compliant with the Compact, even as it allows
+pumping at the D2 levels. And that legal determination would “be
+reflected in, and be enforceable as, a judicial decree.”
+Rufo, 502 U. S., at 378.
+
+															The proposed consent decree, therefore, would
+have the effect of “cutting [the United States] off from a remedy
+to which” it alleges it is entitled. Lawyer v. Department
+of Justice, 521 U.S.
+567, 579 (1997).
+
+															The United States’ argument that groundwater
+pumping at D2 levels violates the Compact may or may not ultimately
+prevail at trial. But we “may not enter a ‘consent’ judgment
+without the actual consent of the Government” when “the Government
+seeks an item of relief to which evidence adduced at trial may show
+that it is entitled.” Ward Baking Co., 376 U. S., at
+334. Because the consent decree here would have that effect, we
+cannot approve it over the United States’ objection.
+
+															2
+
+															The States and the dissent nevertheless argue
+that rejecting the consent decree would unjustly expand the scope
+of this original action and that the United States can and should
+litigate its claims in another forum instead. Joint Reply 38–45;
+post, at 14–21. Neither argument holds up.
+
+															The first objection boils down to the
+unremarkable fact that the United States’ and Texas’s interests
+have now diverged. As we explained in 2018, both Texas and the
+United States at that point asserted “essentially the same claims”
+and sought “substantially the same relief ”—an end to New
+Mexico “siphon[ing] off water below the Reservoir in ways the
+Downstream Contracts do not anticipate.” Texas, 583
+U. S., at 409, 411, 415. The United States still asserts that
+same claim today and seeks that same relief. That Texas has chosen
+to compromise does not mean that, by staying the course, the United
+States is expanding this action. What is more, this Court was well
+aware in 2018 that the States’ interests might diverge from those
+of the United States. See, e.g., New Mexico’s Reply
+to Exceptions of the United States and Colorado 25 (July 28, 2017);
+Reply Brief for United States 18 (July 28, 2017).
+
+															The second objection turns on a
+mischaracterization of the United States’ claims. The States
+maintain that the Federal Government’s qualms with New Mexico’s
+groundwater pumping pose only “an intrastate dispute between
+the United States and New Mexico” that is better left to existing
+litigation in other courts. Joint Reply 43–45. For the reasons
+already explained, however, the United States’ claims are not
+limited to “issues related to reclamation law, Project operations,
+or the details of New Mexico water administration.” Id., at
+43. Rather, the United States maintains that New Mexico’s
+groundwater pumping contravenes the Compact itself. Nothing in the
+consent decree prohibits that alleged breach of the Compact; to the
+contrary, compliance with the consent decree would instead
+constitute compliance with the Compact. We therefore do not see how
+the United States could elsewhere vindicate its claim that the
+Compact itself bars New Mexico’s allegedly excessive groundwater
+pumping.[5]
+
+															*  *  *
+
+															Our decision today follows directly from our
+prior recognition of the United States’ distinct federal interests
+in the Rio Grande Compact. Having acknowledged those interests, and
+having allowed the United States to intervene to assert them, we
+cannot now allow Texas and New Mexico to leave the United States up
+the river without a paddle. Because the consent decree would
+dispose of the United States’ Compact claims without its consent,
+the United States’ exception is sustained, and the States’ motion
+to enter the consent decree is denied.
+
+															
+
+															It is so ordered.
+
+Notes
+1
+ Texas’s complaint also
+names Colorado as a signatory to the Compact, but because this
+dispute concerns the allocation of water downstream from Colorado,
+the only claims at issue here are against New Mexico. Texas’s
+Complaint 2, ¶¶4–5.
+2
+ Alongside these
+justifications for the United States’ intervention, we also noted
+that the Federal Government sought “substantially the same
+relief ” as Texas, without that State’s objection.
+Texas, 583 U. S., at 415. Citing this portion of our
+2018 opinion, the dissent repeatedly asserts that, back then, we
+reserved the question whether the United States could bring Compact
+claims of its own. See post, at 5–6, 20–22 (opinion of
+Gorsuch, J.). To the contrary, we repeatedly stated that the
+United States could “pursue the Compact claims it has pleaded in
+this original action.” Texas, 583 U. S., at 415;
+accord, id., at 409, 413. And that is exactly what we
+permitted the United States to do. After all, the effect of our
+decision was to allow the United States to file its complaint.
+Id., at 412–413. The issues we reserved were much narrower,
+namely, “whether the United States could initiate
+litigation” to enforce the Compact (had a suit not already been
+pending between the States) and whether the United States could
+“expand the scope of an existing” lawsuit. Id., at
+415 (emphasis added); see also Tr. of Oral Arg. 13–14 (Jan. 8,
+2018). As with our 2018 decision, today’s opinion says nothing
+about whether the United States could have initiated a Compact suit
+on its own, and, as explained below, nothing about our decision
+here expands the scope of this litigation either. See infra,
+at 18.
+3
+ At times, the dissent
+suggests that the United States’ past briefing in this Court
+eschewed a 1938 baseline. See post, at 5, 18, n. 2, 21,
+n. 3, 23. It did not. The United States merely observed that a
+ruling in New Mexico’s favor—that New Mexico does not
+violate the Compact by allowing excessive groundwater pumping—would
+likely affect how Reclamation operated the Rio Grande Project,
+including by undermining a 2008 agreement that calculated water
+allocations using a D2 Period baseline. Memorandum in Support of
+Motion of United States to Intervene as Plaintiff 6 (Feb. 27,
+2014); accord, U. S. Brief in Opposition 19 (June 16, 2014).
+Nowhere in that briefing did the United States purport to take any
+definitive position on what groundwater-pumping baseline the
+Compact should ultimately be read to require. See Reply Brief for
+United States 20 (July 28, 2017) (“[I]t remains to be seen whether
+the interests of Texas and the United States are completely
+aligned” regarding the correct baseline).
+4
+ Accordingly, and
+notwithstanding the dissent’s suggestions to the contrary, see
+post, at 2, 19–20, 24–25, nothing in today’s decision
+affects either this Court’s state water law jurisprudence or the
+Federal Government’s general obligation to comply with state water
+law.
+5
+ The dissent suggests
+that, even if we were to adopt the proposed consent decree, the
+United States could continue to litigate the meaning of the Compact
+in another forum and later seek modification of the decree.
+Post, at 14–19. Perhaps the United States could argue
+elsewhere that some source of law aside from the Compact
+independently bars current levels of New Mexican groundwater
+pumping. But what matters here is that the consent decree would
+settle that question as far as the Compact is concerned. It would
+thus eliminate the United States’ claim that New Mexico is
+breaching a duty under the Compact. Indeed, at oral argument,
+counsel for Texas conceded that the consent decree would be
+“binding on the United States” with respect to “the baseline
+against which the Compact is judged.” Tr. of Oral Arg. 41 (Mar. 20,
+2024). That position makes sense. And it is difficult to understand
+why the States would care so much about this Court’s approval of
+the consent decree if the United States could turn right around and
+undo it tomorrow in another court. Moreover, the dissent’s reliance
+on Firefighters v. Cleveland, 478
+U.S. 501 (1986), for this contention is mistaken. See
+post, at 15–16. The reason the labor union in
+Firefighters “remained free to bring its own independent
+. . . claims in separate litigation” was that the consent
+decree there did “not purport to resolve any claims the [u]nion
+might have,” as the union had “failed to raise any substantive
+claims” in the first place. 478 U. S., at 530. As already
+explained, the same cannot be said here.
+
+

@@ -1,0 +1,53 @@
+::decision_cite:: 22-842
+::decision_name::  National Rifle Association of America v. Vullo
+::decision_year:: 2024
+::opinion_author:: Gorsuch
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–842
+
+															_________________
+
+															NATIONAL RIFLE ASSOCIATION OF AMERICA,
+PETITIONER v. MARIA T. VULLO
+
+															on writ of certiorari to the united states
+court of appeals for the second circuit
+
+															[May 30, 2024]
+
+															
+
+															Justice Gorsuch, concurring.
+
+															I write separately to explain my understanding
+of the Court’s opinion, which I join in full. Today we reaffirm a
+well-settled principle: “A government official cannot coerce a
+private party to punish or suppress disfavored speech on her
+behalf.” Ante, at 11. As the Court mentions, many lower
+courts have taken to analyzing this kind of coercion claim under a
+four-pronged “multifactor test.” Ibid. These tests, the
+Court explains, might serve “as a useful, though nonexhaustive,
+guide.” Ante, at 12. But sometimes they might not. Cf.
+Axon Enterprise, Inc. v. FTC, 598 U.S. 175, 205–207
+(2023) (Gorsuch, J., concurring in judgment). Indeed, the Second
+Circuit’s decision to break up its analysis into discrete parts and
+“tak[e] the [complaint’s] allegations in isolation” appears only to
+have contributed to its mistaken conclusion that the National Rifle
+Association failed to state a claim. Ante, at 15. Lower
+courts would therefore do well to heed this Court’s directive:
+Whatever value these “guideposts” serve, they remain “just” that
+and nothing more. Ante, at 12. “Ultimately, the critical”
+question is whether the plaintiff has “plausibly allege[d] conduct
+that, viewed in context, could be reasonably understood to convey a
+threat of adverse government action in order to punish or suppress
+the plaintiff ’s speech.” Ante, at 12, 19.
+
+													

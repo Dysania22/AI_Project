@@ -1,0 +1,104 @@
+::decision_cite:: 574 U.S. 352
+::decision_name::  Holt v. Hobbs
+::decision_year:: 2015
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–6827
+
+															_________________
+
+															GREGORY HOUSTON HOLT, aka ABDUL MAALIK MUHAMMAD, PETITIONER
+v. RAY HOBBS, DIRECTOR, ARKANSAS DEPARTMENT OF CORRECTION,
+et al.
+
+															on writ of certiorari to the united states court of appeals for
+the eighth circuit
+
+															[January 20, 2015]
+
+															Justice Sotomayor, concurring.
+
+															I concur in the Court’s opinion, which holds that the Department
+failed to show why the less restrictive al-ternatives identified by
+petitioner in the course of this litigation were inadequate to
+achieve the Department’s compelling security-related interests. I
+write separatelyto explain my understanding of the applicable
+legalstandard.
+
+															Nothing in the Court’s opinion calls into question our prior
+holding in Cutter v. Wilkinson that “[c]ontext
+matters” in the application of the Religious Land Use and
+Institutionalized Persons Act of 2000 (RLUIPA),114Stat.803,42
+U. S. C. §2000cc et seq. 544 U. S.
+709,723 (2005) (internal quotation marks omitted). In the dangerous
+prison environment, “regulations and procedures” are needed to
+“maintain good order, security and discipline, consistent with
+consideration of costs and limited resources.” Ibid. Of
+course, that is not to say that cost alone is an absolute defense
+to an otherwise meritorious RLUIPA claim. See §2000cc–3(c). Thus,
+we recognized “that prison security is a compelling state interest,
+and that deference is due to institutional officials’ expertise in
+this area.” Cutter, 544 U. S., at 725, n. 13.
+
+															I do not understand the Court’s opinion to preclude deferring to
+prison officials’ reasoning when that deference is due—that is,
+when prison officials offer a plausible explanation for their
+chosen policy that is supported by whatever evidence is reasonably
+available to them. But the deference that must be “extend[ed to]
+the experience and expertise of prison administrators does not
+extend so far that prison officials may declare a compelling
+governmental interest by fiat.” Yellowbear v.
+Lampert, 741 F. 3d 48, 59 (CA10 2014). Indeed, prison
+policies “ ‘grounded on mere speculation’ ” are exactly
+the ones that motivated Congress to enact RLUIPA. 106 Cong.
+Rec. 16699 (2000) (quoting S. Rep. No. 103–111, 10
+(1993)).
+
+															Here, the Department’s failure to demonstrate why the less
+restrictive policies petitioner identified in the course of the
+litigation were insufficient to achieve its compelling
+interests—not the Court’s independent judgment concerning the merit
+of these alternative approaches—is ultimately fatal to the
+Department’s position. The Court is appro-priately skeptical of the
+relationship between the De-partment’s no-beard policy and its
+alleged compelling interests because the Department offered little
+more than unsupported assertions in defense of its refusal of
+petitioner’s requested religious accommodation. RLUIPA requires
+more.
+
+															One final point bears emphasis. RLUIPA requires institutions
+refusing an accommodation to demonstrate that the policy it defends
+“is the least restrictive means of furthering [the alleged]
+compelling . . . interest[s].” §2000cc–1(a)(2); see also
+Washington v. Klem, 497 F. 3d 272, 284 (CA3
+2007) (“[T]he phrase ‘least restrictive means’ is, by definition, a
+relative term. It necessarily implies a comparison with other
+means”); Couch v. Jabe, 679 F. 3d 197, 203 (CA4
+2012) (same). But nothing in the Court’s opinion suggests that
+prison officials must refute every conceivable option to satisfy
+RLUIPA’s least restrictive means requirement. Nor does it intimate
+that officials must prove that they considered less restrictive
+alternatives at a particular point in time. Instead, the Court
+correctly notes that the Department inadequately responded to the
+less restrictive policies that petitioner brought to the
+Department’s attention during the course of the litigation,
+including the more permissive policies used by the prisons in New
+York and California. See, e.g., United States v.
+Wilgus, 638 F. 3d 1274, 1289 (CA10 2011) (observing in
+the analogous context of the Religious Freedom Restoration Act of
+1993 that the government need not “do the impossible—refute each
+and every conceivable alternative regulation scheme” but need only
+“refute the alternative schemes offered by the challenger”).
+
+															Because I understand the Court’s opinion to be consistent with
+the foregoing, I join it.
+
+													

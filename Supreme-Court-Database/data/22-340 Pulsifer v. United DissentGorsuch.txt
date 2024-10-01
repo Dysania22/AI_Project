@@ -1,0 +1,1296 @@
+::decision_cite:: 22-340
+::decision_name::  Pulsifer v. United States
+::decision_year:: 2024
+::opinion_author:: Gorsuch
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–340
+
+															_________________
+
+															MARK E. PULSIFER, PETITIONER v. UNITED
+STATES
+
+															on writ of certiorari to the united states
+court of appeals for the eighth circuit
+
+															[March 15, 2024]
+
+															
+
+															Justice Gorsuch, with whom Justice Sotomayor
+and Justice Jackson join, dissenting.
+
+															The First Step Act of 2018 may be “ ‘the
+most significant criminal justice reform bill in a
+generation.’ ” Brief for Sen. Richard J. Durbin et al. as
+Amici Curiae in Terry v. United States, O. T.
+2020, No. 20–5904, p. 9. Through the 1980s and 1990s, Congress
+adopted an ever-increasing number of ever-longer mandatory minimum
+prison sentences. In part due to these policies, the federal prison
+population grew by more than 100% in less than a decade. In the
+First Step Act, Congress sought to recalibrate its approach. It did
+so by promising more individuals the chance to avoid
+one-size-fits-all mandatory minimums and receive instead sentences
+that account for their particular circumstances and crimes.
+
+															This dispute concerns who is eligible for
+individualized sentencing and who remains subject to mandatory
+minimums after the First Step Act. Before the Act, a defendant
+seeking to avoid a mandatory minimum had to satisfy five stringent
+statutory tests. After the Act, all those tests remain, only the
+first is now less demanding. As revised, it provides that a
+defendant may be eligible for individualized sentencing if he “does
+not have” three traits: (A) more than 4 criminal history points,
+(B) a 3-point offense, and (C) a 2-point violent offense. In lower
+court proceedings, the government admitted that this new test is
+“most natural[ly]” read to mean what it says: A defendant may be
+eligible for individualized sentencing unless he possesses all
+three listed traits—A, B, and C. Brief for United States in
+No. 19–50305 (CA9), p. 7 (Government CA9 Brief );
+id., at 10–11; accord, Brief for United States in No.
+21–1609 (CA8), p. 11 (Government CA8 Brief ). Despite its
+admission, however, the government urges us to adopt a different
+construction. It asks us to read the First Step Act as promising a
+defendant a chance at individualized sentencing only when he does
+not have any of the three listed traits—A, B, or C.
+
+															If this difference seems a small one, it is
+anything but. Adopting the government’s preferred interpretation
+guarantees that thousands more people in the federal criminal
+justice system will be denied a chance—just a chance—at an
+individualized sentence. For them, the First Step Act offers no
+hope. Nor, it seems, is there any rule of statutory interpretation
+the government won’t set aside to reach that result. Ordinary
+meaning is its first victim. Contextual clues follow. Our
+traditional practice of construing penal laws strictly falls by the
+wayside too. Replacing all that are policy concerns we have no
+business considering. Respectfully, I would not indulge any of
+these moves.
+
+															I
+
+															A
+
+															In approaching the dispute before us, some
+background helps. Before the 1980s, federal judges generally
+enjoyed broad discretion at sentencing. Often, they could impose
+punishments ranging from probation up to statutorily specified
+maximum prison terms. Mistretta v. United States,
+488 U.S.
+361, 363 (1989). In exercising that discretion, judges had to
+“consider every convicted person as an individual” and pick
+punishments that “fit the offender and not merely the crime.”
+Pepper v. United States, 562
+U.S. 476, 487–488 (2011).
+
+															Today, many defendants still receive
+individualized sentences. In the mine run of federal cases, a court
+will start with sentencing guidelines the United States Sentencing
+Commission has prepared at Congress’s direction. The guidelines
+help a court identify a range of presumptively reasonable sentences
+tailored to the defendant and his crime. See Rita v.
+United States, 551 U.S.
+338, 347 (2007). That range depends on an “offense level,” a
+figure that takes into account the seriousness of the defendant’s
+crime and his role in it, as well as the defendant’s “criminal
+history” score, a tallying that accounts for his past misconduct.
+United States Sentencing Commission, Guidelines Manual §§1B1.1,
+4A1.1–4A1.2, ch. 5, pt. A (Nov. 2023) (USSG); see
+Rosales-Mireles v. United States, 585 U.S. 129,
+133–134 (2018). The guidelines, however, are just that. A
+sentencing judge may sometimes depart or vary from the guidelines’
+recommended range, picking a lower or higher sentence if it best
+fits the defendant and broader penological goals Congress has
+instructed courts to consider. See Gall v. United
+States, 552 U.S.
+38, 46, 49–50 (2007); 18 U. S. C. §3553(a).
+
+															In the 1980s and 1990s, Congress pursued a
+different approach for certain drug offenses. See Anti-Drug Abuse
+Act of 1986, 100Stat. 3207–2 to 3207–4; Anti-Drug Abuse Act of
+1988, 102Stat. 4370, 4377–4378. It required courts to impose
+mandatory minimum prison terms based only on the kind and quantity
+of the drugs involved in the defendant’s crime. A court “was
+required to send the offender to prison” for a set period of years
+“no matter how minor the offender’s participation in the offense
+may have been, and no matter what mitigating circumstances might
+have been present.” J. Rakoff, Why the Innocent Plead Guilty and
+the Guilty Go Free 13 (2021). Under this regime, for example, a
+defendant distributing 5 grams of crack cocaine faced a 5-year
+mandatory prison term, and one with 50 grams faced a 10-year term.
+100Stat. 3207–2 to 3207–3. Meanwhile, a defendant found with powder
+cocaine confronted those same prison terms only if he distributed
+100 times those amounts. Ibid.
+
+															In short order, the federal prison population
+exploded. In 1986, federal prisoners numbered 30,104, approximately
+37.7% of whom were serving time for drug offenses. Dept. of
+Justice, Sourcebook of Criminal Justice Statistics 519 (31st ed.
+2003). By 1994, the federal prison population reached almost
+74,000, with approximately 61.3% of inmates serving time for a drug
+offense. Ibid.
+
+															Calls for reform came quickly and grew with
+time. See, e.g., U. S. Sentencing Commission, Special
+Report to the Congress: Mandatory Minimum Penalties in the Federal
+Criminal Justice System iii (1991); id., App. G (collecting
+statements from the Judicial Conference and 12 circuits).
+Eventually, Congress responded to these calls in various ways. In
+one reform, for example, it prospectively reduced the crack-cocaine
+disparity from 100:1 to 18:1. See Fair Sentencing Act of 2010,
+124Stat. 2372. In another, it adopted §3553(f ), a provision
+that came to be called the “safety valve” and that lies at the
+heart of today’s case. See Violent Crime Control and Law
+Enforcement Act of 1994, 108Stat. 1985–1986.
+
+															As originally enacted in 1994, the safety valve
+provided modest relief. It exempted defendants who could meet five
+statutory criteria from otherwise-applicable mandatory minimums,
+directing instead that they should receive individualized
+sentences. Ibid. (codified as amended at 18
+U. S. C. §3553(f )). But the first of the safety
+valve’s five criteria, codified in paragraph (f )(1), was
+especially demanding. It precluded relief for any individual with
+“more than 1 criminal history point”—meaning that a defendant could
+find himself ineligible for individualized sentencing if his
+background included even a single 60-day prison term or two prior
+offenses involving no prison term at all. 108Stat. 1985; see
+§3553(f )(1) (1994 ed.); USSG §§4A1.1(b)–(c), 4A1.2 (Nov.
+1994).
+
+															B
+
+															In the First Step Act of 2018, Congress
+adopted an array of further reforms. Pub. L. 115–391, 132Stat.
+5194. Passed with overwhelming majorities in both chambers of
+Congress and with presidential support, the Act reduced the length
+of some mandatory minimums by 25 percent. See §401, id., at
+5220–5221. It narrowed the circumstances under which a court could
+“stack” certain mandatory minimums on top of one another. See
+§403(a), id., at 5221–5222; U. S. Sentencing
+Commission, The First Step Act of 2018: One Year of Implementation
+5 (2020). And it made Congress’s earlier amendment to the
+crack-cocaine disparity retroactive, allowing individuals sentenced
+before that amendment’s adoption a chance at resentencing. See
+§404, 132Stat. 5222.
+
+															The First Step Act also revised the safety
+valve’s first provision. Where paragraph (f )(1) once barred a
+defendant with even a single criminal history point from receiving
+an individualized sentence, Congress now chose a different course.
+As amended, the full safety valve today instructs a court to afford
+an individualized sentence “if [it] finds at sentencing
+. . . that—”
+
+															“(1) the defendant does not have—
+
+															“(A) more than 4 criminal history points,
+excluding any criminal history points resulting from a 1-point
+offense, as determined under the sentencing guidelines;
+
+															“(B) a prior 3-point offense, as determined
+under the sentencing guidelines; and
+
+															“(C) a prior 2-point violent offense, as
+determined under the sentencing guidelines;
+
+															“(2) the defendant did not use violence or
+credible threats of violence or possess a firearm or other
+dangerous weapon (or induce another participant to do so) in
+connection with the offense;
+
+															“(3) the offense did not result in death or
+serious bodily injury to any person;
+
+															“(4) the defendant was not an organizer,
+leader, manager, or supervisor of others in the offense, as
+determined under the sentencing guidelines and was not engaged in a
+continuing criminal enterprise, as defined in . . . the
+Controlled Substances Act; and
+
+															“(5) not later than the time of the sentencing
+hearing, the defendant has truthfully provided to the Government
+all information and evidence the defendant has concerning the
+offense or offenses that were part of the same . . .
+common scheme or plan . . . .” 18 U. S. C.
+§3553(f ).
+
+															C
+
+															The question we face concerns how the amended
+safety valve works. Everyone agrees that a defendant must still
+clear five daunting statutory hurdles. But the parties disagree
+what the first entails after the First Step Act. Observing that the
+word “and” connects each of the subparagraphs (f )(1)(A), (B),
+and (C), Mark Pulsifer argues that the safety valve’s first
+provision now operates to render ineligible one kind of defendant—a
+defendant who bears all three enumerated traits, A, B, and
+C. Because he does not have all three, Mr. Pulsifer submits, he is
+eligible for safety-valve relief as long as he can satisfy the
+law’s four remaining provisions. Meanwhile, on the government’s
+telling, paragraph (f )(1) renders three kinds of defendants
+ineligible for relief—any defendant who has trait A, B, or
+C. And because Mr. Pulsifer has at least one of those traits, the
+rest of the safety valve is irrelevant; paragraph (f )(1)
+alone renders him ineligible for relief.
+
+															Disputes about the amended safety valve’s
+operation have simmered for years in the lower courts and yielded
+conflicting results.[1] At
+least one thing, though, is clear: The dispute before us matters
+profoundly. According to a Sentencing Commission analysis based on
+2021 data, about 33% of drug offenders were eligible for
+safety-valve relief under the law’s old terms. See 88 Fed. Reg.
+7186 (2023). Under Mr. Pulsifer’s understanding of the First Step
+Act, about 66% would become eligible for individualized sentencing.
+See ibid. By contrast, under the government’s reading of the
+Act, that number would shrink to around 44%. See ibid. Our
+decision today thus promises to affect the lives and liberty of
+thousands of individuals.
+
+															II
+
+															Unless some feature of the law suggests that
+one or another of its terms bears a specialized meaning, our duty
+is to interpret Congress’s work as an ordinary reader would. See
+Niz-Chavez v. Garland, 593 U.S. 155, 163 (2021). At
+the heart of today’s dispute lies no specialized term but perhaps
+the most ordinary of words: Everything turns on what work the word
+“and” performs in paragraph (f )(1), where a sentencing court
+is tasked with determining whether “the defendant does not have”
+three traits—A, B, “and” C.
+
+															A
+
+															In taking up the parties’ dispute, start with
+a few simple and uncontested observations. First, as the Court
+agrees, “and” is “a conjunction—a word whose function is to connect
+specified items.” Ante, at 7; see J. Opdycke, Harper’s
+English Grammar 200 (rev. ed. 1966).
+
+															Second, and more specifically, “and” is an
+“additive” conjunction, one often indicating that the words it
+connects should be added together. Id., at 200; The Chicago
+Manual of Style §5.183, p. 191 (15th ed. 2003). As the Court
+explains, when “and” performs that role, it means “[t]ogether
+with,” “along with,” “in addition to,” or “as well as.” American
+Heritage Dictionary 66 (5th ed. 2018); see ante, at 7.
+
+															Third, in paragraph (f )(1) “and” connects
+a list in a negative conditional statement (“if . . . the
+defendant does not have”). Negative conditional “if . . .
+not” statements often function like the word “unless.” See R.
+Huddleston & G. Pullum, The Cambridge Grammar of the English
+Language §14.3, p. 755 (2002). Consider the mother who tells her
+child, “If you do not have any homework left, you can go play with
+your friends.” The child would understand that he could play with
+his friends unless he had homework left to do.
+
+															Now apply those observations to paragraph
+(f )(1). Given the meaning of “and,” an ordinary reader would
+naturally understand that a defendant is eligible for
+individualized sentencing if he “does not have” trait A, trait B,
+together with trait C. Add to the mix what we know about the
+interchangeability of “if . . . not” and “unless”: A
+defendant may receive guidelines sentencing unless he has
+trait A, trait B, together with trait C. Put the points
+together, and the statute indicates that a court may issue an
+individualized sentence unless the defendant has all three traits
+listed in §3553(f )(1), just as Mr. Pulsifer contends.
+
+															B
+
+															What the language of paragraph (f )(1)
+suggests, surrounding context confirms. When Congress uses
+different terms in a statute, we normally presume it does so to
+convey different meanings. Southwest Airlines Co. v.
+Saxon, 596 U.S. 450, 457–458 (2022). We sometimes call this
+presumption the “meaningful-variation canon.” Id., at 457.
+Here, we see just such a meaningful variation. When Congress sought
+a single word to indicate that one trait among many is sufficient
+to disqualify an individual from safety-valve relief, it chose an
+obvious solution: not the conjunctive “and,” but the disjunctive
+“or.”
+
+															In fact, Congress used “or” this way no fewer
+than three times. Paragraph (f )(2) specifies that, for a
+defendant to be eligible for individualized sentencing, a court
+must find that “the defendant did not use violence or
+credible threats of violence or possess a firearm or
+other dangerous weapon (or induce another participant to do
+so) in connection with the offense.” (Emphases added.) Paragraph
+(f )(3) premises eligibility on a finding that a defendant’s
+“offense did not result in death or serious bodily injury to
+any person.” (Emphasis added.) And paragraph (f )(4) provides
+that eligibility for relief turns on whether the defendant “was not
+an organizer, leader, manager, or supervisor of others in
+the offense.” (Emphasis added.)
+
+															The fact that Congress repeatedly used “or” when
+it wanted relief to turn on a single trait among many suggests that
+the “and” in paragraph (f )(1) performs different work. Even
+the government once acknowledged as much, conceding below that the
+“and” in paragraph (f )(1) is “most natural[ly]” read as
+requiring a sentencing court to find that a defendant possesses all
+three listed traits before holding him ineligible for relief.
+Government CA9 Brief 7; id., at 10–11; accord,
+e.g., Government CA8 Brief 11. Nor is the government
+alone in this unsurprising understanding: A study involving
+ordinary Americans found that the largest share of participants
+understood a sentence tracking paragraph (f )(1)’s structure
+to trigger ineligibility only if all three conditions are
+satisfied. See Brief for Thomas R. Lee et al. as Amici
+Curiae 15, 18.
+
+															III
+
+															A
+
+															The government disputes none of this evidence
+about the law’s ordinary meaning. Instead, it begins with a theory.
+Maybe, the government says, there is another “permissible” way to
+read paragraph (f )(1). Ante, at 7; Brief for United
+States 18, 37. Maybe Congress implicitly wanted a reader to
+“distribut[e]” the “verb phrase” “does not have” among each
+subparagraph. Ante, at 8–9 (internal quotation marks
+omitted); Brief for United States 14–18. Maybe, then, we should
+effectively read the statute to work this way, with deleted words
+stricken and new ones added in bold:
+
+															(1) the defendant does not have —
+
+															(A) does not have more than 1 criminal
+history point . . . ;
+
+															(B) does not have a prior 3-point
+offense . . . ; and
+
+															(C) does not have a prior 2-point violent
+offense.
+
+															Yes, the government’s implicit distribution
+theory requires a reader to delete words before the em dash. Yes,
+it requires a reader to reinsert them in three different places
+where they do not appear. But maybe, the government suggests,
+Congress implicitly intended for a reader to do all that. Even
+though what it wrote is susceptible to a far more natural
+construction requiring none of these gymnastics.
+
+															That is not how statutory interpretation usually
+works. Statutes aren’t games or puzzles but “instruments of a
+practical nature, founded on the common business of human life,
+. . . and fitted for common understandings.” 1 J. Story,
+Commentaries on the Constitution of the United States §451, p. 437
+(1833). For that reason, we usually presume that Congress “employed
+words in their natural sense, and . . . intended what
+[it] said.” Gibbons v. Ogden, 9 Wheat. 1, 188 (1824).
+And once we have identified the most natural sense of the law’s
+terms, as we have here, our interpretive task is usually at an end.
+See, e.g., Barnhart v. Sigmon Coal Co.,
+534 U.S.
+438, 461–462 (2002).
+
+															The government’s implicit distribution theory is
+so far from the most natural reading of the law that its many and
+able lawyers didn’t even stumble on it until late in the game. In
+litigation below, the government started by arguing primarily that
+paragraph (f )(1) “must be read in the disjunctive”—a fancy
+way of saying that “and” means “or.” Government CA8 Brief 4; see
+United States v. Garcon, 54 F. 4th 1274, 1280 (CA11
+2022) (en banc). In early cases, that was the government’s only
+argument. See, e.g., Sentencing Tr. in No. 3:19–cr–207 (ED
+Tenn.), ECF Doc. 176, p. 4 (“I think the Department of
+Justice’s position as well as our position here today is
+. . . that it should be read disjunctively”); see also
+Tr. of Oral Arg. 103. Only after a resounding loss on that
+argument, see United States v. Lopez, 998 F.3d 431,
+435–443 (CA9 2021), did the government shift to its implicit
+distribution theory, stressing that its new offering does not
+require courts to “transform” “and” into “or,” see Brief for United
+States 42–43.
+
+															The government’s implicit distribution theory
+may be a “convenient litigating position,” Bowen v.
+Georgetown Univ. Hospital, 488 U.S.
+204, 213 (1988), but it does not come close to respecting the
+most natural construction of the law. It may have the benefit of
+leaving “and” alone, but it comes at the cost of rearranging so
+much else in the statute. One way or another, the government cannot
+get where it wishes to go without tinkering with the law. And to
+know that much should be enough to bring this case to a close:
+“Crimes are supposed to be defined by the legislature, not by
+clever prosecutors riffing on equivocal language.” Dubin v.
+United States, 599 U.S. 110, 129–130 (2023) (internal
+quotation marks and alteration omitted).
+
+															B
+
+															How does the government reply? It insists that
+contextual clues support its implicit distribution theory. These
+clues are so compelling, it says, any other construction of the law
+isn’t “plausible” or “possible.” Ante, at 16, 27; Brief for
+United States 18–19. It is a bold claim, not only because the
+government overlooks all the evidence of the statute’s meaning
+outlined above, but also because it overlooks one piece of
+contextual evidence after another weighing against its implicit
+distribution theory.
+
+															Start with this one: The statute before us
+stands far afield from classic cases that invite questions about
+implied distribution. In everyday speech, the government stresses,
+a listener may appreciate the need to “distribut[e]” what this
+Court has called “several antecedents” to “several consequents.”
+Encino Motorcars, LLC v. Navarro, 584 U.S. 79, 87
+(2018) (quoting 2A N. Singer & S. Singer, Sutherland Statutes
+and Statutory Construction §47:26, p. 448 (rev. 7th ed. 2014)
+(internal quotation marks omitted)). In its brief before us, the
+government leads with this example of the phenomenon: someone who
+says, “I sell red, white, and blue caps.” See Brief for United
+States 14. That statement, the government observes, contains an
+ambiguity. One listener might think that the seller offers caps
+bearing all three colors. But another listener might wonder if the
+seller implicitly means to “distribute” different colors to
+different caps—so that she really means to say she sells red caps,
+she sells blue caps, and she sells white caps. Only context, the
+government insists, can resolve the ambiguity and reveal which
+understanding best reflects the seller’s meaning. Id., at
+16.
+
+															If context suggests anything, however, it is
+that this observation has little to offer when it comes to the
+statute before us. The First Step Act does not contain several
+“antecedents” (many caps, for example) that might or might not
+distribute among several “consequents” (say, colors). Instead,
+paragraph (f )(1) speaks of a single person—“the defendant”
+presently before the sentencing court—who must not have three
+specified traits (A, B, and C). And that “singular” construction
+“tends to avoid the ambiguity” about distribution that a “plural”
+construction can invite. M. Kirk, Legal Drafting: The Ambiguity of
+“And” and “Or,” 2 Tex. Tech. L. Rev. 235, 239–240 (1971); see also
+Huddleston, Cambridge Grammar §1.3.1, at 1280–1281.
+
+															Drafting experts illustrate the point with this
+phrase: “charitable and educational institutions.” R. Dickerson,
+The Fundamentals of Legal Drafting §6.2, pp. 109–110 (2d ed.
+1986); Kirk, 2 Tex. Tech. L. Rev., at 239–241. The phrase is
+ambiguous. The multiple “institutions” might distribute across the
+multiple listed traits to describe both “charitable institutions
+and educational institutions.” Dickerson, Fundamentals of Legal
+Drafting §6.2, at 110; Kirk, 2 Tex. Tech. L. Rev., at 240. Or
+the term “institutions” might not distribute, so the phrase
+describes only institutions that are both charitable and
+educational. Id., at 240–241. But if there is just a single
+“institution,” any ambiguity dissipates: “A charitable and
+educational institution” is an institution with both traits.
+The same holds true when a saleswoman offers “the red, white, and
+blue cap”: In that case, a buyer knows with certainty that the
+seller offers one kind of cap bearing all three colors.
+
+															This contextual clue poses the government with a
+serious problem. When Congress wrote paragraph (f )(1), it
+employed a singular construction that tends to avoid the ambiguity
+about distribution that plural constructions invite. The statute
+before us thus bears no resemblance to the government’s lead
+illustration involving multiple caps and colors. Nor does it bear
+any resemblance to the government’s various illustrations from
+statutory and constitutional law involving multiple “offenses” that
+fall into multiple classes, see ante, at 11; Brief for
+United States 17–18 (discussing 34 U. S. C.
+§20101(f )); multiple “Cases” that meet multiple descriptions,
+see ante, at 8–9; Brief for United States 40 (quoting
+Art. III, §2, cl. 1); or the many kinds of “Commerce”
+Congress can regulate, see ante, at 9; Brief for United
+States 39–40 (quoting Art. I, §8, cl. 3).[2]
+
+															Sensing the government’s difficulty, the Court
+struggles for an example of its own involving a singular person or
+thing that does generate an ambiguity about distribution.
+Eventually, it lands on Eric Carle’s story about a caterpillar who
+“ ‘ate through’ ” (among so many other things)
+“ ‘one sausage, one cupcake, and one slice of
+watermelon.’ ” Ante, at 8; see also ante, at 9,
+n. 3. Mission accomplished: One child might implicitly
+distribute the phrase “ate through” to each foodstuff, while
+another might read the list without implicit distribution to mean
+the caterpillar ate through a “combination” that includes them all.
+Ante, at 9.
+
+															But what does that prove? “[T]o acknowledge
+ambiguity is not to conclude that all interpretations are equally
+plausible.” Gwaltney of Smithfield, Ltd. v. Chesapeake
+Bay Foundation, Inc., 484 U.S.
+49, 57 (1987). And an example of ambiguity about distribution
+in a children’s book does nothing to prove that the federal
+criminal statute before us is most plausibly read to require
+implicit distribution. Add some of paragraph (f )(1)’s salient
+features into the illustration and that much becomes clear. As the
+story goes, the caterpillar is in the process of becoming a
+butterfly. So suppose the story said the caterpillar “will remain a
+caterpillar if he does not eat (A) one sausage, (B) one cupcake,
+and (C) one slice of watermelon.” I suspect most ordinary readers
+(and children) would have little trouble concluding that the
+sentence means that the caterpillar will remain a caterpillar
+unless he eats all three things; one alone will not do.
+
+															C
+
+															Here’s another problem with the government’s
+theory: If in some contexts a speaker might intend for a listener
+to distribute words implicitly, the context before us counsels
+against attributing any such intention to Congress. It does because
+a careful look at the safety-valve statute reveals that, when
+Congress wanted to distribute a phrase in this law, it did not
+leave the matter to implication. It did not depend on the reader’s
+imagination. Instead, Congress distributed phrases expressly.
+
+															Twice, in fact. In paragraph (f )(4),
+Congress took the trouble to distribute expressly the phrase “was
+not,” permitting relief only if “the defendant was not an
+organizer, leader, manager, or supervisor of others . . .
+and was not engaged in a continuing criminal enterprise.”
+(Emphases added.) Likewise, in paragraph (f )(1) itself
+Congress expressly distributed the phrase “as determined under the
+sentencing guidelines” three times, in each of subparagraphs (A),
+(B), and (C). All the contextual evidence before us thus suggests
+that, in a statute carrying grave criminal consequences, Congress
+was careful with its words and concerned with clarity. It did not
+leave ambiguities about distribution to be resolved by implication.
+Instead, it resolved them expressly, even at the cost of
+repetition.
+
+															Once more, the government’s examples only serve
+to illustrate its problem. It imagines a speaker who says,
+“ ‘I didn’t like his mother and father.’ ” Ante,
+at 10; Brief for United States 39. The government suggests that a
+listener would “probably” understand the sentence as implicitly
+distributing the phrase “I didn’t like his,” so that it really
+means, “I didn’t like his mother and I didn’t like
+his father.” Ante, at 10 (emphasis added); Brief for
+United States 39. But as the hedge (“probably”) indicates, an
+ambiguity lurks here. The sentence could also be understood without
+any distribution to convey the idea that “I didn’t like his mother
+and father” as a couple, even if I liked each individually well
+enough. See Huddleston, Cambridge Grammar §2.2.2, at
+1298–1299.[3] Only context, the
+government concedes, can clarify which meaning is more apt. See
+ante, at 15; Brief for United States 16. Yet somehow, the
+government neglects that same message when it comes to the statute
+before us—where context reveals that Congress did not leave
+questions of distribution to implication but resolved them
+expressly.
+
+															D
+
+															Context exposes yet another flaw in the
+government’s implicit distribution theory. If, as the government
+imagines, Congress was determined to find an “efficient” way to
+disqualify a defendant bearing any one of the three traits listed
+in paragraph (f )(1), ante, at 8, 13; see Brief for
+United States 18, it had an obvious solution before it: the word
+“or.” As we have seen, Congress employed exactly that approach
+three times in the safety valve: Paragraphs (f )(2),
+(f )(3), and (f )(4) all premise disqualification for
+relief on the presence of one trait or another. See Part
+II–B, supra. In this way, too, context confirms that, when
+Congress wanted to make one trait among many disqualifying, it
+proceeded expressly (and often efficiently)—but never by
+implication.
+
+															After disregarding others, the government at
+least acknowledges this particular complication for its theory. It
+responds this way: Even substituting “or” for “and,” it says, would
+not “delive[r] us from interpretive controversy.” Ante, at
+12; Brief for United States 26. It would not because replacing
+“and” with “or” in paragraph (f )(1) still would not answer
+the question whether a single trait alone is enough to render a
+defendant ineligible for relief. Ante, at 12; Brief for
+United States 26. As evidence of the malleability of the word “or”
+in some contexts, the Court cooks up various illustrations
+involving a hypothetical chef. Ante, at 12, n. 5.
+
+															It is a remarkable response. At argument, the
+government acknowledged that “or” “might have been a clearer way to
+express” that a single trait is disqualifying in paragraph
+(f )(1). Tr. of Oral Arg. 98. Below, the government initially
+pushed for treating “and” as meaning “or” precisely because it knew
+that doing so would mean that a defendant is ineligible for relief
+if he has even one of its listed traits. See id., at 101;
+Government CA9 Brief 11–13; Government CA8 Brief 7–8. And everyone,
+the Court included, concedes that Congress’s use of the word “or”
+in paragraph (f )(4) means that a defendant meeting any one of
+several criteria is disqualified from relief. Ante, at 25.
+Simply put, “we wouldn’t be sitting here if Congress had used the
+word ‘or’ ” in paragraph (f )(1). Tr. of Oral Arg. 97.
+Whatever ambiguity “or” might carry in other contexts, it carries
+none in §3553(f ). Throughout the safety valve, Congress used
+it to indicate that a single trait among many is
+disqualifying.[4]
+
+															Finding the government on its back foot, the
+Court again comes to its defense, this time by trying to change the
+rules of play. Perhaps, the Court speculates, Congress’s choice of
+“and” rather than “or” in paragraph (f )(1) was the product of
+careless drafting. See ante, at 11–12. Perhaps, too, those
+two conjunctions are “versatile” words not entitled to the respect
+we usually pay Congress’s variations in usage—a respect, the Court
+suggests, that is due only “to terms with some heft and
+distinctiveness, whose use drafters are likely to keep track of and
+standardize.” Ante, at 23, 25.
+
+															Consider how far we have now retreated. Lower
+courts rejected the government’s and-means-or argument. In
+response, the government introduced its implicit distribution
+theory. Before us, the government stresses that its new theory does
+not depend on “transform[ing]” “and” into “or.” Brief for United
+States 42; see also id., at 15, 25. At first, the Court
+seems to proceed on the same premise. See ante, at 7–8. But
+now it reverses course. Resuscitating an argument the government
+itself has abandoned, the Court contends not just that the terms
+“and” and “or” are interchangeable, but that we need not
+even rely on our usual rules of interpretation when faced with
+them.
+
+															This argument was a loser below and it should be
+here. When Congress employs “differing language in . . .
+two subsections,” we start from a presumption that it meant to
+convey a difference in meaning, not a presumption that it made “a
+simple mistake in draftsmanship.” Russello v. United
+States, 464 U.S.
+16, 23 (1983). Never, to my knowledge, has this Court suggested
+that we may turn our back on this approach when conjunctions or
+other putatively “indistinctive” words are in play. Nor have we
+deployed that approach for “hefty” words alone—as if we were
+picking paper towels instead of interpreting statutes. To the
+contrary, our cases begin (and often end) with the presumption that
+Congress is careful in all its word choices and afford variations
+between terms like “and” and “or” the same respect due others. See,
+e.g., United States v.
+Palomar-Santiago, 593 U.S. 321, 326 (2021) (reversing the
+lower court for failing to give effect to a statute’s use of “the
+conjunctive ‘and’ ”); Encino Motorcars, 584 U. S.,
+at 87 (resting a reading of the relevant statute on “the ordinary,
+disjunctive meaning of ‘or’ ”); Loughrin v. United
+States, 573 U.S.
+351, 357 (2014) (rejecting an argument that would “disregard
+what ‘or’ customarily means”); Reiter v. Sonotone
+Corp., 442 U.S.
+330, 338–339 (1979) (similar); Rumsfeld v.
+Padilla, 542 U.S.
+426, 434 (2004) (giving weight to the federal habeas statute’s
+“consistent use of the definite article”).[5]
+
+															Nor could the premise latent in the Court’s
+argument be further from the truth. The difference between words
+like “and” and “or” often cannot be easily dismissed as meaningless
+when it comes to settling legal rights. Just imagine if the Sixth
+Amendment gave the accused a “right to a speedy or public
+trial.” Rather than getting a both timely and transparent trial, a
+defendant would be forced to choose which feature he prefers.
+Because the difference between “and” and “or” so regularly proves
+dispositive of important legal rights, drafting manuals for legal
+text from contracts to congressional legislation warn about the
+need to deploy the terms with care. See, e.g., Senate
+Office of the Legislative Counsel, Legislative Drafting Manual
+64–65 (1997); K. Adams, A Manual of Style for Contract Drafting
+§§11.9–11.11, p. 211 (3d ed. 2013). And here, of course, the
+difference between “and” and “or” affects the lives of thousands,
+see supra, at 7—a fact so inconvenient for the Court that
+the Court says to ignore it as well, see ante, at
+26.[6]
+
+															IV
+
+															So far, things look bleak for the government.
+Mr. Pulsifer offers a perfectly natural reading of the law. In
+response, the government offers a theory that it says rises or
+falls based on context. See ante, at 15; Brief for United
+States 11, 16. Yet, as it turns out, not one but three contextual
+clues array against its theory.
+
+															Unable to muster a convincing response to any of
+that, the government pivots. Even if its implicit distribution
+theory suffers so many flaws, the government urges us to adopt it
+anyway because Mr. Pulsifer’s reading of the law would introduce a
+superfluity into the safety-valve statute. It is a resourceful
+reply. The government has many. But it, too, falls flat.
+
+															A
+
+															Without question, the canon against
+superfluity can be a useful tool when seeking the meaning of a
+statute. It rests on the same principle as the canon of meaningful
+variation: the presumption that Congress is a careful drafter and
+each word it chooses “is there for a reason.” Advocate Health
+Care Network v. Stapleton, 581 U.S. 468, 477 (2017). But
+that fact also makes the government’s choice to rest its case on
+the superfluity canon a curious one. As we have seen, the
+government’s implicit distribution theory depends on the assumption
+that Congress was not a careful drafter. It requires us to
+assume Congress left a distribution implicit in one section of
+paragraph (f )(1), even as it made others express elsewhere in
+paragraphs (f )(1) and (f )(4). It requires us to assume
+Congress meant for “and” in paragraph (f )(1) to do the same
+work as “or” in paragraphs (f )(2)–(f )(4). Sometimes, it
+seems, we are supposed to assume Congress was sloppy, other times
+careful. The only common thread seems to be what benefits the
+government in the moment.
+
+															Even putting that small irony aside, the
+government has a bigger problem: Mr. Pulsifer’s reading leaves no
+provision in this statute superfluous. As the government sees it, a
+defendant who has both the prior 3-point offense required by
+subparagraph (B), and the 2-point violent offense required by
+subparagraph (C), will necessarily have more than the 4 criminal
+history points required by subparagraph (A). Because of this, the
+government submits, subparagraph (A) has no work to perform on Mr.
+Pulsifer’s reading: “Remove it from the statute, and what is left
+will make the exact same people eligible (and ineligible) for
+relief.” Ante, at 17; Brief for United States 19–20. Only
+its implicit distribution theory, the government contends, can cure
+the problem by allowing one subparagraph to “disqualif[y]
+defendants from relief even when the others would not.”
+Ante, at 16; Brief for United States 19–20.
+
+															It’s a nice argument, but it rests on a faulty
+premise. As it happens, a defendant who has a 3-point offense under
+subparagraph (B) and a 2-point violent offense under subparagraph
+(C) often will not have “more than 4 criminal history points
+. . . under the sentencing guidelines” for purposes of
+subparagraph (A). And in cases like that, subparagraph (A) performs
+vital work under Mr. Pulsifer’s reading of the law by ensuring that
+the defendant remains eligible for relief. There is simply no
+surplus here for the government’s implicit distribution theory to
+cure.
+
+															To appreciate why this is so, consider the
+sentencing guidelines Congress cross-referenced in subparagraphs
+(A) through (C). They set forth a two-step process for calculating
+a defendant’s criminal history. At the first step, discussed in
+§4A1.1 of the guidelines, a judge assigns points to the defendant’s
+prior offenses. Usually, the points correspond to the length of the
+defendant’s previous sentences. So, for example, three points
+normally attach to an offense carrying a sentence longer than 13
+months, two points to an offense with a sentence shorter than that
+but at least 60 days long, and one point to any other sentence.
+
+															At the second step, described in §4A1.2 of the
+guidelines, a judge then computes the defendant’s criminal history.
+But during this process, a judge doesn’t just tote up all the
+points assigned to each offense. Under a variety of circumstances,
+the guidelines instruct a judge not to count points assigned
+to one offense or another. Points associated with hitchhiking,
+public intoxication, and fish and game offenses, for example, “are
+never counted.” §4A1.2(c)(2). Nor are points associated with
+sentences imposed by a court-martial, a foreign court, or a tribal
+court. §§4A1.2(g)–(i). The guidelines also instruct judges not to
+count points associated with offenses of a certain age. So, by way
+of illustration, if the defendant finished his sentence for a
+3-point offense more than 15 years ago, those points are not
+counted. Likewise, if the defendant finished his sentence for a
+2-point offense more than 10 years ago, those points do not count.
+§§4A1.2(e)(1)–(3). Courts thus perform “a single calculation” of a
+defendant’s criminal history score. Ante, at 19, n. 6.
+But in doing so, they routinely distinguish between the points an
+offense carries and a defendant’s ultimate, countable criminal
+history points.[7]
+
+															Now return to subparagraph (A). It provides that
+the defendant must not have “more than 4 criminal history points,
+excluding any criminal history points resulting from a 1-point
+offense, as determined under the sentencing guidelines.”
+§3553(f )(1)(A) (emphasis added). As the italicized language
+demonstrates, when adopting the First Step Act Congress fully
+appreciated the distinction between what points an offense carries
+and whether those points contribute to a defendant’s criminal
+history score. And because of that very distinction, it is
+possible for a defendant to have a prior 3-point offense and a
+prior 2-point violent offense without having more than 4 criminal
+history points. Most obviously, as Chief Judge Pryor, former Acting
+Chair of the Sentencing Commission, has observed, a defendant may
+have a 3-point offense and a 2-point violent offense but both
+offenses are so old that he scores no criminal history points at
+all. See USSG §§4A1.2(e)(1)–(3); Garcon, 54 F. 4th, at 1281.
+As Judge Wood has noted, there are a variety of other situations as
+well in which a defendant will have both a 3-point offense and a
+2-point violent offense but still not have more than four criminal
+history points. See United States v. Pace, 48 F. 4th
+741, 763–764 (CA7 2022) (dissenting opinion).
+
+															To know that is to know no superfluity problem
+exists—and thus no need to resort to the government’s implicit
+distribution theory to solve it. On Mr. Pulsifer’s reading of the
+law, a court applying subparagraph (A) will consult the sentencing
+guidelines’ methodology for scoring criminal history points set
+forth in §4A1.2. In doing so, the court may find that, while the
+defendant has a prior 3-point offense and a prior 2-point violent
+offense for purposes of subparagraphs (B) and (C), one or another
+is too old or suffers from some other flaw so that he does not have
+more than four criminal history points. In all these cases,
+subparagraph (A) does significant work by making clear that,
+despite having a prior 3-point offense and a prior 2-point violent
+offense, the defendant remains eligible for relief. See
+Garcon, 54 F. 4th, at 1281–1282; Pace, 48 F. 4th, at
+763 (opinion of Wood, J.).
+
+															B
+
+															The government does not contest the central
+observation that defeats its superfluity argument. It admits
+that certain past offenses “ad[d] zero points to [a defendant’s]
+criminal-history score.” Brief for United States 32, n. 2;
+ante, at 17. So what exactly is the problem here?
+
+															To complain about a superfluity problem, it
+turns out the government must create one. It does so this way. As
+written, subparagraphs (B) and (C) require a sentencing court to
+ask whether the defendant “ha[s]” a “3-point offense, as determined
+under the sentencing guidelines,” and “a 2-point violent offense,
+as determined under the sentencing guidelines.” But, the government
+suggests, we should read those provisions differently. We should
+read them to require a sentencing court to ask the further question
+whether the defendant’s offenses also score criminal history
+points. As the government candidly admits, its superfluity argument
+depends on reading subparagraphs (B) and (C) as “car[ing] only
+about offenses that do score . . . criminal-
+history points.” Brief for United States 28–29; ante, at
+19–20. Only then might subparagraph (A) be left without work to
+perform, for indeed an offense that scores three criminal history
+points under subparagraph (B) and a violent offense that scores two
+criminal history points under subparagraph (C) will always score
+more than four criminal history points under subparagraph (A).
+
+															Put plainly, for the government’s superfluity
+argument to gain any traction, we must read still more words
+into the First Step Act, construing it now this way:
+
+															(1) the defendant does not have —
+
+															(A) does not have more than 4 criminal
+history points, excluding any criminal history points resulting
+from a 1-point offense, as determined under the sentencing
+guidelines;
+
+															(B) does not have a prior 3-point
+offense that scores 3 criminal history points, as determined
+under the sentencing guidelines; and
+
+															(C) does not have a prior 2-point violent
+offense that scores 2 criminal history points, as determined
+under the sentencing guidelines.
+
+															It is one more remarkable request. Last I heard,
+the canon against assuming Congress has adopted superfluous
+words is not a license for judges to create a superfluity by
+inserting new words into a law. Let alone do so simply to help the
+government make its implicit distribution theory seem just a little
+less implausible.
+
+															V
+
+															At this stage, the government withdraws to its
+final redoubt: a policy argument. In the government’s view, the
+only “function” Congress gave paragraph (f )(1) was the task
+of separating “more from less serious prior offenders.”
+Ante, at 21–22; Brief for United States 21. Affording the
+statute’s terms their ordinary meaning, the government asserts,
+would not allow the law to perform that “purpose” adequately. Brief
+for United States 20. By contrast, its implicit distribution theory
+would enable the law to fulfill its intended “role” “unerringly.”
+Ante, at 21, 22, n. 7; Brief for United States 21.
+
+															If this policy argument sounds familiar, it is
+because we have time and again rejected ones just like it. We do
+not presume that a law performs only one “function” or “role,” but
+recognize that almost every piece of legislation seeks to serve
+many competing purposes. See Luna Perez v. Sturgis Public
+Schools, 598 U.S. 142, 150 (2023); Barnhart, 534
+U. S., at 461; Chicago v. Environmental Defense
+Fund, 511 U.S.
+328, 339 (1994). We do not suppose that a law pursues any of
+those competing purposes to its logical end, acknowledging instead
+that almost every law is the product of compromise. Luna
+Perez, 598 U. S., at 150. And we do not displace ordinary
+statutory terms with judicial “speculation as to Congress[’s]
+intent,” Magwood v. Patterson, 561 U.S.
+320, 334 (2010), because the American people have consented to
+be governed by the written laws their elected representatives
+adopt, not by the conjecture of others, see United States v.
+Bass, 404 U.S.
+336, 348 (1971). For all these reasons and more, “it is quite
+mistaken to assume,” as the government does, “that whatever might
+appear to further the statute’s primary objective must be the law.”
+Henson v. Santander Consumer USA Inc., 582 U.S. 79,
+89 (2017) (internal quotation marks and alterations omitted).
+
+															Perhaps recalling our frequent admonition that
+policy talk cannot overcome plain text, the government tries a bit
+of rebranding. Although it refers occasionally to the First Step
+Act’s “purpose,” Brief for United States 20–21, 34, 48, for the
+most part it frames its argument in terms of rationality. When we
+measure the competing interpretations before us against how well
+they perform the statute’s only job, the government insists, we
+will find that the law’s ordinary meaning invites “arbitrar[y]”
+results and “nonsensical” implications. Id., at 22, 34, 36,
+48. The Court buys into this thinly disguised policy appeal, see
+ante, at 20–22, and n. 7, even as it forcefully (and
+without a trace of irony) faults Mr. Pulsifer for appealing to
+statutory “purpose,” ante, at 26. New framing or old,
+however, we have no business entertaining the government’s
+ramshackle argument.
+
+															If anything, the government’s attempt at
+rebranding only makes matters worse for it. When a statute produces
+a truly irrational result, we have a doctrine to deal with the
+dilemma: absurdity. In narrow circumstances, a simple and
+“eas[ily]” fixed statutory error that “no reasonable person could
+intend” may be amenable to judicial correction under this Court’s
+traditional absurdity doctrine. See A. Scalia & B. Garner,
+Reading Law: The Interpretation of Legal Texts 234, 237 (2012);
+Story, Commentaries §427, at 411. It is a highly demanding
+doctrine—deliberately so, for judges have no license to rewrite a
+law’s terms just because they happen to think different ones more
+sensible. And, tellingly, no one thinks this law produces anything
+like an absurd result that might call for a judicial remedy. In
+fact, the government affirmatively disavows any reliance on
+absurdity doctrine. See Brief for United States 36. Instead, it
+only gestures vaguely in the direction of “nonsensical” results and
+asks us to run with the idea. As if we could tinker with Congress’s
+work on the basis of some newly fashioned “absurdity-lite”
+doctrine.
+
+															There is a reason why the government does not
+attempt an argument actually grounded on absurdity doctrine. Its
+core complaint is that the natural reading of the law does not,
+with sufficient precision, separate “more from less serious prior
+offenders.” Ante, at 22; Brief for United States 21. But, of
+necessity, Congress often deploys “standardized formula[s]” or
+checklists, like the one found in paragraph (f )(1), that “are
+by their nature over- and under-inclusive.” Ransom v. FIA
+Card Services, N. A., 562 U.S.
+61, 78 (2011). And because Congress may rationally prefer these
+approaches for various reasons, including their ease of
+administration, this Court has long held that we will not
+second-guess them merely because they may produce some “oddit[ies]”
+or “anomalies.” Ibid.; see Rodriguez v. United
+States, 480 U.S.
+522, 526 (1987) (per curiam) (“Deciding what
+competing values will or will not be sacrificed to the achievement
+of a particular objective is the very essence of legislative
+choice”).[8]
+
+															If, as the government supposes, a seemingly
+anomalous result alone could unsettle a statute, it would face its
+own troubles, too. Under its implicit distribution theory, an
+individual who previously committed a nonviolent offense and
+received a sentence longer than 13 months (i.e., a 3-point
+offense) is categorically ineligible for relief. Meanwhile, an
+individual who committed the same crime but received a sentence
+equal to or one day less than 13 months (i.e., a 2-point
+offense) thanks to a slightly more lenient sentencing judge remains
+eligible for relief. Rather than “unerringly” enable the safety
+valve to “separat[e] more serious prior offenders from less serious
+ones,” ante, at 21, the government’s approach thus leaves
+much to happenstance and luck—an anomalous result indeed.
+
+															Return, then, to our actual absurdity
+doctrine and consider the government’s argument in its light. The
+government worries that respecting paragraph (f )(1) as
+written would treat “more serious” offenders too leniently. But in
+doing so, the government ignores what follows. A defendant who
+satisfies paragraph (f )(1) must still go on to satisfy
+paragraphs (f )(2)–(5). And those provisions collectively
+operate to deny relief to virtually anyone whose current offense
+involves any trace of violence.
+
+															Even if a “more serious” offender could somehow
+thread his way through all those needles, too, another would await.
+The safety valve instructs a sentencing court to fashion a sentence
+“pursuant to [the] guidelines.” §3553(f ). The guidelines
+expressly account for a defendant’s criminal history, and few would
+accuse them of leniency toward those with a history of serious
+offenses. In fact, defendants with significant criminal histories
+often wind up with a recommended guidelines sentence higher
+than the otherwise-applicable mandatory minimum. See Brief for
+National Association of Federal Defenders as Amicus Curiae
+7–8. Sentencing courts may have the discretion to vary or depart
+from the guidelines’ recommended ranges. But Congress could have
+rationally trusted courts to exercise that discretion with an
+appreciation for the fact that individuals with serious criminal
+histories—such as the government’s hypothetical defendant with many
+prior three-point violent offenses, see ante, at 21–22;
+Brief for United States 23—warrant equally serious sentences. So,
+looking to the law as a whole (as we must) and appreciating that
+Congress often legislates using standardized formulas or checklists
+that may be over- and under-inclusive (again, as we must), there is
+nothing approaching an absurdity that might license us to rewrite
+the First Step Act.[9]
+
+															In a final effort to bolster the government’s
+case, the Court professes an entirely different concern of its own.
+It claims to worry that the natural reading of the law would
+sometimes be too harsh in operation. Holding a defendant
+ineligible for safety-valve relief based on offenses that score
+“zero points,” we are told, would be “out-of-sync” with the law’s
+purpose. Ante, at 20. But there is nothing absurd here
+either. Subparagraph (A) provides that defendants are eligible for
+relief as long as their past convictions do not yield more than
+four criminal history points—a calculation that, as we have seen,
+does not include points associated with old crimes and certain
+other offenses. Subparagraphs (B) and (C) provide that other
+defendants with more than four criminal history points are eligible
+for relief too as long as they don’t have anywhere in their past a
+serious (3-point) offense and a weighty (2-point) violent
+offense—even if those offenses are (say) too old to contribute to
+their criminal history scores. So whatever unfairness the Court may
+perceive in one part of the safety valve (here, subparagraphs (B)
+and (C)) is diminished when considered in light of another (here,
+subparagraph (A)). Some might prefer a different arrangement, but
+the one Congress ordained is hardly absurd.
+
+															If any law demonstrates the wisdom of our usual
+rules against elevating policy appeals over plain text, it is this
+one. Under the ordinary meaning of the statute, it is possible some
+“more serious” offenders may make it past paragraph (f )(1),
+and perhaps even end up receiving an individualized sentence under
+guidelines that hardly exhibit solicitude for those with “more
+serious” criminal histories. Under the implicit distribution
+theory, in contrast, the availability of individualized sentencing
+may depend on the happenstance of one extra day in prison. In the
+end, attempting to pick between these two outcomes proves nothing
+more than the futility of the exercise. However artfully the
+government frames its dissatisfaction with the text of the statute,
+we have neither the institutional competence nor the constitutional
+mandate “to assess the relative merits of different approaches”
+Congress could have taken. Hartford Underwriters Ins. Co. v.
+Union Planters Bank, N. A., 530 U.S.
+1, 13 (2000). Our role is a more modest one: “[W]hen the
+statute’s language is plain” and “the disposition required by the
+text is not absurd,” “the sole function of the courts
+. . . is to enforce it according to its terms.”
+Id., at 6 (internal quotation marks omitted). Because that
+is undoubtedly the case here, we must apply the safety valve as
+written.
+
+															VI
+
+															As I see it, the government hasn’t come close
+to supplying a lawful basis for departing from the law’s ordinary
+meaning. Suppose, though, at the end of this long march through its
+inventive theories you remain unsure. Suppose you are left with a
+reasonable doubt about whether Mr. Pulsifer or the government has
+the better reading of the law. In circumstances like that, another
+rule of construction supplies an answer. It is lenity.
+
+															The rule of lenity “is perhaps not much less old
+than construction itself.” United States v.
+Wiltberger, 5 Wheat. 76, 95 (1820) (Marshall, C. J.); see
+Wooden v. United States, 595 U.S. 360, 388 (2022)
+(Gorsuch, J., concurring in judgment) (citing The Adventure,
+1 F. Cas. 202, 204 (No. 93) (CC Va. 1812) (Marshall, C. J.)). It
+requires courts to interpret ambiguous “penal laws,” including
+those concerning sentencing, in favor of liberty, not punishment.
+Wiltberger, 5 Wheat., at 95; United States v.
+Batchelder, 442 U.S.
+114, 121 (1979); Bifulco v. United States,
+447 U.S.
+381, 387 (1980).
+
+															This rule enforces weighty constitutional
+values. Courts construe ambiguous penal laws with lenity because a
+free nation operates against a background presumption of individual
+liberty. See Wooden, 595 U. S., at 391–392 (opinion of
+Gorsuch, J.). We resolve doubts about a criminal law’s reach in
+favor of lenity, too, because in our federal government only the
+people’s elected representatives, not their judges, are vested with
+the power to “define a crime, and ordain its punishment.”
+Wiltberger, 5 Wheat., at 95; accord, Crandon v.
+United States, 494 U.S.
+152, 158 (1990); Wooden, 595 U. S., at 391–392
+(opinion of Gorsuch, J.).
+
+															Lenity protects vital due process interests, as
+well, by ensuring individuals fair notice of the consequences of
+their actions. United States v. Lanier, 520 U.S.
+259, 266 (1997); see McBoyle v. United States,
+283 U.S.
+25, 27
+(1931); Wooden, 595 U. S., at 389–391 (opinion of
+Gorsuch, J.). And lenity performs still further work, guarding
+against the possibility that judges might condemn unpopular
+individuals to punishment on the strength of their own views about
+common sense, good public policy, or “no more than a guess as to
+what Congress intended.” Ladner v. United States,
+358 U.S.
+169, 178 (1958).
+
+															So suppose you thought a reasonable doubt
+remained about how best to construe the First Step Act. In those
+circumstances, the answer cannot be to adopt an interpretation that
+restricts safety-valve relief to thousands more individuals. The
+only permissible answer is one that favors liberty.
+
+															VII
+
+															Today, the Court does not hedge its doubts in
+favor of liberty. Instead, it endorses the government’s implicit
+distribution theory and elevates it over the law’s ordinary and
+most natural meaning.
+
+															It is a regrettable choice that requires us to
+abandon one principle of statutory interpretation after another. We
+must read words into the law; we must delete others. We must ignore
+Congress’s use of a construction that tends to avoid, not invite,
+questions about implicit distribution. We must dismiss Congress’s
+variations in usage as sloppy mistakes. Never mind that Congress
+distributed phrases expressly when it wanted them to repeat in the
+safety valve. Never mind that Congress used “or” when it sought an
+efficient way to hinge eligibility for relief based on a single
+characteristic. We must then read even more words yet into the law
+to manufacture a superfluity problem that does not exist. We must
+elevate unexpressed congressional purposes over statutory text.
+Finally, rather than resolve any reasonable doubt about statutory
+meaning in favor of the individual, we must prefer a more punitive
+theory the government only recently engineered.
+
+															Today, the Court indulges each of these moves.
+All to what end? To deny some individuals a chance—just a chance—at
+relief from mandatory minimums and a sentence that fits them and
+their circumstances. It is a chance Congress promised in the First
+Step Act, and it is a promise this Court should have honored.
+Respectfully, I dissent.
+
+Notes
+1
+ The Fourth, Ninth, and
+Eleventh Circuits have taken Mr. Pulsifer’s approach. See United
+States v. Jones, 60 F. 4th 230 (CA4 2023); United
+States v. Lopez, 998 F.3d 431 (CA9 2021); United
+States v. Garcon, 54 F. 4th 1274 (CA11 2022) (en banc).
+The Fifth, Sixth, Seventh, and Eighth Circuits have taken the
+government’s view. See United States v. Palomares, 52
+F. 4th 640 (CA5 2022); United States v. Haynes, 55 F.
+4th 1075 (CA6 2022); United States v. Pace, 48 F. 4th
+741 (CA7 2022); 39 F. 4th 1018 (CA8 2022) (case
+below).
+2
+ Although at first blush
+“Commerce” might appear to be a singular noun, this term in fact
+describes “a noncountable abstraction,” Niz-Chavez v.
+Garland, 593 U.S. 155, 163 (2021), that this Court has said
+sweeps in “every species of commercial intercourse,” Gibbons
+v. Ogden, 9 Wheat. 1, 193 (1824).
+3
+ Same goes for the
+government’s example “I’m not free on Saturday and Sunday.”
+Ante, at 10; Brief for United States 39. In some contexts,
+the sentence might be understood to distribute the phrase “I’m not
+free on” and mean “I’m not free on Saturday and I’m not free
+on Sunday.” In others (suppose you were asked for help with a
+2-day home renovation project), it might mean “I’m not free on
+Saturday and Sunday” as a combination, even if I am free one day or
+the other. See Huddleston, Cambridge Grammar §2.2.2, at
+1298–1299.
+4
+ Alternatively, the
+government suggests, Congress might have used “and” in paragraph
+(f )(1) rather than “or” as it did in paragraphs
+(f )(2)–(4) because of something to do with the length or
+format of these provisions. To that end, the government invites us
+to compare paragraphs (f )(1) and (f )(4). Tr. of Oral
+Arg. 64; see also ante, at 25. But, as it turns out, those
+paragraphs are almost the same length: 49 words and 40 words,
+respectively. See §§3553(f )(1), (4). Nor can much be made of
+the formatting. The main difference is paragraph (f )(1)’s use
+of an em dash to set off the listed traits. But even the government
+has declined to make much of the em dash, and for good reason. It
+simply “mark[s] an interruption in the structure of a sentence,”
+substituting here for a colon. B. Garner, Modern English Usage 750
+(4th ed. 2016). No party before us suggests that this em dash is so
+versatile that it can transform an interruption into an implied
+distribution. See Brief for United States 38–39 (conceding that an
+em dash “is neither necessary nor sufficient for a
+distributive interpretation” (emphasis added)).
+5
+ Even the cases the Court
+cites, see ante, at 23, describe the presumption of
+meaningful variation without the qualification it now imagines. See
+IBP, Inc. v. Alvarez, 546 U.S.
+21, 34 (2005); Wisconsin Central Ltd. v. United
+States, 585 U.S. 274, 279 (2018).
+6
+ The Court offers still
+one more guess, again premised on careless drafting, about why
+Congress used “and” rather than “or.” Maybe, the Court posits, when
+Congress amended paragraph (f )(1) in 2018 it failed to notice
+that it had used “or” when drafting paragraphs
+(f )(2)–(f )(4) in 1994. Ante, at 25–26. Normally,
+though, we assume “that Congress is aware of existing law when it
+passes legislation.” Miles v. Apex Marine Corp.,
+498 U.S.
+19, 32 (1990). And it beggars belief to suppose that Congress
+didn’t bother to review the rest of the safety valve when it
+amended one of its provisions—particularly when it knew that
+defendants, prosecutors, and judges would necessarily read all five
+safety-valve provisions together as part of a single “eligibility
+checklist.” Ante, at 24; cf. Gwaltney of Smithfield,
+Ltd. v. Chesapeake Bay Foundation, Inc., 484 U.S.
+49, 57, and n. 2 (1987) (pointing to meaningful variation
+between the statutory language at issue and other, later enacted
+statutory provisions to counter the assertion that the choice of
+language was “a ‘careless accident’ ”).
+7
+ See, e.g.,
+United States v. Nesby, 2020 WL 4933657, *2 (SD Ill.,
+Aug. 24, 2020) (defendant had “accumulated 34 criminal history
+points, many of which were not countable in his criminal history
+calculation”); Jones v. United States, 2019 WL
+365715, *3 (D NJ, Jan. 30, 2019) (“The sentencing guidelines only
+permit a maximum of four one-point offenses to count toward a
+defendant’s criminal history”); United States v.
+Johnson, 2023 WL 4944732, *1 (WD Pa., Aug. 3, 2023) (same);
+Dameron v. United States, 2007 WL 893050, *4,
+n. 1 (ND Ohio, Mar. 21, 2007) (“The criminal convictions above
+produce a subtotal criminal history score of 10, and it is noted
+that 3 of the defendant’s 7 points under U.S.S.G. §4A1.1(c) were
+not countable”); United States v. Dalton, 2010 WL
+455239, *3 (D SC, Feb. 2, 2010) (noting 45 uncountable criminal
+history points “in addition to the fifteen countable criminal
+history points”).
+8
+ In a footnote, the Court
+concedes that both sides read paragraph (f )(1) as
+announcing a standardized formula or checklist that inevitably
+produces some “anomalies.” Ante, at 22, n. 7. Yet the
+Court proceeds to reject Mr. Pulsifer’s reading. Why? Only because
+it thinks that interpretation is just worse at performing the
+paragraph’s “role.” Ibid. Once more, the Court resorts to
+policy and purpose to escape its interpretive dilemma. And once
+more, it fails to heed its own advice to Mr. Pulsifer that one
+“interpretation is not better” than another “just because it would
+go further” in advancing some view about the law’s “role.”
+Ante, at 26.
+9
+ Nor is it clear that a
+“more serious” offender could even make it past paragraph
+(f )(1) to begin with. The government seems to worry that a
+3-point violent offense would not count as a 2-point violent
+offense under subparagraph (C), thus allowing some violent
+offenders to satisfy paragraph (f )(1) under its most natural
+construction. Ante, at 21–22; Brief for United States 22–23.
+But, while Mr. Pulsifer has not pursued the point in his case and
+so it is not at issue before us, some lower courts have held that
+an ordinary person would read subparagraph (C)’s reference to a
+2-point violent offense to embrace a violent offense carrying at
+least that many points. See, e.g., Lopez,
+998 F. 3d, at 440–441, n. 10; see also Pace, 48 F. 4th,
+at 765 (Wood, J., dissenting).
+
+

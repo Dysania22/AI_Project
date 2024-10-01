@@ -1,0 +1,104 @@
+::decision_cite:: 24A78
+::decision_name::  Department of Education v. Louisiana
+::decision_year:: 2024
+::opinion_author:: 
+::opinion_type:: 
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 24A78
+
+															_________________
+
+															DEPARTMENT OF EDUCATION, et al. v.
+LOUISIANA, et al.
+
+															on application for stay
+
+															_________________
+
+															No. 24A79
+
+															_________________
+
+															MIGUEL CARDONA, SECRETARY OF EDUCATION,
+et al. v. TENNESSEE, et al.
+
+															on application for stay
+
+															[August 16, 2024]
+
+															Per Curiam.
+
+															The application for a partial stay presented to
+Justice Alito in No. 24A78 and by him referred to the Court is
+denied. The application for a partial stay presented to Justice
+Kavanaugh in No. 24A79 and by him referred to the Court is
+denied.
+
+															The Department of Education recently issued a
+new rule implementing Title IX of the Education Amendments of 1972.
+The rule newly defined sex discrimination to “includ[e ]
+discrimination on the basis of sex stereotypes, sex
+characteristics, pregnancy or related conditions, sexual
+orientation, and gender identity.” 89 Fed. Reg. 33886 (2024).
+
+															Several States and other parties sought
+preliminary injunctions against the new rule, arguing among other
+things that the rule exceeded the bounds of the statutory text
+enacted by Congress. District Courts in Louisiana and Kentucky
+agreed with the plaintiffs and preliminarily enjoined enforcement
+of the rule in the plaintiff States. The Courts of Appeals for the
+Fifth and Sixth Circuits then declined to stay the injunctions in
+the interim period while those courts consider the Government’s
+appeals of the preliminary injunctions.
+
+															The Government has now filed emergency
+applications in this Court seeking partial stays of the preliminary
+injunctions pending resolution of the appeals in the Fifth and
+Sixth Circuits. The Court denies the Government’s applications.
+
+															Importantly, all Members of the Court today
+accept that the plaintiffs were entitled to preliminary injunctive
+relief as to three provisions of the rule, including the central
+provision that newly defines sex discrimination to include
+discrimination on the basis of sexual orientation and gender
+identity. But the Government argues (and the dissent agrees) that
+those provisions should be severed and that the other provisions of
+the new rule should still be permitted to take effect in the
+interim period while the Government’s appeals of the preliminary
+injunctions are pending in the Courts of Appeals. The lower courts
+concluded otherwise because the new definition of sex
+discrimination is intertwined with and affects many other
+provisions of the new rule. Those courts therefore concluded, at
+least at this preliminary stage, that the allegedly unlawful
+provisions are not readily severable from the remaining provisions.
+The lower courts also pointed out the difficulty that schools would
+face in determining how to apply the rule for a temporary period
+with some provisions in effect and some enjoined.
+
+															In this emergency posture in this Court, the
+burden is on the Government as applicant to show, among other
+things, a likelihood of success on its severability argument and
+that the equities favor a stay. On this limited record and in its
+emergency applications, the Government has not provided this Court
+a sufficient basis to disturb the lower courts’ interim conclusions
+that the three provisions found likely to be unlawful are
+intertwined with and affect other provisions of the rule. Nor has
+the Government adequately identified which particular provisions,
+if any, are sufficiently independent of the enjoined definitional
+provision and thus might be able to remain in effect. Moreover,
+related to the equities, the Sixth Circuit has already expedited
+its consideration of the case and scheduled oral argument for
+October. The Court expects that the Courts of Appeals will render
+their decisions with appropriate dispatch. In light of all of the
+circumstances, the Court denies the Government’s applications for
+partial stays.
+
+															It is so ordered.
+

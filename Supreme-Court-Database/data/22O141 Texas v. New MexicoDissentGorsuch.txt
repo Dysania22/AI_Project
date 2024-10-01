@@ -1,0 +1,961 @@
+::decision_cite:: 22O141
+::decision_name::  Texas v. New Mexico
+::decision_year:: 2024
+::opinion_author:: Gorsuch
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 141, Orig.
+
+															_________________
+
+															TEXAS, PLAINTIFF v. NEW MEXICO AND
+COLORADO
+
+															on exception to third interim report of the
+special master
+
+															[June 21, 2024]
+
+															
+
+															Justice Gorsuch, with whom Justice Thomas,
+Justice Alito, and Justice Barrett join, dissenting.
+
+															Texas and New Mexico ask us to approve a consent
+decree resolving their decade-long original jurisdiction dispute
+over the Rio Grande Compact. The decree would fairly apportion
+water from the Rio Grande River between those two States and leave
+federal reclamation operations in the area running the way they
+have run for decades. A Special Master we appointed to consider the
+dispute has recommended approving the proposed decree, concluding
+that it is “difficult to envision a resolution to this matter that
+might be superior.” Third Interim Report of the Special Master 15
+(Third Interim Report). The States’ dispute resolved, and the basis
+for our original jurisdiction gone with it, the Special Master also
+recommends dismissing without prejudice any claims the United
+States, an intervenor in the case, might hold.
+
+															Still, the Court denies entry of the consent
+decree. Why? Because the federal government demands as much. Not
+content with receiving what it asked for when it intervened in this
+litigation—the protection of its existing federal reclamation
+operations—the United States now seeks to advance a theory about
+how water should be distributed between Texas and New Mexico so
+aggressive that New Mexico fears it could devastate its economy. In
+the process, the federal government seeks to prolong this original
+jurisdiction dispute, a form of litigation usually reserved for
+disputes between States, over the objection of both Texas and New
+Mexico. And it does so despite the fact the consent decree would
+leave the federal government free to pursue any claims it believes
+it has in the lower courts, where disputes between the federal
+government and States are normally tried.
+
+															The Court’s decision is inconsistent with how
+original jurisdiction cases normally proceed. It defies 100 years
+of this Court’s water law jurisprudence. And it represents a
+serious assault on the power of States to govern, as they always
+have, the water rights of users in their jurisdictions. The Special
+Master issued a detailed 115-page report laying all this out. His
+views were wise, his recommendations sound, and, respectfully, we
+should have done as he suggested.
+
+															I
+
+															A
+
+															Beginning its journey high in the San Juan
+Mountains, the Rio Grande runs through Colorado, New Mexico, and
+Texas before flowing into Mexico and eventually the Gulf of Mexico.
+Along the way, the river serves as a vital irrigation source for
+crops as varied as the terrain through which it passes, nourishing
+everything from pecans to the justly famous green chiles of the
+Hatch Valley. See El Encanto, Inc. v. Hatch Chile
+Co., 825 F.3d 1161 (CA10 2016).
+
+															To ensure “an equitable apportionment” of the
+Rio Grande’s waters, Colorado, New Mexico, and Texas entered into
+the Rio Grande Compact in 1938. 53 Stat. 785. Congress approved it
+the following year. Ibid.; see U. S. Const., Art. I,
+§10, cl. 3 (requiring congressional approval for a State’s “Compact
+with another State”). The Compact directs Colorado to deliver a
+specified amount of water to the New Mexico-Colorado border. 53
+Stat. 787–788. New Mexico must then deliver water to Elephant Butte
+Reservoir, located about 100 miles north of the Texas line, in
+order to ensure Texas receives its share of the river’s waters.
+Id., at 788.
+
+															The United States Bureau of Reclamation operates
+the Reservoir as part of the federal Rio Grande Project. That
+Project serves two roles relevant here. First, pursuant to
+contracts with New Mexico and Texas water districts (serving areas
+around Las Cruces and El Paso), the Project supplies water from the
+Reservoir to those districts using a roughly 57%–43% split between
+New Mexico and Texas. Texas v. New Mexico, 583 U.S.
+407, 410 (2018) (Texas I ). We have called these the
+Downstream Contracts, and they essentially work to supplement the
+Compact, which is silent as to the precise quantity of water owed
+Texas. Id., at 410–411. Second, the Project ensures the
+delivery of a set amount of water to Mexico to satisfy treaty
+obligations to that country. Id., at 410.
+
+															Over the better part of a century, this
+arrangement has worked reasonably well. Yes, disagreements
+occasionally arise, sometimes leading to the filing of a complaint
+in this Court. But, invariably, these disputes have settled before
+the Court reached the merits. See, e.g., Texas
+v. New Mexico, 308 U.S. 510 (1939); Texas v.
+Colorado, 474 U.S. 1017 (1985).
+
+															B
+
+															In the early 2000s, another disagreement
+arose. The causes? The 100-mile-long journey water must travel from
+Elephant Butte Reservoir to Texas, and the increase in groundwater
+pumping along that route. Groundwater and surface water (like the
+Rio Grande) are often connected, drawing from and feeding back into
+one another. Because of this connection, pumping by New Mexicans
+downstream of the Reservoir (that is, between Elephant Butte and
+Texas) reduces the amount of Project water that reaches Texas’s
+water district. Texas saw this as a violation of the Compact. So in
+2013, it sought to file a bill of complaint in this Court against
+New Mexico. (Colorado, as a signatory to the Compact, joined as a
+defendant). We agreed to exercise our original jurisdiction over
+the case and appointed a Special Master to aid in our consideration
+of it. Texas I, 583 U. S., at 411.
+
+															In brief, here is how Texas framed its claim. It
+argued that the Compact implicitly guarantees that the State’s
+water district will receive a certain minimum quantity of Rio
+Grande water from New Mexico. And, Texas contended, we should
+calculate the amount of that water based on the “conditions” in and
+around the river “that existed in 1938 at the time the Rio Grande
+Compact was executed.” Texas Complaint 5, ¶10. Back in 1938, there
+was hardly any groundwater pumping. So adopting 1938 conditions as
+our baseline would have the effect of giving Texas’s water district
+more water. See id., at 8–10, ¶18.
+
+															New Mexico resisted Texas’s claim. Among other
+things, New Mexico observed that the Compact is silent about how to
+measure water due Texas. N. M. Brief in Opposition 14–15 (Mar.
+11, 2013). And New Mexico stressed that, since approximately 1980,
+the federal government has relied on data about Rio Grande
+conditions between 1951 and 1978—the so-called D2 Period, when
+groundwater pumping was more prevalent—to calculate the amount of
+water due Texas’s water district under the Downstream Contracts.
+See N. M. Counterclaims 10–11, ¶¶40–41 (May 22, 2018); Joint
+Reply to Exception of the United States by the State of Texas
+et al. 5–6. New Mexico stressed, too, that Texas had not
+previously objected in this Court to that practice—a sign, New
+Mexico said, that Texas understood it to be entirely consistent
+with the Compact. N. M. Answer 10–11, ¶36 (May 22, 2018).
+
+															Abandoning decades of practice and mutual
+understanding, New Mexico continued, would threaten dire
+consequences for its economy. Farming along the Rio Grande, New
+Mexico explained, relies in part on groundwater pumping for
+irrigation. And replacing the D2 Period with a 1938 baseline, when
+pumping was all but nonexistent, could put at risk nearly 50,000
+jobs (in a State of 2 million people) and up to 10% of the State’s
+gross domestic product. See 1 Tr. of Proceedings before the Special
+Master 47 (Oct. 4, 2021).
+
+															In short order, the United States moved to
+intervene and “filed a complaint that presented the federal
+government’s interests.” Tr. of Oral Arg. 4 (Jan. 8, 2018) (2018
+Transcript). For its part, the United States agreed with Texas
+about the bottom line—that New Mexican groundwater pumping below
+the Elephant Butte Reservoir was “interfering with the equitable
+apportion[ment of] water to Texas.” Id., at 29–30. But it
+disagreed with Texas about the appropriate method for calculating
+the amount of water owed Texas. A holding for Texas that the
+Compact required the use of a 1938 baseline, the federal government
+worried, would require it to alter its longstanding use of the D2
+Period when assessing what deliveries were due under the Downstream
+Contracts. Reply Brief for United States 20 (July 28, 2017) (2017
+Reply). Intervention, as the federal government put it, would allow
+it to protect its interest “in the Project’s operation” as well as
+its interest in ensuring sufficient water reaches Mexico to satisfy
+its treaty obligations. Id., at 11–12, 18.
+
+															The United States also flagged for us a
+procedural issue: Because the federal government wasn’t a signatory
+to the Compact, it wasn’t clear on what basis it could press any
+Compact claims separate from the claims held by the signatory
+States. This raised the question whether the United States “could
+go forward” with claims in its own right “if Texas’s complaint were
+dismissed” or the parties settled. 2018 Transcript 14. The
+government speculated that it might be able to bring an independent
+claim as a “third-party beneficiary,” id., at 19, or perhaps
+had some “implied right of action” under general “equitable”
+principles, id., at 20. But because Texas’s complaint
+was “going forward,” the government asked us not to “reach
+that” issue. Id., at 14.
+
+															After hearing argument, in 2018 we “permitted
+the federal government to participate in [this] compact sui[t].”
+Texas I, 583 U. S., at 412. In our decision, we
+accepted the federal government’s suggestion that there was no need
+to decide whether it had valid, independent Compact claims of its
+own. Id., at 415. Instead, we held, four “considerations
+taken collectively persuade[d] us” that the government’s
+participation was appropriate. Id., at 413. First, we
+recognized the federal government’s “duties under the Downstream
+Contracts” afforded it an “interest in seeing that water is
+deposited in the Reservoir consistent with the Compact’s terms.”
+Id., at 414. Second, we gave weight to New Mexico’s
+concession that the Project “plays an integral role in the
+Compact’s operation.” Ibid. Third, we said that
+“[p]ermitting the United States” to intervene would “allow it to
+ensure” its treaty obligations to Mexico were “honored.”
+Id., at 415. Fourth, we emphasized that we had no
+reason to decide whether the government could press Compact claims
+independently of the States because “the United States ha[d]
+asserted its Compact claims in an existing action brought by Texas,
+seeking substantially the same relief and without that State’s
+objection.” Ibid.
+
+															At the same time, we expressly warned that
+“permission” to intervene “should not be confused for license.”
+Id., at 413. In particular, we stressed, “[t]his case does
+not present the question whether the United States could initiate
+[its own] litigation . . . under the Compact or expand
+the scope of an existing controversy between [the] States.”
+Id., at 415. And, we added, “[n]othing in our opinion should
+be taken to suggest whether a different result would obtain in the
+absence of any of the considerations” we had laid out, “or in the
+presence of additional, countervailing considerations.”
+Ibid.
+
+															C
+
+															Once the case returned to the Special Master,
+it appeared to be heading in the same direction as prior disputes
+about the Rio Grande Compact. After completing an “initial phase”
+of a trial, months-long negotiations followed. Third Interim Report
+35. Ultimately, those discussions culminated in a settlement and
+proposed consent decree in 2022. In the decree, the parties agreed
+to continue using the D2 Period to measure the amount of water due
+Texas’s water district. Id., at 42; see Addendum to Third
+Interim Report 8–11 (Addendum). But they also agreed Elephant
+Butte—over 100 miles from the Texas border—wasn’t the appropriate
+place to measure the amounts due Texas in light of the New Mexican
+groundwater pumping between the Reservoir and state line. Instead,
+the States resolved to measure water flows into Texas at a
+federally operated gauge near El Paso, Texas, by the border between
+the two States. Third Interim Report 7; Addendum 8–9.
+
+															In short, as with any settlement agreement, each
+side gave something up to gain something it wanted. Through the use
+of the El Paso gauge, Texas received a guarantee that deliveries to
+its water district would be protected from excessive New Mexican
+groundwater pumping between Elephant Butte and the state line. And
+through the continued use of the D2 Period as the baseline, New
+Mexico won its water users the right to maintain at least some of
+that pumping. Colorado, as a signatory to the Compact, gave its
+assent.
+
+															For the United States, the consent decree
+promised business as usual. That’s because “the [c]onsent [d]ecree
+essentially adopt[ed]” the federal government’s “own method of
+operating.” Third Interim Report 107. The government would continue
+to use the D2 Period for measuring the amounts it distributed to
+Texas’s and New Mexico’s water districts, just as it had sought
+when it intervened and as it has done “for approximately the last
+40 years.” Id., at 42. The federal government would not even
+have to establish a new water gauge at El Paso, for it already
+operates one. See id., at 107. It was undisputed, too, that
+the consent decree would protect water due Mexico under this
+country’s treaty with that nation. Id., at 94,
+n. 10.
+
+															The federal government objected to the decree’s
+entry anyway. In an unexpected and still-unexplained move, the
+United States abandoned its position, held for over 40 years, that
+its own D2 Period data supply the correct method for measuring the
+amount of water it must deliver to Texas and New Mexico water
+districts. Instead, the federal government began advocating for
+something similar to what Texas had once urged—the “broad
+elimination of New Mexican [groundwater] pumping through a return
+to a 1938” baseline. Id., at 14. Unlike Texas, however, the
+federal government had never alleged in its complaint that the
+Compact required the use of the 1938 baseline. In fact, it still
+has not sought to plead such a claim. Perhaps even stranger yet,
+despite its new litigating position, the United States continued
+(and still continues) to deliver water to the water districts using
+the D2 Period as its guide.
+
+															D
+
+															In a detailed 115-page report, the Special
+Master recommended we approve the consent decree. He advised that
+it was “difficult to envision a resolution to this matter that
+might be superior” to it. Id., at 15. In particular, the
+Special Master observed that the States and federal government had
+long used the D2 Period to measure the apportionment of water due
+each State. And nothing in the voluminous submissions he received
+suggested that they had to do otherwise. As he put it, no evidence
+suggested that “the Compacting States believed [in 1938] they were
+locking in . . . any particular condition of
+development,” such as a certain amount of groundwater pumping, for
+determining what water was due Texas or New Mexico. Id., at
+76–77.
+
+															That left the question what to do with any
+claims the federal government might believe it has and wishes to
+pursue as a result of its newfound views. Our decision in Texas
+I, the Special Master recalled, did not decide whether the
+government had viable, independent Compact claims of its own. And
+rather than undertake that assessment himself, he recommended
+dismissing any claims the government might have without prejudice.
+Third Interim Report 115. The Court, he reasoned, had taken the
+rare step of exercising its original jurisdiction because the case
+involved a dispute between two States. Id., at 11. That
+dispute was now resolved. And, he said, the federal government
+could pursue any claims it might have against the States or other
+water users as it normally does, “in one of several ongoing or any
+new lower court actions.” Id., at 99. In fact, as the
+Special Master alluded to, the federal government is already
+involved in Compact-related litigation with New Mexico in federal
+district court. See New Mexico v. United States, No.
+1:11–cv–00691 (DNM).
+
+															Though the States’ agreement and the Special
+Master’s recommendations promised to bring to an end a decade of
+litigation, the United States filed an exception to those
+recommendations. It asked us to reject the proposed decree and
+order the Special Master to conduct further proceedings yet. We
+agreed to hear oral argument on the federal government’s
+request.
+
+															II
+
+															A
+
+															The principles that guide our analysis in
+original jurisdiction water disputes like this one are long
+settled. The “power to control navigation, fishing, and other
+public uses of water,” we have said, “is an essential attribute of
+[State] sovereignty.” Tarrant Regional Water Dist. v.
+Herrmann, 569 U.S.
+614, 631 (2013) (internal quotation marks omitted). But in our
+federal system, one State may not exercise its sovereignty in ways
+that deny another State the capacity to exercise its own. So to
+prevent upstream States from wholly draining rivers that would
+otherwise reach their downstream neighbors, this Court many years
+ago developed the doctrine of equitable apportionment—the notion
+“that States have an equal right to make a reasonable use of a
+shared water resource.” Mississippi v. Tennessee, 595
+U.S. 15, 24 (2021) (internal quotation marks omitted); see
+Kansas v. Colorado, 206 U.S.
+46 (1907).
+
+															Time and again, we have urged States to effect
+this apportionment “by mutual accommodation and agreement” rather
+than through litigation. Florida v. Georgia, 585 U.S.
+803, 809 (2018) (internal quotation marks omitted) (collecting
+cases). Agreements of that kind usually take the form of an
+interstate compact. Once approved by Congress, compacts gain the
+status of federal law. Texas I, 583 U. S., at 412. And
+because States’ authority over their waters is an essential
+attribute of their sovereignty, a compact’s apportionment of water
+between two or more States “is binding upon . . . all
+water claimants” in those States, “even where [a] State had granted
+the water rights before it entered into the compact.”
+Hinderlider v. La Plata River & Cherry Creek Ditch
+Co., 304 U.S.
+92, 106 (1938). So, for example, a compact between Texas and
+New Mexico allocating water between them binds their respective
+water districts that contract for water with the federal
+government, along with all other water users in their
+jurisdictions.
+
+															Notably, compacts also bind the federal
+government when it distributes water from its reclamation projects
+pursuant to agreements like the Downstream Contracts. Compacts do
+so not only because they are federal law. Texas I,
+583 U. S., at 412. They do so as well because Congress has
+specifically directed federal reclamation projects to “follow state
+law as to water rights” unless that law conflicts with some other
+“explicit congressional directive.” California v. United
+States, 438 U.S.
+645, 673 (1978); see 43 U. S. C. §383. As we have put
+it, Congress has “subject[ed] to the authority of ” the States
+“[a]ll of the acts of the [federal] Reclamation Bureau in operating
+[its] reservoirs.” Nebraska v. Wyoming, 295 U.S.
+40, 42 (1935) (Nebraska I ). So an interstate water
+rights compact “necessarily bind[s]” the government as it would
+“any other appropriator in th[e] [S]tate.” Id., at 43. We
+have referred to this aspect of congressional water policy as a
+form of “ ‘cooperative federalism.’ ” California,
+438 U. S., at 650.
+
+															While compacts provide a highly valuable tool
+for resolving water disputes, disagreements about the meaning of
+their terms arise from time to time. The Constitution vests this
+Court with original jurisdiction to adjudicate these interstate
+disputes, an “ ‘awkwar[d]’ ” arrangement where we sit, in
+effect, as a trial court, a court of first (and last) review.
+South Carolina v. North Carolina, 558 U.S. 256, 267
+(2010). Decide though we may, our general
+“ ‘preference’ ” is for States to negotiate to resolve
+their differences. Florida, 585 U. S., at 809. When
+those negotiations bear fruit, the product is often a proposed
+consent decree containing “detailed mechanisms to promote
+compliance with the [c]ompact’s terms.” E.g.,
+Kansas v. Nebraska, 574 U.S.
+445, 451 (2015).
+
+															Because a consent decree in a water rights case
+seeks simply to provide more “detailed mechanisms” to implement a
+compact, it bears the same force as one. Just like a compact, a
+consent decree is binding on all those in the affected States,
+regardless of their “participation” in the case, Nebraska v.
+Wyoming, 515 U.S.
+1, 22 (1995), or their “assent or dissent,” Hudson County
+Water Co. v. McCarter, 209 U.S.
+349, 355 (1908). And, once more, the same holds true when it
+comes to federal reclamation projects that distribute water to
+users in the affected States. They must operate consistently with a
+decree’s terms unless doing so conflicts with some other explicit
+congressional directive. See Nebraska I, 295 U. S., at
+43; California, 438 U. S., at 674.
+
+															Still, our approval of a consent decree is
+hardly a given. The parties may not use a settlement to rewrite a
+compact, for a new compact requires new congressional approval. See
+Kansas, 574 U. S., at 455–456. So, when presented, as
+we are here, with a request to approve a proposed consent decree,
+two considerations guide our decisionmaking. First, we ask
+whether the decree is “consistent with the compact itself.”
+Id., at 455. In answering that question, we do not require
+the States’ proposal to be perfect. Rather, we will “give [a
+settlement] effect” as long as it is not “wholly contrary to
+relevant evidence, . . . even if we would reach a
+different conclusion upon the same evidence.” New Hampshire
+v. Maine, 426 U.S.
+363, 369 (1976). Second, because the parties’ agreement
+is the driving force behind the decree, we consider whether the
+decree purports to bind third parties the States have no authority
+to represent. In particular, we confirm that a proposed settlement
+does not improperly impose duties or obligations on those third
+parties without their consent or dispose of the valid claims they
+enjoy. Firefighters v. Cleveland, 478 U.S.
+501, 529 (1986).
+
+															B
+
+															With these rules in mind, I see no sound basis
+on which we might refuse to adopt the Special Master’s
+recommendation to approve the States’ consent decree.
+
+															First, the decree is consistent with the
+Compact. All agree the Compact implicitly guarantees Texas some
+minimum amount of Rio Grande water each year. Third Interim Report
+75–76, and n. 6. In their settlement, the States propose to
+calculate that amount by reference to the D2 Period and measure it
+at a water gauge at El Paso. Both terms are entirely appropriate.
+The States have relied on the D2 Period for decades. And in making
+distributions to those States’ water districts pursuant to the
+Downstream Contracts, so has the federal government. These
+longstanding practices are “highly significant evidence of
+[everyone’s] understanding of the [C]ompact’s terms.” Tarrant
+Regional Water Dist., 569 U. S., at 636 (internal
+quotation marks omitted). All agree, too, that the Compact
+expressly authorizes representatives from each compacting State to
+choose gauge locations. See Third Interim Report 69–70. So use of
+the El Paso gauge is consistent with the Compact as well. Indeed,
+by using that gauging station rather than one 100 miles upstream
+from the Texas border at the Elephant Butte Reservoir, the decree
+ensures Texas’s water district is protected from excessive
+groundwater pumping in New Mexico between the Reservoir and the
+state line.
+
+															Second, the consent decree does not
+impose any new improper duty or obligation on the federal
+government or deny it the ability to pursue any valid claim it may
+have. Yes, under the decree, reclamation authorities must measure
+water they distribute to Texas’s and New Mexico’s water districts
+using the D2 Period. And they must use the El Paso gauging station
+to do so. But, again, the federal government has employed the D2
+Period to measure the water it distributes for decades, and it has
+long maintained the El Paso gauging station. The government cannot
+sensibly suggest that it would be improper to require it to
+continue doing as it has long done.
+
+															Nor is there anything unusual about any of this.
+As we have seen, under longstanding federal law, a consent decree
+between the States “will necessarily bind” “the Reclamation Bureau”
+because “[a]ll of [its] acts . . . in operating the
+[Project] so as to impound and release waters of the river are
+subject to the [States’] authority.” Nebraska I, 295
+U. S., at 42–43; see Part II–A, supra. Accordingly,
+Texas and New Mexico are entitled to decide what water rights their
+governmental water districts are due, and the federal government’s
+reclamation project is bound to honor what the States say on the
+subject. See ibid.; California, 438 U. S., at
+675. Of course, a consent decree would be improper if it left the
+federal government unable to meet some other “explicit
+congressional directive.” Id., at 673. But the government
+does not argue anything of the sort here, never suggesting, for
+example, that the proposed decree would risk its obligations under
+its treaty with Mexico. To the contrary, it is undisputed that
+compliance with the decree would “protect the [t]reaty
+water.” Third Interim Report 94, n. 10 (emphasis added).
+
+															Think about it this way. A federal reclamation
+project may not decide that state water districts are entitled to
+different water rights than States have specified in their compacts
+and consent decrees. Those agreements bear the force of federal
+law, as Congress has directed and our cases have long recognized.
+And were there any possible remaining room for doubt, the
+Downstream Contracts themselves dispel it. They direct the
+contracting parties (the federal government and the water
+districts) to apply two sources of law when allocating water: that
+of the States and the federal Reclamation Act of 1902—the same
+statute that instructs the federal government to defer to the
+States in allocating water rights among their users and to operate
+reclamation projects consistent with what state law requires. See 4
+Tex. App. in Support of Partial Summary Judgment 593; 2 id.,
+at 911–912; 43 U. S. C. §383.
+
+															Nor does the consent decree dispose of any valid
+claims the federal government may possess in its own right, whether
+under the Compact or any other source of law. To be sure, to the
+extent the federal government seeks to pursue a claim “wholly
+derivative” of the States (or their water districts), those claims
+necessarily “rise or fall with the claims of the States,” and the
+federal government has no independent right to press them.
+Alabama v. North Carolina, 560 U.S. 330, 357 (2010).
+But, to the extent the federal government thinks it has any
+independent claims of its own, the Special Master recommends
+dismissing them without prejudice.
+
+															That is “an entirely appropriate”—and our long-
+preferred—“means of resolving whatever questions remain” after the
+resolution of an interstate dispute. California v.
+Nevada, 447 U.S.
+125, 133 (1980). After all, once a dispute between the States
+comes to an end, so does the basis for our exclusive original
+jurisdiction—jurisdiction we exercise only
+“ ‘sparingly.’ ” South Carolina, 558 U. S.,
+at 267; see 28 U. S. C. §1251. A dismissal without
+prejudice allows the federal government to pursue any valid
+independent claims it may have in the ordinary course in lower
+courts. And, naturally, should the federal government prevail in
+that litigation in a way that affects the consent decree, it may
+return to this Court and seek a modification of that decree.
+
+															Our consent-decree decisions outside the
+water-rights context confirm as much. Take Firefighters v.
+Cleveland, a Title VII discrimination suit brought by “an
+organization of black and Hispanic firefighters” against their
+employer, the city of Cleveland. 478 U. S., at 504. Under the
+terms of a proposed consent decree, the city sought to revise an
+allegedly discriminatory promotion exam and otherwise make up for
+its “assertedly limited minority advancement.” Id., at 505;
+see id., at 510. An intervenor, the union “represent[ing] a
+majority of Cleveland’s firefighters,” objected on the ground that
+the remedy would harm its “ ‘non- minority’ ” members.
+Id., at 506, 512. Affirming the entry of the decree, we
+noted that the union remained free to bring its own independent
+Title VII or Fourteenth Amendment claims in separate litigation.
+Id., at 530. “[W]hether [those] claims have merit [is a]
+questio[n] that must be presented in the first instance to the
+[d]istrict [c]ourt.” Ibid. Until then, city employees,
+including union members, would be subject to the consent decree’s
+promotion provisions. If the union members won on their statutory
+or constitutional challenges, however, the decree would have to be
+modified to bring it in line with those laws. See id., at
+526–528. So too here.[1]
+
+															III
+
+															Despite reaching a different result, the
+majority has little to say in response. It does not dispute the
+above account of our settled water law jurisprudence. Nor does it
+identify any inconsistency between the proposed consent decree and
+the Compact’s terms. Instead, bypassing all that, the majority
+proceeds in two steps. First, it suggests, the United States may
+have valid, independent Compact claims of its own that the consent
+decree extinguishes; second, the majority insists, holding
+otherwise would be inconsistent with our decision in Texas
+I, where we allowed the federal government to participate to
+protect its interests. Neither argument is sound.
+
+															A
+
+															Primarily, the majority contends the decree
+risks disposing of valid, independent claims that may belong to the
+federal government. To advance its position, the majority relies on
+supposed “concessions” by Texas and New Mexico before the Special
+Master that, if the consent decree were confirmed, the federal
+government would be left with “ ‘no remaining Compact
+claims.’ ” Ante, at 16 (emphasis deleted); see also
+ante, at 19, n. 5 (treating a similar assertion by
+Texas at oral argument as a “conce[ssion]”). This argument is wrong
+for a number of reasons.
+
+															First, the majority’s telling omits what
+happened next. Far from “agree[ing]” with the States, ante,
+at 16, the Special Master recommended we dismiss any claims the
+federal government might have in its own right “without prejudice
+to being asserted in other fora,” Third Interim Report 11. This
+recommendation applied, he said, “regardless of whether the United
+States bases its claims on Reclamation law, state law, the Compact,
+or some other source of authority.” Ibid. Because the States
+did not file an exception to this recommendation, we may treat them
+as having acceded to it. See Texas v. New Mexico, 592
+U.S. 98, 105 (2020). That alone is enough to answer the
+majority.
+
+															Second, the majority does not explain why the
+usual course of dismissing a third party’s claims without prejudice
+wouldn’t be “entirely appropriate” here, as it ordinarily is in our
+original jurisdiction cases. California, 447 U. S., at
+133; see ante, at 16–18. The majority does not, for example,
+explain why the federal government could not press whatever
+independent Compact claims it believes it has in lower courts and
+return here, if necessary, to seek modification of the States’
+consent decree. See Third Interim Report 99–100. The majority does
+not offer any such explanation because it cannot. See supra,
+at 15–16, and n. 1. Until the government had the case stayed
+to participate in this one, the United States was already involved,
+as we have seen, in Compact litigation with New Mexico in federal
+district court. See Memorandum Opinion and Order in New
+Mexico v. United States, No. 1:11–cv–00691 (DNM, Mar.
+29, 2013), ECF Doc. 193, pp. 5–6. Perhaps the government thinks it
+more convenient to remain here than to return for decree
+modification should it prevail in that suit or another. But that
+“do[es] not provide a basis for declining to [approve] a decree.”
+Idaho ex rel. Evans v. Oregon, 462 U.S.
+1017, 1026 (1983).
+
+															Third, the majority struggles to spell out how
+the government might possibly hold Compact claims in its own
+right—that is, independent of the States’ claims. Yes, the majority
+describes the government’s present “position”—namely that the
+Compact imposes a 1938 baseline—and repeats the observation that
+“the Compact trumps state water law.” Ante, at 15. But the
+majority does not suggest, as the government once did, that the
+United States may sue as a third-party beneficiary of the Compact
+or under some ill-defined equitable cause of action. See
+ante, at 11, n. 2, 14; Part I–B, supra; 2018
+Transcript 19–20. Nor does the majority purport to identify
+anything in the Compact that might entitle the federal government
+the right to sue to demand a 1938 baseline. See Tarrant Regional
+Water Dist., 569 U. S., at 632 (“silence in compacts” must
+be read in favor of “the States’ authority to control their
+waters”). In fact, the majority does not dispute that the United
+States still has yet even to plead such a claim of its
+own.[2]
+
+															Fourth, the majority conspicuously avoids the
+lessons of our water law jurisprudence. So, for example, the
+majority expresses surprise that the government might be bound to
+honor the terms of the consent decree until and unless it prevails
+in other litigation on its own claims and then returns here to seek
+revision of the decree. Ante, at 19, n. 5; n. 1,
+supra. But about that there should be no surprise. Few rules
+in water law are more settled than that federal reclamation
+projects must comply with any Compact, state water law, or consent
+decree term “not inconsistent with clear congressional directives
+respecting the project.” California, 438 U. S., at 672;
+see also Part II, supra. And here, no one, the majority
+included, has identified any congressional directive, much less a
+clear one, inconsistent with the consent decree before us.
+
+															Fifth, the majority’s reasoning doesn’t
+withstand scrutiny even under ordinary consent-decree principles.
+Suppose, as the majority does (incorrectly), that approval of the
+decree would necessarily preclude the United States from claiming
+in any other forum “that New Mexico’s present degree of groundwater
+pumping violates the Compact.” Ante, at 17. Even so, the
+majority is mistaken when it claims that the proposed consent
+decree “would have the effect of ‘cutting [the United States] off
+from a remedy to which’ it alleges it is entitled.” Ante, at
+17–18 (quoting Lawyer v. Department of Justice,
+521 U.S.
+567, 579 (1997)). It is undisputed that the government’s
+present “prayer for relief ” in this case seeks only to
+“prohibit th[e] interference” with the Project caused by excess
+groundwater pumping in New Mexico. Ante, at 16–17. All
+agree, too, that at the time the United States intervened, the
+government determined how much pumping was too much by reference to
+the D2 Period; the government did not allege—and still has not
+alleged—in its complaint that the Compact mandates a 1938 baseline.
+Part I–B, supra. To complete the majority’s clipped
+quotation, then, the decree would “dispos[e] of [the government’s]
+claim not in the forbidden sense of cutting [it] off from a remedy”
+to which it alleges it is entitled, “but only in the legitimate
+sense of granting [the government] the very relief [it] had
+sought.” Lawyer, 521 U. S., at 579; see infra,
+at 22–24.
+
+															Instead of answering any of these problems, the
+majority changes the subject. It replies by observing that the
+federal government’s deliveries under the Downstream Contracts play
+a central role in effectuating the Compact by ensuring certain Rio
+Grande waters reach New Mexico and Texas water districts.
+Ante, at 9–10. That may be so, but it is no answer for
+reasons we have already seen. Those contracts do not promise water
+districts that the 1938 conditions will be used in measuring the
+water due them. Nor may the federal government seek to vindicate
+the contractual rights of the States’ own water districts. Rather,
+Congress’s instructions, a century’s worth of this Court’s
+precedents, and the Downstream Contracts themselves teach that the
+compacting States get to decide what water rights those and other
+water users in their jurisdictions enjoy. And a federal reclamation
+project is bound to honor those decisions absent some clear
+congressional command to the contrary. See Part II,
+supra.
+
+															B
+
+															At this point, the majority retreats. Perhaps
+what I have laid out above would hold true in any other case, it
+replies, but this one is special. Special, the majority asserts,
+because in Texas I we allowed the United States to
+participate in this case. And that ruling, the majority says,
+necessarily means the United States may pursue, independently of
+Texas, a claim that the Compact requires use of the 1938
+conditions. Ante, at 9–13.
+
+															This argument is mistaken, too. Recall that, in
+Texas I, the government suggested it might be able to sue in
+its own right under third-party-beneficiary or
+equitable-cause-of-action theories. See Part I–B, supra. But
+recall, too, that the federal government asked us not to
+“reach” the question whether it could independently bring claims of
+its own under these theories or any others. Ibid.; 2018
+Transcript 14. It said answering the question whether it could sue
+in its own right was needless because Texas’s claims were live.
+Ibid. We proceeded in express reliance on that
+representation, stressing that we were not resolving either
+“the question whether the United States” could sue independently of
+Texas “under the Compact” or the question whether it could
+otherwise “expand the scope of an existing controversy between
+States.” Texas I, 583 U. S., at 415.
+
+															Really, there was no way we could have
+passed on the federal government’s current assertion that it has a
+right to pursue a claim that the Compact requires the use of a 1938
+baseline. As the majority concedes, Texas I “repeatedly”
+cabined our permission to intervene to “ ‘the Compact claims
+[the United States] has pleaded in this original action.’ ”
+Ante, at 11, n. 2 (quoting 583 U. S., at 415). As
+the majority admits, too, the government has never pleaded the
+existence of a 1938 baseline. Ante, at 13, and n. 3.
+Instead, when it sought to intervene, the government took just the
+opposite view, arguing that its longstanding use of the D2 Period
+was consistent with the Compact. Allowing the government to reverse
+course now is not required by anything in Texas I. More
+nearly, it defies that decision by “expand[ing] the scope” of the
+parties’ litigation. Ante, at 18. In fact, it is hard to
+imagine anything that might do more to expand the scope of this
+dispute than forcing the States to continue to litigate when they
+have already resolved their differences. Cf. Town of Chester
+v. Laroe Estates, Inc., 581 U.S. 433 (2017) (intervenor
+expands the scope of a case when it requests a money judgment
+different from the one sought by plaintiff ).[3]
+
+															The truth is, this Court has “often permitted
+the United States to intervene” even without a valid claim of its
+own. Maryland v. Louisiana, 451
+U.S. 725, 745, n. 21 (1981). Texas I was simply of
+a piece with that practice. See 583 U. S., at 413 (citing that
+portion of Maryland). Far from holding the federal
+government could pursue a claim in its own right, we permitted it
+to “participate . . . to defend . . . interests
+that a normal litigant might not be permitted to pursue in
+traditional litigation.” 583 U. S., at 412–413 (internal
+quotation marks omitted); accord, ante, at 9. And allowing
+intervention in that posture is anything but a holding that the
+government may pursue an independent claim of its own. Cf. Fed.
+Rules Civ. Proc. 24(a)–(b) (setting out different Rules for
+intervention depending on whether an individual has “an interest”
+or “a claim”).
+
+															Beyond that flaw with the majority’s reading of
+Texas I lie others. In deciding to take the rare step of
+permitting intervention, we stressed that multiple “factors” “taken
+collectively persuade[d] us” to do so. 583 U. S., at 413, 415.
+At the same time, we stressed that “[n]othing in our opinion should
+be taken to suggest” the same result “would obtain in the absence
+of any of the[m] . . . or in the presence of additional,
+countervailing considerations.” Id., at 415. Factors present
+then, however, are absent now. And additional considerations have
+indeed arisen. In fact, through the consent decree, the federal
+government promises to receive everything it initially sought. Cf.
+Campbell-Ewald Co. v. Gomez, 577
+U.S. 153, 178 (2016) (Roberts, C. J., dissenting) (“When a
+plaintiff files suit seeking redress for an alleged injury, and the
+defendant agrees to fully redress that injury, . . .
+there is no longer any necessity to expound and interpret the law”
+(emphasis deleted; internal quotation marks omitted)).
+
+															Take the treaty. One of the factors we cited as
+favoring intervention concerned the then-live possibility that “a
+breach of the Compact could jeopardize [the federal government’s]
+treaty obligations” to Mexico requiring it to deliver certain Rio
+Grande waters. 583 U. S., at 414. Now, however, everyone
+agrees the consent decree will do nothing to interfere with those
+obligations, but will instead “protect the [t]reaty water.” Third
+Interim Report 94, n. 10.
+
+															Next, consider the federal government’s concern
+in 2018 that litigation over the Compact could ultimately require
+it to use the 1938 conditions in its distributions to water
+districts, as Texas then sought. That development, the
+government worried, could interfere with its longstanding use of
+the D2 Period in its operations at the Reservoir and the Downstream
+Contracts. 2017 Reply 20; see 2018 Transcript 30–31 (Texas
+highlighting this as an example of where “Texas and the United
+States are not exactly going to be raising the same arguments”).
+But that, too, is no longer a worry. Under the proposed settlement,
+operations may continue at the Reservoir as they have for over 40
+years.
+
+															Finally, recall that, when it intervened, the
+federal government disagreed with Texas about the use of the 1938
+baseline but “substantially” agreed that groundwater pumping in New
+Mexico below the Reservoir interfered with the Texas water
+district’s receipt of water to which it was entitled. Texas
+I, 583 U. S., at 415. The parties’ proposed decree
+addresses this concern, as well, by ensuring the water due Texas
+(again, calculated using the government’s D2 Period data) is
+measured near the state line, at the El Paso gauging station, and
+not over 100 miles upstream, along a course where New Mexico users
+pump groundwater from the Rio Grande.
+
+															Here’s the bottom line: Texas I did not
+hold—nor could it have held—that the United States could pursue an
+independent Compact claim to enforce a 1938 baseline. To the
+contrary, the government’s disagreement with Texas about the
+appropriateness of a 1938 baseline was one of the considerations
+that led us to permit intervention. At the same time, the interests
+the federal government did assert then have been satisfied now by
+the States’ agreement. To conclude, as the majority does, that the
+government at this late hour may assert essentially any
+Compact-related claims—even unpleaded ones—is to ignore all this
+and the many caveats that accompanied our decision. Where Texas
+I warned the United States not to “confus[e]” “our permission”
+to intervene “for license,” id., at 413, the Court now
+reverses course and allows the government to exercise squatter’s
+rights over our original jurisdiction.
+
+															IV
+
+															“The history of the relationship between the
+Federal Government and the States,” we once observed, contains a
+“consistent thread of . . . continued deference to state
+water law by Congress.” California, 438 U. S., at 653.
+By “den[ying]” the Special Master’s recommendation to approve the
+States’ consent decree “without [the] consent” of the federal
+government, ante, at 20, the Court disregards this long,
+unbroken practice. Not to ensure the federal government can comply
+with some statutory directive at odds with the decree. Not to
+protect the interests the government identified when it entered the
+case. Certainly not to avoid impermissibly disposing of a valid
+claim. No, the majority defies Congress’s directions and a century
+of our precedent all in aid of a position that the federal
+government has never pleaded, one that works against the
+government’s decades-old, real-world interests. And the majority
+does so even when the consent decree would permit the government to
+raise any valid, independent claims of its own in a different
+forum.
+
+															Where does that leave the States? After 10 years
+and tens of millions of dollars in lawyers’ fees, their agreement
+disappears with only the promise of more litigation to follow. All
+because the government won’t accept a settlement providing it with
+everything it once sought, and now seeks to promote the use of an
+alternative 1938 baseline that no party seeks and New Mexico
+represents could cost it tens of thousands of jobs and a large
+segment of the State’s economy. “ ‘[C]ooperative
+federalism’ ” that is not. California, 438 U. S.,
+at 650.
+
+															Looking beyond this case to future ones does not
+brighten the prospect. When the federal government sought to enter
+the case, it did so “without [Texas’s] objection,” a consideration
+that carried weight with us. Texas I, 583 U. S., at
+415. But in light of the veto power the Court seemingly awards the
+government over the settlement of an original action, what State in
+its right mind wouldn’t object to the government’s
+intervention in future water rights cases? If, as happened here,
+even heavily caveated permission to intervene may end up
+federalizing an interstate dispute, what State (or Court) would
+ever want to risk letting the nose make it under the tent? In that
+way, too, I fear the majority’s shortsighted decision will only
+make it harder to secure the kind of cooperation between federal
+and state authorities reclamation law envisions and many river
+systems require.
+
+															With respect, I dissent.
+
+Notes
+1
+ The majority notes that,
+in Firefighters, the union had not raised any claims at the
+time the district court confirmed the consent decree; it had merely
+raised its objections when resisting that decree. Ante, at
+19, n. 5. But in that particular, too, this case parallels
+Firefighters, for the United States still has not alleged a
+1938 baseline, instead pressing that point in its objections to the
+States’ proposed decree. The majority finds “difficult to
+understand” Firefighters’ recognition that a consent decree
+may be entered even if an intervenor might later prevail in a
+separate suit in a manner requiring the modification of the decree.
+Ante, at 19, n. 5. But there is nothing difficult to
+understand, or even unusual, about any of that: Many years and
+millions of dollars into a dispute, even less-than-ideal (and
+perhaps short-lived) settlements often may prove appealing to the
+parties and legally permissible for a court to
+approve.
+2
+ The most the majority can
+muster in response is the assertion that, around the time it
+intervened, the United States did not affirmatively “esche[w] a
+1938 baseline.” Ante, at 13, n. 3. The federal
+government, the majority continues, did not “purport to take any
+definitive position on what groundwater-pumping baseline the
+Compact should ultimately be read to require.” Ibid. But
+even this tepid defense proves too much for the record to bear.
+Time and again, the United States represented that one factor
+warranting its participation in the suit was its interest in
+continuing to use the D2 Period in its Project operations—an
+interest necessarily incompatible with a 1938 baseline. See,
+e.g., Memorandum in Support of Motion of United
+States to Intervene as Plaintiff 5–6 (Feb. 27, 2014); U. S.
+Brief in Opposition 18–19 (June 16, 2014); 2017 Reply 19–20. Does
+the majority believe the government was asserting an interest in
+violating the Compact? We need not speculate. In support of
+its asserted interest, the United States pointed to an operating
+agreement with the water districts to use the D2 Period. And that
+agreement holds itself out as Compact compliant. See N. M.
+Exh. 510, pp. 5, 14.
+3
+ In response, the majority
+wishfully asserts that “nothing about [its] decision here expands
+the scope of this litigation.” Ante, at 11, n. 2 (citing
+ante, at 18). Why? Because the United States “asserts th[e]
+same claim[s]” “and seeks th[e] same relief ” “today” as it
+did “in 2018.” Ante, at 18. Of course, if that were true and
+the United States were “staying the course,” ibid.,
+it would be agreeing with the States that use of the D2
+Period is permissible. But admitting as much would require the
+majority to do what it will not—recognize that the government’s
+late-stage about-turn in demanding a 1938 baseline remains
+unpleaded and alters the considerations that informed Texas
+I. See ante, at 13, 18 (highlighting Texas’s change of
+position, but dismissing the government’s as “beside the
+point”).
+
+

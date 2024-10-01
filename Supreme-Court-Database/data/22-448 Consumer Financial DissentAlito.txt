@@ -1,0 +1,966 @@
+::decision_cite:: 22-448
+::decision_name::  Consumer Financial Protection Bureau v. Community Financial Services Assn. of America, Ltd.
+::decision_year:: 2024
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–448
+
+															_________________
+
+															CONSUMER FINANCIAL PROTECTION BUREAU, et al.,
+PETITIONERS v. COMMUNITY FINANCIAL SERVICES ASSOCIATION OF
+AMERICA, LIMITED, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the fifth circuit
+
+															[May 16, 2024]
+
+															
+
+															Justice Alito, with whom Justice Gorsuch
+joins, dissenting.
+
+															Since the earliest days of our Republic,
+Congress’s “power over the purse” has been its “most complete and
+effectual weapon” to ensure that the other branches do not exceed
+or abuse their authority. The Federalist No. 58, p. 359 (C.
+Rossiter ed. 1961) (J. Madison). The Appropriations Clause protects
+this power by providing that “[n]o Money shall be drawn from the
+Treasury, but in Consequence of Appropriations made by Law.” Art.
+I, §9, cl. 7. This provision has a rich history extending back
+centuries before the founding of our country. Its aim is to ensure
+that the people’s elected representatives monitor and control the
+expenditure of public funds and the projects they finance, and it
+imposes on Congress an important duty that it cannot sign away.
+“Any other course” would give the Executive “a most dangerous
+discretion.” Reeside v. Walker, 11 How. 272, 291
+(1851).
+
+															Unfortunately, today’s decision turns the
+Appropriations Clause into a minor vestige. The Court upholds a
+novel statutory scheme under which the powerful Consumer Financial
+Protection Bureau (CFPB) may bankroll its own agenda without any
+congressional control or oversight. According to the Court, all
+that the Appropriations Clause demands is that Congress “identify a
+source of public funds and authorize the expenditure of those funds
+for designated purposes.” Ante, at 6. Under this
+interpretation, the Clause imposes no temporal limit that would
+prevent Congress from authorizing the Executive to spend public
+funds in perpetuity. Contra, Montesquieu, The Spirit of the Laws,
+bk. XI, ch. VI, p. 160 (O. Piest ed., T. Nugent transl. 1949)
+(warning that a legislature will lose its power of the purse if it
+passes an appropriation that lasts “forever”). Nor does the Court’s
+interpretation require Congress to set an upper limit on the amount
+of money that the Executive may take. Today’s decision does not
+even demand that an agency’s funds come from the Treasury. As the
+Solicitor General admitted at argument, under this interpretation,
+the Appropriations Clause would permit an agency to be funded
+entirely by private sources. Tr. of Oral Arg. 34–35. In short,
+there is apparently nothing wrong with a law that empowers the
+Executive to draw as much money as it wants from any identified
+source for any permissible purpose until the end of time.
+
+															That is not what the Appropriations Clause was
+understood to mean when it was adopted. In England, Parliament had
+won the power over the purse only after centuries of struggle with
+the Crown. Steeped in English constitutional history, the Framers
+placed the Appropriations Clause in the Constitution to protect
+this hard-won legislative power.
+
+															I
+
+															In the 2010 Dodd-Frank Wall Street Reform and
+Consumer Protection Act, Congress created the CFPB, an independent
+regulatory agency with “vast rulemaking, enforcement, and
+adjudicatory authority over a significant portion of the U. S.
+economy.” Seila Law LLC v. Consumer Financial Protection
+Bureau, 591 U.S. 197, 203 (2020); see id., at 222,
+n. 8. And in designing the CFPB, “Congress deviated from the
+structure of nearly every other independent administrative agency
+in our history.” Id., at 203. At every turn, the statute
+attempted to insulate the CFPB from control by any official
+answerable to the people. First, “Congress provided that the CFPB
+would be led by a single Director, who serves for a longer term
+than the President,” and Congress attempted to protect the Director
+from removal by the President “except for inefficiency, neglect, or
+malfeasance.” Ibid. In Seila Law, we struck down this
+restriction because it placed “potent” power in the hands of an
+official who was “neither elected by the people nor meaningfully
+controlled . . . by someone who is.” Id., at 206,
+224–225.
+
+															Elected in the atmosphere that followed the
+financial crisis of 2008, the Congress that created the CFPB also
+sought to free the CFPB from supervision by subsequent Congresses
+that might wish to superintend the Bureau’s exercise of its vast
+powers. To achieve that end, the CFPB was given an unprecedented
+way of obtaining funds that was expressly designed to make it
+totally “independent of the Congressional appropriations process.”
+S. Rep. No. 111–176, p. 163 (2010).
+
+															Under that scheme, the CFPB is not funded by
+appropriations enacted by Congress. Instead, each year, the CFPB
+Director tells the Federal Reserve Board of Governors how much
+money it thinks is “reasonably necessary” to carry out the CFPB’s
+operations. 12 U. S. C. §5497(a)(1). So long as this
+amount does not exceed 12% of the Federal Reserve System’s total
+operating expenses, the Board of Governors must comply with that
+demand and hand over the specified sum “from the combined earnings
+of the Federal Reserve System.” §§5497(a)(1), (2)(A). These
+earnings come from the Federal Reserve Banks, which are federally
+chartered corporations that are “not departments of the
+government.” Emergency Fleet Corp. v. Western Union
+Telegraph Co., 275 U.S.
+415, 426
+(1928); see §341.[1] The
+Federal Reserve Banks’ earnings represent interest on and gains
+derived from the purchase and sale of securities, as well as fees
+they receive for services provided to depository institutions,
+“such as check clearing, funds transfers, and automated
+clearinghouse operations.” United States Federal Reserve System,
+The Fed Explained: What the Central Bank Does 4 (11th ed. 2021);
+see also Brief for Petitioners 23. At present, the CFPB’s maximum
+annual draw is nearly $750 million.[2]
+
+															In addition, the CFPB, unlike most agencies,
+does not have to return any unspent funds to the Treasury. 12
+U. S. C. §5497(b). Instead, the CFPB may invest or roll
+over any unspent money into a separate fund, which it may use in
+the future “to pay the expenses of the [CFPB] in carrying out its
+duties and responsibilities.” §§5497(b)–(c).[3] As of September 30, 2022, the CFPB had built up
+an endowment worth nearly $340 million. See 2022 Report, at 86.
+
+															In devising this novel scheme, Congress appears
+to have anticipated that it might be challenged under the
+Appropriations Clause, and Congress therefore attempted to shield
+its new creation by providing that “[f]unds obtained by or
+transferred to the [CFPB] shall not be construed to be Government
+funds or appropriated monies.”[4] §5497(c)(2). And to impede congressional oversight of
+the CFPB’s use of this money, the Act added that the Bureau’s funds
+are not “subject to review by the Committees on Appropriations.”
+§5497(a)(2)(C).
+
+															The Framers would be shocked, even horrified, by
+this scheme. Beginning with the First Congress, agencies[5] were generally funded by annual
+appropriations from the Treasury. K. Stith, Congress’ Power of the
+Purse, 97 Yale L. J. 1343, 1354, n. 53 (1988) (Stith).
+While there have been departures from this dominant model, nothing
+like the CFPB’s funding scheme has previously been seen. In the
+decision below, the Fifth Circuit held that the CFPB’s unparalleled
+financial independence violates the Appropriations Clause and “the
+constitutional separation of powers.” 51 F. 4th 616, 642 (2022).
+Because I agree that the CFPB’s funding structure is
+unconstitutional, I would affirm the Fifth Circuit’s judgment.
+
+															II
+
+															A
+
+															The Appropriations Clause is found in Article
+I, §9, clause 7, of the Constitution, which provides:
+
+															“No Money shall be drawn from the
+Treasury, but in Consequence of Appropriations made by Law; and a
+regular Statement and Account of the Receipts and Expenditures of
+all public Money shall be published from time to time.”
+
+															The first part of this provision is customarily
+called the Appropriations Clause, and the second is referred to as
+the Statement and Account Clause.
+
+															The Appropriations Clause contains two key
+terms—“Money . . . drawn from the Treasury” and
+“Appropriations”—both of which require a little explanation. As the
+Government acknowledges, “Money . . . drawn from the
+Treasury” is synonymous with the term “public Money,”[6] which appears in the Statement and Account
+Clause. And in this case, it is undisputed that the funds
+requisitioned by the CFPB constitute “public Money.”[7] Thus, the only remaining textual question
+is whether the CFPB gets its funding from “Appropriations” in the
+sense in which the Constitution uses that term.
+
+															The Court answers that question by consulting a
+few old dictionaries, which it says establish that “[i]n ordinary
+usage, . . . an appropriation of public money would be a
+law authorizing the expenditure of particular funds for specified
+ends.” Ante, at 7. It accordingly concludes that the
+Appropriations Clause requires no more than a law, a fund, and a
+purpose. Ante, at 6–7.
+
+															This analysis overlooks the fact that the term
+“Appropriations,” as used in the Constitution, is a term of art
+whose meaning has been fleshed out by centuries of history. To be
+sure, in interpreting the Constitution, we start with the
+presumption that “ ‘its words and phrases’ ” carry their
+“ ‘normal and ordinary’ ” meaning. District of
+Columbia v. Heller, 554 U.S.
+570, 576 (2008) (quoting United States v.
+Sprague, 282 U.S.
+716, 731 (1931)). But our analysis cannot end there. Some
+provisions use terms with specialized and well-established meanings
+that we cannot use dictionaries to brush aside. “ ‘[I]f a word
+is obviously transplanted from another legal source, whether the
+common law or other legislation, it brings the old soil with
+it.’ ” Sekhar v. United States, 570 U.S.
+729, 733 (2013); see also A. Scalia & B. Garner, Reading
+Law: The Interpretation of Legal Texts 73–77 (2012). Applied here,
+this rule means that the term “Appropriatio[n]” should be
+interpreted in light of “legal tradition and . . .
+centuries of practice.” Morissette v. United States,
+342 U.S.
+246, 263 (1952). I therefore turn to that history.
+
+															B
+
+															1
+
+															The delegates to the Constitutional Convention
+did not invent the appropriations requirement. Rather, that
+important safeguard arose from centuries of “British experience.”
+Consumer Financial Protection Bureau v. All Am. Check
+Cashing, Inc., 33 F. 4th 218, 224 (CA5 2022) (en banc)
+(Jones, J., concurring). The Framers were aware of the
+requirement’s deep roots and the critical role it had played in
+“the history of the British Constitution.” The Federalist No. 58,
+at 359. By steadily asserting the power to condition
+appropriations, the House of Commons, originally “an infant and
+humble representation of the people[,] gradually enlarg[ed] the
+sphere of its activity and importance, and finally reduc[ed], as
+far as it seems to have wished, all the overgrown prerogatives of
+the other branches of the government.” Ibid.
+
+															A short summary of this process illustrates the
+important role of the appropriations requirement. During the Middle
+Ages, kings relied almost entirely on what was called “ordinary”
+revenue. F. Maitland, The Constitutional History of England 433
+(1908) (reprint 1993) (Maitland). This included income from lands
+owned by the Crown, customs duties, and feudal dues. See 1 W.
+Blackstone, Commentaries on the Laws of England 281–306 (2d ed.
+1766). Consequently, there was little meaningful difference
+“between the national revenue and the king’s private pocket-money.”
+Maitland 433.
+
+															The Crown’s financial independence gave it the
+ability to govern with little parliamentary interference. As
+Maitland puts it, “throughout the Middle Ages the king’s revenue
+had been in a very true sense the king’s revenue, and parliament
+had but seldom attempted to give him orders as to what he should do
+with it.” Id., at 309. “Under the Tudors, parliament hardly
+dared to meddle with such matters.” Ibid.
+
+															In the 17th century, however, this pattern began
+to change. Id., at 309–310. By that time, “the king’s
+ordinary revenues were no longer even remotely sufficient to cover
+the normal costs of royal governance,” and the heavy expenditures
+of James I and Charles I exacerbated the problem. J. Chafetz,
+Congress’s Constitution 47 (2017) (Chafetz). Rather than seeking
+appropriations from Parliament, the early Stuart kings engaged in
+controversial efforts to obtain additional ordinary income through
+the use of various royal “prerogative[s].” G. Smith, A
+Constitutional and Legal History of England 315 (1955) (Smith).
+Among other things, they unilaterally imposed duties on imports,
+stepped up the collection of feudal dues, sold monopolies, and
+forced individuals to loan money on pain of imprisonment. See
+id., at 315, 318.
+
+															These measures aroused opposition and, in any
+event, did not yield sufficient funds. As a result, James I and
+Charles I periodically found it necessary to ask Parliament to
+impose new taxes in order to obtain the funds they wanted. When
+they did so, the Commons began to flex the power of the purse and
+to demand a measure of royal accountability. Disputes between the
+Commons and the Stuart kings about the power of the purse played a
+pivotal role in the transition from royal to parliamentary
+financial supremacy.
+
+															A few incidents illustrate this dynamic. In
+1621, the power of the purse played a central role in disputes
+between the Crown and Parliament over religious, geopolitical, and
+judicial authority. For some months, Parliament ignored requests
+from James I for more tax revenue. T. Taswell-Langmead, English
+Constitutional History From the Teutonic Conquest to the Present
+Time 532 (3d ed. 1886) (Taswell-Langmead). Though Parliament
+finally expressed “willing[ness] to grant a moderate subsidy,” it
+insisted “first” on redress for “grievances.” Id., at 533;
+see also Smith 315–316. Parliament’s petition infuriated James I,
+who ultimately dissolved Parliament and sent several of its
+leaders—including Sir Matthew Hale—to the Tower of London.
+Taswell-Langmead 534, 536.
+
+															Under Charles I, the situation worsened. At the
+beginning of his reign, the Commons refused to grant him the
+life-time power to impose tonnage and poundage duties, i.e.,
+duties on imports and exports, as had been the custom, but instead
+granted the power for only one year. Id., at 539. The
+members of Commons “had no intention of refusing a further supply,
+but were resolved to avail themselves of their Constitutional right
+to make it dependent upon redress of grievances.” Ibid.
+Indignant about this temerity, the King hastily dissolved
+Parliament before the Lords passed the bill. Id., at 540;
+Smith 318. But as a consequence, the King once again then found
+himself without sufficient funds. So he took matters into his own
+hands by resorting to the monarchy’s “old illegal methods of
+raising money.” Taswell-Langmead 543.
+
+															This reignited a power struggle between the two
+branches. As a result, when Charles I again turned to Parliament in
+1628, the Commons refused to grant funds until he agreed to the
+Petition of Right, which demanded that he cease efforts to obtain
+more “ordinary income” by objectionable means, such as compulsory
+loans and the payment of “any tax, tallage,[8] aid, or other like charge not set by common consent,
+in parliament.” 3 Car. I., c. 1. (1628). The King, of course, did
+not like this. So when the Commons continued to challenge royal
+prerogatives, Charles I prorogued Parliament. And during the long
+period that ensued in which Parliament did not meet (1629–1640),
+the King sought new sources of “ordinary income,” including the
+imposition of “Ship-money,” that is, fees imposed on both maritime
+and inland counties to pay for the construction of ships.
+Taswell-Langmead 566–569. These practices “further enraged an
+already alienated Parliament, reinforcing a vicious cycle that led
+to the Civil War and, ultimately, to Charles’s beheading.” Chafetz
+47.
+
+															This constitutional crisis restored the English
+Government’s financial separation of powers for a season. During
+the Commonwealth, the Commons exercised “complete authority
+. . . over the whole receipts and expenditure of the
+national treasury.” Taswell-Langmead 626. But shortly after the
+Restoration, the war for the supremacy of the purse reignited.
+Starting in 1665, “Parliament was largely unwilling to grant [the
+King] additional money without specifying in some measure how it
+was to be used.” Chafetz 50. “This precedent was followed in some,
+but not all . . . cases under Charles II.” Maitland 310.
+Charles II, “fed up with parliamentary interference, ruled without
+Parliament, and therefore without any parliamentary taxation, for
+the rest of his reign.” Chafetz 50.
+
+															After the Revolution of 1688, Parliament took
+strong measures to curb the Crown’s financial independence. The
+1689 Bill of Rights declared “[t]hat levying Money for or to the
+Use of the Crowne by pretence of Prerogative, without Grant of
+Parlyament for longer time or in other manner than the same is or
+shall be granted is Illegall.” 1 Wm. 3 & Mary 2, c. 2 (1688).
+In other words, to ensure “that it was supreme in directing the use
+of [all] public funds,” Parliament “asserted that any use of funds
+by the monarch that lacked Parliament’s authorization was
+unlawful.” Congressional Research Service, S. Stiff, Congress’s
+Power Over Appropriations: Constitutional and Statutory Provisions
+8 (2020).
+
+															These steps, however, did not cement
+Parliament’s power of the purse. Royal officers continued to
+collect revenue and to evade the appropriations requirement by
+exaggerating collection costs, giving very little in “net receipts”
+to Parliament, and keeping the rest for the use of the Crown. P.
+Einzig, The Control of the Purse 164, 188 (1959) (Einzig). So
+Parliament took steps to crack down on this practice. Id.,
+at 188. In 1711, for example, Parliament passed a resolution
+declaring that “ ‘applying any sum of un- appropriated money,
+or surplusages of funds to usages not voted, or addressed for by
+parliament, hath been a misapplication of the public money.’ ”
+6 Cobbett’s Parliamentary History of England 1025 (1810).
+
+															Parliament also appointed a commission to
+prevent the Crown from defying the appropriations requirement. In
+that commission’s very first report, it recommended that “[r]evenue
+should come from the Pocket of the Subject directly into the
+Exchequer.” Report Relative to the Balances in the Hands of the
+Receivers General of the Land Tax, Nov. 27, 1780 (First Report),
+reprinted in 1 Reports of the Commissioners Appointed To Examine,
+Take, and State the Public Accounts of the Kingdom 14 (W. Molleson
+ed. 1783). Permitting revenue departments to retain or divert any
+public funds, the Commissioners concluded, would create a “private
+Interest . . . in direct Opposition to that of the
+Public.” Ibid. Finally, Parliament took an increasingly
+“firmer line . . . against virement, that is, the
+transfer of funds appropriated for one department for the use of
+another department.” Einzig 144.
+
+															2
+
+															The Court’s treatment of this history begins
+by conceding most of what I have recounted. The Court notes that
+after the Revolution of 1688, “Parliament’s usual practice was to
+appropriate government revenue ‘to particular purposes more or less
+narrowly defined,’ ” and “Parliament began limiting the
+duration of its revenue grants.” Ante, at 9 (quoting
+Maitland 433). “ ‘Every year,’ ” the Court continues, the
+King and his ministers “ ‘had to come, cap in hand, to the
+House of Commons, and more often than not the Commons drove a
+bargain and exacted a quid pro quo in return for
+supply.’ ” Ante, at 9 (quoting G. Trevelyan, The
+English Revolution of 1688–1689, pp. 180–181 (1939)).
+
+															In an effort to find a trace of helpful
+precedent in pre-founding British constitutional history, the Court
+turns to laws appropriating funds for the “civil list,” which it
+touts as a particularly “notable exception” to the centuries-long
+understanding of appropriations. Ante, at 9, 12, 19. In
+truth, however, Parliament’s treatment of the civil list actually
+undermines the Court’s position. The civil list, although renamed
+in 2012, remains to this day, and it consists of the money needed
+to cover the expenses of the royal family.[9] By the end of the 17th century, “the Civil List was
+a relatively small share of the total public expenditure,” but the
+independence it afforded the Crown “presented a constitutional
+problem in the conflict between the principle of the independence
+of the Crown and the principle of parliamentary control of
+finance.” E. Reitan, The Civil List in Eighteenth-Century British
+Politics: Parliamentary Supremacy Versus the Independence of the
+Crown, 9 Hist. J. 318, 320, 322 (1966) (Reitan).
+
+															To prevent the Crown from using the civil list
+to erode Parliament’s hard-fought supremacy over the purse, eminent
+statesmen like Edmund Burke and Charles James Fox began pushing for
+substantial reforms. Id., at 328–337. Beginning in 1760,
+Parliament enacted a series of laws that altered the appropriation
+of civil list funds. Id., at 324; see, e.g., 1
+H. Cavendish, Debates of the House of Commons 267–307 (1841). And
+by 1782, Parliament finally secured its “right . . . to
+interfere at its discretion in the affairs of the Civil List.”
+Reitan 336–337. “The eighteenth-century tension between the
+conflicting principles of parliamentary supremacy and an
+independent financial provision for the Crown had been resolved—as
+it had to be—in favour of parliamentary supremacy.” Id., at
+336.
+
+															C
+
+															1
+
+															“The conflicts between Parliament and the
+Crown over the power of the purse . . . were replayed in
+the American colonies in struggles between the royal governors and
+provincial assemblies.” R. Rosen, Funding “Non-Traditional”
+Military Operations: The Alluring Myth of a Presidential Power of
+the Purse, 155 Mil. L. Rev. 1, 44 (1998); see also P. Wolfson, Is a
+Presidential Item Veto Constitutional? 96 Yale L. J. 838,
+841–842 (1987). But learning from Parliament’s experiences with the
+monarchy, some of the American Colonies assumed appropriations
+authority “greater even than that of the British House of Commons,”
+exercising significant auditing powers and legislative oversight.
+J. Greene, The Quest for Power: The Lower Houses of Assembly in the
+Southern Royal Colonies 106 (1963). Indeed, by 1787, all but one of
+the 11 State Constitutions provided their respective legislatures
+with some control over appropriations; and no State allowed the
+executive to draw money from the state treasury without legislative
+approval. Chafetz 55, and nn. 119–120 (citing provisions); see
+also The Federalist No. 48, at 310 (J. Madison) (noting that, under
+many state constitutions, “the legislative department alone has
+access to the pockets of the people”).
+
+															The Framers built on this legacy at the
+Constitutional Convention when they adopted the Appropriations
+Clause, which they “well understood” would “complet[e] the power
+vested in Congress over money.” 7 Annals of Cong. 1124 (1798)
+(statement of Rep. Albert Gallatin). The Clause not only “gives to
+the Legislature an exclusive authority of raising and granting
+money,” but it also obligates Congress to keep that authority from
+“the hands of the Executive” at all times thereafter. Ibid.
+It makes the President “depen[d] on the will of [Congress] for
+supplies of money” in the first instance and puts him continually
+“in a state of subordinate dependence” to the people’s elected
+representatives. 3 Debates on the Constitution 17 (J. Elliot ed.
+1836) (statement of Wilson Nicholas). The Appropriations Clause
+enables Congress, “without the concurrence of the other
+branches, to check, by refusing money, any mischief in the
+operations carrying on in any department of the Government.” 5
+Annals of Cong. 509 (1796) (statement of Rep. William Branch Giles)
+(emphasis added).
+
+															Early budgets illustrate how the appropriations
+power was understood. Although the Constitution does not require
+that appropriations be limited to a single year, that was the
+dominant practice in the years immediately following the adoption
+of the Constitution. See ante, at 12. And while the first
+few appropriations laws were brief and lacked details about how the
+money was to be spent, the amounts approved closely tracked the
+estimates submitted by Secretary of the Treasury Alexander
+Hamilton. See Chafetz 58–59. Indeed, the second appropriations act
+expressly incorporated the estimates of specific expenses contained
+in Hamilton’s report to Congress. Compare Appropriations Act, §1,
+1Stat. 104, with 5 American State Papers: Finance 33 (1832). As a
+result, Congress clearly contemplated that the money would be
+devoted toward particular purposes.
+
+															In the mid-1790s, appropriations laws became
+even more specific. Chafetz 59. And when Thomas Jefferson became
+President, he urged Congress “to multiply barriers against” the
+“dissipation” of public funds by “appropriating specific sums to
+every specific purpose susceptible of definition,” and “by
+disallowing applications of money varying from the appropriation in
+object, or transcending it in amount.” First Annual Message (Dec.
+8, 1801), reprinted in 9 The Works of Thomas Jefferson 336 (P. Ford
+ed. 1905); see also Letter from Albert Gallatin to Thomas Jefferson
+(Nov. 1801), reprinted in 1 The Writings of Albert Gallatin 68 (H.
+Adams ed. 1879) (“Congress should adopt such measures as will
+effectually guard against misapplication of public moneys”).
+
+															To be sure, not all early funding laws followed
+the dominant model of specified short-term appropriations. Agencies
+that provided services to a particular segment of the public were
+funded by fees that were paid by the recipients of those services.
+See, e.g., Act of Feb. 20, 1792, §§2–3, 1Stat. 233–234
+(funding the Post Office through collection of postage rates); Act
+of Apr. 2, 1792, ch. 16, §§1, 14, 1Stat. 246, 249 (funding the
+National Mint in part through collection of fees); Act of July 31,
+1789, §29, 1Stat. 44–45 (funding customs collection through tonnage
+fees). If these fees exceeded the costs of providing the services,
+however, these agencies were required to send the surplus to the
+Treasury, which oversaw the collection and use of such
+fees.[10]
+
+															As the Government notes, Brief for Petitioners
+21–22, this practice had deep historical roots, see N. Parrillo,
+Against the Profit Motive 65 (2013) (Parrillo),[11] and was presumably based on the idea
+that the cost of providing certain services should be borne by the
+recipients of those services rather than the general public. At the
+same time, the requirement that fees in excess of what was needed
+to defray the cost of providing services be turned over to the
+Treasury ensured that Congress maintained control over the ways in
+which this money was spent. Under these arrangements, therefore,
+Congress exercised close control over both the amount of money that
+the agencies in question obtained and the way in which that money
+was used. The agencies received and were allowed to use the amount
+of money necessary to provide their narrowly prescribed services.
+All the rest was sent to the Treasury and could then be used only
+as authorized by a congressional appropriation.
+
+															2
+
+															In discussing this early American history, the
+Court begins by essentially conceding the principal lesson outlined
+above. As the Court candidly puts it, “ ‘[w]hen called upon to
+grant supplies,’ the lower houses in the colonial assemblies
+‘insisted upon appropriating them in detail.’ ” Ante,
+at 10.[12] The best the
+Court can muster to support its assertion that “state legislative
+bodies often opted for open-ended, discretionary appropriations”
+are a few minor state laws that, when understood in relation to the
+Constitutions of the States in question, provide no support for the
+Court’s argument. Ibid.[13]
+
+															*  *  *
+
+															In sum, centuries of historical practice show
+that the Appropriations Clause demands legislative control over the
+source and disposition of the money used to finance Government
+operations and projects.[14]
+
+															III
+
+															A
+
+															As the previous discussion shows, today’s case
+turns on a simple question: Is the CFPB financially accountable to
+Congress in the way the Appropriations Clause demands? History
+tells us it is not. As we said in Seila Law,
+“ ‘[p]erhaps the most telling indication of [a] severe
+constitutional problem’ with an executive entity ‘is [a] lack of
+historical precedent’ to support it.” 591 U. S., at 220
+(quoting Free Enterprise Fund v. Public Company
+Accounting Oversight Bd., 561 U.S.
+477, 505 (2010)). And the Government agrees with this
+principle. In its briefing and at argument, the Government admitted
+that an utterly unprecedented funding scheme would raise a serious
+constitutional problem. Reply Brief 18; Tr. of Oral Arg. 11, 26.
+The Government therefore attempts to show that there is ample
+precedent for the CFPB scheme, but that effort fails.
+
+															The CFPB’s funding scheme contains the following
+features: (1) it applies in perpetuity; (2) the CFPB has
+discretion to select the amount of funding that it receives, up to
+a statutory cap; (3) the funds taken by the CFPB come from
+other entities; (4) those entities are self-funded
+corporations that obtain their funding from fees on private
+parties, “not departments of the Government,” Emergency Fleet
+Corp., 275 U. S., at 426; (5) the CFPB is not
+required to return unspent funds or transfer them to the Treasury;
+and (6) those funds may be placed in a separate fund that
+earns interest and may be used to pay the CFPB’s expenses in the
+future. At argument, the Government was unable to cite any other
+agency with a funding scheme like this, see Tr. of Oral Arg. 31–33,
+39–41, and thus no other agency—old or new—has enjoyed so many
+layers of insulation from accountability to Congress.
+
+															The Government points to the Post Office and the
+Customs Service as founding-era precedents for the CFPB, but the
+analogy is flawed. As noted, funding Government agencies with fees
+charged to the beneficiaries of their services has long been viewed
+as consistent with the appropriations requirement. And both the
+Post Office and the Customs Service fell comfortably into that
+category.
+
+															A quick look at the laws that set up the Post
+Office and the Customs Service shows that they were nothing like
+the CFPB. In the Act establishing the Post Office, Congress gave
+that agency a narrow and specific mission: to “provide for carrying
+the mail of the United States.” See, e.g., Act of Feb. 20,
+1792, §3, 1Stat. 234. The Postmaster’s discretionary authority was
+modest. (He could, for example, decide whether mail should be
+carried on particular routes “by stage carriages or horses.”
+Ibid.) The Act specified in minute detail the fees that
+could be collected from those who used the Post Office’s services.
+§9, id., at 235. And it required the Postmaster “to render
+to the secretary of the treasury, a quarterly account of all the
+receipts and expenditures” and to “pay quarterly, into the treasury
+. . . , the balance in his hands.” §4, id.,
+at 234. Under this arrangement, Congress controlled the amount that
+the Post Office took in (i.e., the sum total of the fees
+specified by law) and how those fees were to be spent (i.e.,
+to provide for carrying the mail).
+
+															Much the same is true with respect to the
+Customs Service, which the Government claims “best” resembles the
+CFPB. Tr. of Oral Arg. 31. Like the Post Office, the Customs
+Service had a carefully delineated mission—basically, to control
+imports and exports, and to collect duties and other payments from
+those engaged in those activities. To maintain accountability, the
+early tariff Acts spelled out in excruciating detail the various
+fees, fines, and forfeitures that officers were to collect, as well
+as the salaries and commissions that were to be paid out of those
+receipts. Act of July 31, 1789, ch. 5, 1Stat. 29–49; L.
+Schmeckebier, The Customs Service: Its History, Activities and
+Organization 3–6 (1924). Surplus funds had to be sent to the
+Treasury, Act of July 31, 1789, §§9, 38, 1Stat. 38, 48, and for
+many years, these funds were the lifeblood of the Federal
+Government. From 1789 to 1862, “[n]early all of federal revenue was
+derived from customs duties.” A. Reamer, Before the U. S.
+Tariff Commission: Congressional Efforts To Obtain Statistics and
+Analysis for Tariff-setting, 1789–1916, in A Centennial History of
+the United States International Trade Commission 35
+(2017).[15]
+
+															The CFPB, by contrast, is an entirely different
+creature. Its powers are broad and vast. It enjoys substantial
+discretionary authority. It does not collect fees from persons and
+entities to which it provides services or persons and entities that
+are subject to its authority. And it is permitted to keep and
+invest surplus funds. In short, the Government’s “best” argument
+fails.
+
+															The Government’s next-best analogs fare no
+better. Moving to modern agencies, the Government claims that the
+CFPB’s funding scheme is not materially different from the funding
+schemes of a list of other currently existing agencies. See Brief
+for Petitioners 22–23, 29–36 (comparing the CFPB to the Office of
+the Comptroller of the Currency (OCC), the Federal Deposit
+Insurance Corporation (FDIC), the National Credit Union
+Administration (NCUA), the Farm Credit Administration (FCA), the
+Federal Housing Finance Agency (FHFA), and others).
+
+															But unlike the CFPB, the agencies cited by the
+Government are funded in whole or in part by fees charged those who
+make use of their services or are subject to their regulation. This
+is true for the OCC, see 12 U. S. C. §16; the FDIC, see
+§1815; the NCUA, see §1755; the FCA, §2250; and the FHFA, see
+§4516.[16]
+
+															For these reasons, it is undeniable that the
+combination of features in the CFPB funding scheme is
+unprecedented. And it is likewise clear that this assemblage was no
+accident. Rather, it was carefully designed to give the Bureau
+maximum unaccountability. Our decision in Seila Law
+addressed part of the problem posed by this arrangement. It made
+the CFPB accountable to the President, but that decision did
+nothing to protect Congress’s power of the purse. Indeed, standing
+alone, Seila Law worsens the appropriations problem. The
+appropriations requirement developed to ensure that the Executive
+(in England, the monarch) would be accountable to the people’s
+elected representatives. Seila Law, however, increased the
+power of the Executive over appropriations. By brandishing
+or wielding the threat of removal, a President may push the CFPB
+director to requisition the amount of money that the President
+thinks is appropriate and to spend that money as the President
+wishes. I joined the decision in Seila Law and continue to
+believe that it was correctly decided, but it solved only half the
+accountability problem that inheres in the CFPB’s structure.
+
+															B
+
+															Left with no analog in history, the Government
+employs a divide-and-conquer strategy to defend the CFPB’s funding
+scheme. It argues that even if no prior agency had a funding scheme
+with all the features of the CFPB’s, the funding schemes of other
+presumptively constitutional agencies contain one or more of the
+features found in the CFPB’s scheme. It then reasons that the
+combination of these features in the CFPB’s scheme must be
+constitutional as well.
+
+															This argument founders for two reasons. First,
+the CFPB’s scheme includes an important feature never before seen.
+As explained, the CFPB’s money does not come from Congress, from
+private recipients of its services, or from private entities that
+it regulates. It does not even originate with another Government
+agency. Instead, the CFPB gets its money via a three-step process:
+The Federal Reserve Banks earn money from the purchase and sale of
+securities, as well as from the fees they charge for providing
+services to depository institutions. The Federal Reserve Banks then
+deliver these earnings to the Federal Reserve System. Finally, the
+CFPB requests an amount from the Federal Reserve Board. That
+feature of the CFPB scheme is entirely new.
+
+															Second, the Government’s argument fails “to
+engage with the Dodd-Frank Act as a whole.” Seila Law, 591
+U. S., at 230. By addressing the individual elements of the
+CFPB’s setup one-by-one, the Government seeks to divert attention
+from the combined layers that insulate the CFPB from accountability
+to Congress. Elements that are safe or tolerable in isolation may
+be unsafe when combined. In the case of the CFPB, the combination
+is deadly. The whole point of the appropriations requirement is to
+protect “the right of the people,” through their elected
+representatives in Congress, to “be actually consulted” about the
+expenditure of public money. St. George Tucker, View of the
+Constitution of the United States 297 (1803) (C. Wilson ed. 1999).
+The CFPB’s design strips the people of this power.
+
+															The Federal Reserve’s earnings represent
+“specific charges for specific services to specific individuals or
+companies.” FPC v. New England Power Co., 415 U.S.
+345, 349 (1974). It would be “a sharp break with our
+traditions” to allow the CFPB to use these earnings to fund a
+broader array of governmental activities that have little-to-no
+relationship with those specific charges, services, and regulated
+entities. National Cable Television Assn., Inc. v. United
+States, 415 U.S.
+336, 341 (1974). By allowing the CFPB to use the Federal
+Reserve’s earnings to enforce and implement broader consumer
+protection laws, Congress impermissibly removed the CFPB “from its
+customary orbit” as an agency, authorizing the Bureau to
+appropriate funds obtained from private sources “in the manner of
+an Appropriations Committee.” Ibid. In other words, Congress
+abdicated its appropriations authority, an exclusively legislative
+prerogative. Knote v. United States, 95 U.S.
+149, 156 (1877). But Congress lacks the authority to “transfer
+to another branch powers which are strictly and exclusively
+legislative.” Gundy v. United States, 588 U.S. 128,
+135 (2019) (plurality opinion) (internal quotation marks
+omitted).
+
+															In sum, the CFPB’s unprecedented combination of
+funding features affords it the very kind of financial independence
+that the Appropriations Clause was designed to prevent. It is not
+an exaggeration to say that the CFPB enjoys a degree of financial
+autonomy that a Stuart king would envy.
+
+															C
+
+															This autonomy has real-world consequences. The
+CFPB is a powerful agency with the authority to impose “substantive
+rules [on] a wide swath of industries” and “lev[y] knee-buckling
+penalties against private citizens.” Seila Law, 591
+U. S., at 222, n. 8. In the last several months alone,
+the Bureau has announced plans to effectuate not one, but three
+major changes in consumer protection law. The CFPB has issued
+guidance cautioning financial institutions from “denying credit to
+individuals based on their [illegal] immigration status, regardless
+of their personal circumstances and demonstrated ability to
+repay.”[17] It has also
+begun “a rulemaking process to remove medical bills from Americans’
+credit reports”[18] and to
+cap overdraft fees “at an established benchmark—as low as
+$3.”[19] These may or may
+not be wise policies, but Congress did not specifically authorize
+any of them, and if the CFPB’s financing scheme is sustained,
+Congress cannot control or monitor the CFPB’s use of funds to
+implement such changes. That is precisely what the Appropriations
+Clause was meant to prevent.
+
+															*  *  *
+
+															The Court holds that the Appropriations Clause
+is satisfied by any law that authorizes the Executive to take any
+amount of money from any source for any period of time for any
+lawful purpose. That holding has the virtue of clarity, but such
+clarity comes at too high a price. There are times when it is our
+duty to say simply that a law that blatantly attempts to circumvent
+the Constitution goes too far. This is such a case. Today’s
+decision is not faithful to the original understanding of the
+Appropriations Clause and the centuries of history that gave birth
+to the appropriations requirement,[20] and I therefore respectfully dissent.
+
+Notes
+1
+ Each Federal Reserve Bank
+has a Board of nine Directors—six are elected by private member
+banks, and three are appointed by the Federal Reserve System’s
+Board of Governors. 12 U. S. C. §§302, 304.
+2
+ In the most recent fiscal
+year, the Bureau requested $641.5 million of its then-applicable
+$734 million limit. Financial Report of the Consumer Financial
+Protection Bureau: Fiscal Year 2022, pp. 44–45 (Nov. 15, 2022)
+(2022 Report) (online source archived at
+https://www.supremecourt.gov).
+3
+ The CFPB invests these
+funds in 3-month Treasury bills, from which it receives an
+annualized return of 5%. See Board of Governors of the Federal
+Reserve System, 3-Month Treasury Bill Secondary Market Rate,
+Discount Basis, Economic Research: Federal Reserve Bank of St.
+Louis (Mar. 13, 2024),
+https://fred.stlouisfed.org/series/DTB3.
+4
+ Congress obviously cannot
+evade the Appropriations Clause simply by placing a different label
+on an authorization to obtain and spend money that falls within the
+meaning of an “Appropriatio[n]” under that provision. And here, the
+Government argues that the statutory provision cited in the text
+was not meant to have that effect, but was adopted for other
+purposes. See Tr. of Oral Arg. 20.
+5
+ For want of a better
+term, I use the term “agency” to refer to anycomponent of the
+Executive Branch.
+6
+ See, e.g., Tr. of
+Oral Arg. 34; Stith 1357.
+7
+ See, e.g., Tr. of
+Oral Arg. 19, 34.
+8
+ A tallage is “[a]n
+arbitrary tax levied by the monarch on towns and lands belonging to
+the crown.” Black’s Law Dictionary 1756 (11th ed.
+2009).
+9
+ See Royal Finances,
+https://www.royal.uk/royal-finances (Apr. 22, 2024).
+10  At
+the founding, it was well understood that “the unexpended balance
+of any appropriation after a given period passes to the surplus
+fund.” 16 Annals of Cong. 393 (1807) (statement of Rep. David
+Thomas). See, e.g., Act of Feb. 11, 1791, ch. 6, 1Stat. 190
+(recognizing default rule that surplus funds return to the
+Treasury); see also Act of Feb. 20, 1792, §§3–4, 1Stat. 234
+(requiring the Postmaster General to “pay, quarterly, into the
+treasury of the United States, the balance” of any receipts after
+using them to “defray the expense” of services provided); Act of
+July 31, 1789, §38, 1Stat. 48 (providing that an unexpended portion
+of all customs and fines shall be “paid into the treasury”
+thereof ); Act of Sept. 2, 1789, ch. 12, §2, 1Stat. 65 ( “[I]t
+shall be the duty of the Secretary of the Treasury to
+. . . superintend the collection of the
+revenue”).
+11  Parliament and “nearly all the
+American colonial legislatures” used such fees “to cover many and
+sometimes all of the offices within their respective bounds.”
+Parrillo 65.
+12  Many
+sources document this general approach. See, e.g., P. Figley
+& J. Tidmarsh, The Appropriations Power and Sovereign Immunity,
+107 Mich. L. Rev. 1207, 1244 (2009).
+13  Citing two Massachusetts laws
+directing that certain revenue be used for broadly defined
+purposes, the Court infers that the executive enjoyed wide
+discretion to decide how this money would be spent, see
+ante, at 11, but this inference is unwarranted. One of the
+two Massachusetts laws cited by the Court, Act of Nov. 17, 1786,
+1786 Mass. Acts and Laws ch. 47, p. 117, clearly illustrates this
+point. That law stated expressly that the revenue in question was
+to be paid “into the Treasury of this Commonwealth, for the
+exigencies of Government.” Ibid. Under the State
+Constitution, this money could be not be taken from the treasury
+without the approval of the legislature. See Mass. Const. of 1780,
+ch. 2, §1, Art. XI. And to fortify legislative control, the state
+treasurer was elected annually by the legislature. Id., ch.
+2, §4. As another supposed example of a state law giving the
+executive wide discretion to decide how funds could be spent, the
+Court cites a Maryland law specifying that certain revenue was to
+be used for the general purpose of defending the Chesapeake Bay and
+protecting trade. 1783 Md. Acts ch. 26, §5, reprinted in 1 W.
+Kilty, The Laws of Maryland (1799). The Court overlooks the fact
+that under the State’s Constitution, the two state treasurers were
+appointed by and served at the pleasure of the legislature,
+Maryland Constitution of 1776, Art. XIII, and the legislature was
+specifically authorized to “examine and pass all accounts of the
+State, relating either to the collection or expenditure of the
+revenue, or appoint auditors, to state and adjust the same,” Art.
+X. Finally, the Court points to a Virginia law, ante, at 11,
+but again the Court overlooks the structure of the Virginia
+government. Under the Virginia Constitution of 1776, the treasurer
+was elected annually by the legislature, and this obviously gave
+the legislature extensive power over expenditures. Virginia
+Constitution of 1776, ¶17; see Chafetz 55 (referring to the
+Virginia Legislature’s authority over the state treasurer as an
+“explicit mechanism of legislative control over
+appropriations”).
+14  Not
+content to rest on the Court’s argument, which relies on the
+Court’s understanding of the original meaning of the Appropriations
+Clause, four Justices advance an entirely different rationale,
+namely, that congressional practice in the ensuing centuries
+supports the constitutionality of the CFPB’s scheme. Ante,
+at 1 (Kagan, J., concurring). This argument is doubly flawed.
+First, the concurrence cannot point to any other law that created a
+funding scheme like the CFPB’s. Second, as explained by Justice
+Scalia, the separation of powers mandated by the Constitution
+cannot be altered by a course of practice at odds with our national
+charter. See NLRB v. Noel Canning, 573 U.S.
+513, 571–572 (2014) (opinion concurring in judgment).
+“[P]olicing the ‘enduring structure’ of constitutional government
+when the political branches fail to do so is ‘one of the most vital
+functions of this Court.’ ” Id., at 572 (quoting
+Public Citizen v. Department of Justice, 491 U.S.
+440, 468 (1989) (Kennedy, J., concurring in
+judgment)).
+15  “In
+1792, for example, customs duties . . . accounted for
+$3.4 million of the $3.7 million of total government receipts.”
+Founding Choices: American Economic Policy in the 1790s, p. 101 (D.
+Irwin & R. Sylla eds. 2010).
+16  The
+Government also suggested that the Federal Reserve Board is a close
+historical analog for the CFPB. Brief for Petitioners 23; Tr. of
+Oral Arg. 41. But that setup should not be seen as a model for
+other Government bodies. The Board, which is funded by the earnings
+of the Federal Reserve Banks, 12 U. S. C. §§243, 244, is
+a unique institution with a unique historical background. It
+includes the creation and demise of the First and Second Banks of
+the United States, as well as the string of financial panics (in
+1873, 1893, and 1907) that were widely attributed to the country’s
+lack of a national bank. See generally O. Sprague, History of
+Crises Under the National Banking System, S. Doc. No. 538, 61st
+Cong., 2d Sess. (1910). The structure adopted in the Federal
+Reserve Act of 1913 represented an intensely-bargained compromise
+between two insistent and influential camps: those who wanted a
+largely private system, and those who favored a
+Government-controlled national bank. See, e.g., R.
+Lowenstein, America’s Bank 5–8, 113–116, 265 (2015). For
+Appropriations Clause purposes, the funding of the Federal Reserve
+Board should be regarded as a special arrangement sanctioned by
+history.
+17  Press
+Release, Consumer Financial Protection Bureau, CFPB and Justice
+Department Issue Joint Statement Cautioning That Financial
+Institutions May Not Use Immigration Status To Illegally
+Discriminate Against Credit Applicants (Oct. 12,
+2023).
+18  Press
+Release, Consumer Financial Protection Bureau, CFPB Kicks Off
+Rulemaking To Remove Medical Bills From Credit Reports (Sept. 21,
+2023).
+19  Press
+Release, Consumer Financial Protection Bureau, CFPB Proposes Rule
+To Close Bank Overdraft Loophole That Costs Americans Billions Each
+Year in Junk Fees (Jan. 17, 2024).
+20  At
+the end of its opinion, the Court suggests that broad separationof
+powers principles may provide more protection for Congress’s power
+of the purse than does the Appropriations Clause. Ante, at
+18–19. But we do not generally resort to broad principles when a
+provision of the Constitution specifically addresses the question
+at hand. See County of Sacramento v. Lewis, 523 U.S.
+833, 843 (1998). At any rate, since the decision below relied
+on both the Appropriations Clause and broad separation of powers
+principles, 51 F. 4th 616, 635 (CA5 2022), it is not clear why
+the Court does not proceed to apply those principles.
+
+

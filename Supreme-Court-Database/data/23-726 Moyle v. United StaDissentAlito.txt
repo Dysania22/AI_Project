@@ -1,0 +1,987 @@
+::decision_cite:: 23-726
+::decision_name::  Moyle v. United States
+::decision_year:: 2024
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 23–726 and 23–727
+
+															_________________
+
+															Mike Moyle, Speaker of the Idaho House
+of Representatives, et al., PETITIONERS
+
+															23–726v.
+
+															United States
+
+															
+
+															Idaho, PETITIONER
+
+															23–727v.
+
+															UNITED STATES
+
+															on writs of certiorari to the united states
+court of appeals for the ninth circuit
+
+															[June 26, 2024]
+
+															
+
+															Justice Alito, with whom Justice Thomas joins,
+and with whom Justice Gorsuch joins as to Parts I and II,
+dissenting.
+
+															This case presents an important and unsettled
+question of federal statutory law: whether the Emergency Medical
+Treatment and Labor Act (EMTALA), 42 U. S. C. §1395dd,
+sometimes demands that hospitals perform abortions and thereby
+preempts Idaho’s recently adopted Defense of Life Act, Idaho Code
+Ann. §18–622 (Supp. 2023). Enacted nearly 40 years ago, EMTALA
+requires hospitals participating in Medicare to “scree[n]” and
+“stabilize” “any individual” who comes to an emergency room with an
+“emergency medical condition” that jeopardizes the patient’s
+“health.” §§1395dd(a), (b)(1)(A), (e)(1)(A). And if the patient is
+a pregnant woman, the hospital must stabilize both “the woman” and
+“her unborn child.” §1395dd(e)(1)(A)(i).
+
+															After this Court’s decision in Dobbs v.
+Jackson Women’s Health Organization, 597 U.S. 215 (2022),
+Idaho and other States enacted new laws restricting the performance
+of abortions. To protect both “maternal health and safety” and
+“ ‘the life of preborn children,’ ” Planned Parenthood
+Great Northwest v. State, 171 Idaho 374, 438, 522 P.3d
+1132, 1196 (2023) (quoting Idaho Code Ann. §18–601), Idaho’s law
+permits an abortion only when “necessary to prevent the death of
+the pregnant woman,” §18–622(2)(a)(i).
+
+															Shortly before Idaho’s law took effect,
+President Biden instructed members of his administration to find
+ways to limit Dobbs’s reach. Protecting Access to
+Reproductive Healthcare Services, Exec. Order No. 14076, 87 Fed.
+Reg. 42053 (2022). In response, Government lawyers hit upon the
+novel argument that, under EMTALA, all Medicare-funded
+hospitals—that is, the vast majority of hospitals[1]—must perform abortions on request
+when the “health” of a pregnant woman is in serious jeopardy.
+§1395dd(e)(1)(A)(i). In the Government’s view, EMTALA trumps laws
+like Idaho’s, which allow abortions only to preserve the life of
+the pregnant woman. See Dept. of Health & Human Servs. (HHS),
+Reinforcement of EMTALA Obligations Specific to Patients Who Are
+Pregnant or Are Experiencing Pregnancy Loss 1 (QSO–22–22–Hospitals,
+July 11, 2022). The Government sued Idaho on this preemption theory
+and obtained a preliminary injunction against enforcement of the
+state law “to the extent it conflicts with EMTALA.” 623
+F. Supp. 3d 1097, 1117 (Idaho 2022).
+
+															The Government’s preemption theory is plainly
+unsound. Far from requiring hospitals to perform abortions,
+EMTALA’s text unambiguously demands that Medicare-funded hospitals
+protect the health of both a pregnant woman and her “unborn
+child.” §1395dd(e)(1)(A)(i). And even if there were some ambiguity
+in the statutory text, we would be obligated to resolve that
+ambiguity in favor of the State because EMTALA was enacted under
+the Spending Clause, and as we have held time and again, conditions
+attached to the receipt of federal funds must be unambiguous.
+Arlington Central School Dist. Bd. of Ed. v. Murphy,
+548 U.S.
+291, 296 (2006); Pennhurst State School and Hospital v.
+Halderman, 451 U.S.
+1, 17 (1981). Here, no one who has any respect for statutory
+language can plausibly say that the Government’s interpretation is
+unambiguously correct. And in any event, Idaho never consented to
+any conditions imposed by EMTALA and certainly did not
+surrender control of the practice of medicine and the regulation of
+abortions within its territory.
+
+															Recognizing the flaws in the Government’s theory
+and Idaho’s “strong” likelihood of success, this Court stayed the
+preliminary injunction pending appeal on January 5. And, wisely or
+not, the Court also took the unusual step of granting certiorari
+before Idaho’s appeal was heard by the Ninth Circuit. See this
+Court’s Rule 11. Now the Court dismisses the writ and, what is
+worse, vacates the stay.
+
+															This about-face is baffling. Nothing legally
+relevant has occurred since January 5. And the underlying issue in
+this case—whether EMTALA requires hospitals to perform abortions in
+some circumstances—is a straightforward question of statutory
+interpretation. It is squarely presented by the decision below, and
+it has been exhaustively briefed and argued. In addition to the
+parties’ briefs, we received 46 amicus briefs, including
+briefs submitted by 44 States and the District of Columbia; briefs
+expressing the views of 379 Members of Congress; and briefs from
+prominent medical organizations. Altogether, we have more than
+1,300 pages of briefing to assist us, and we heard nearly two hours
+of argument. Everything there is to say about the statutory
+interpretation question has probably been said many times over.
+That question is as ripe for decision as it ever will be.
+Apparently, the Court has simply lost the will to decide the easy
+but emotional and highly politicized question that the case
+presents. That is regrettable.
+
+															Having already taken the extraordinary step of
+granting certiorari before judgment in order to decide whether the
+Government’s new interpretation of EMTALA is correct, we have no
+good reason to change course now. This is especially so because the
+Court’s decision to reexamine the stay issued in January makes it
+necessary to reassess whether Idaho showed a likelihood of success
+on the merits, a question that is closely related to the question
+whether Idaho or the Government has correctly interpreted EMTALA. I
+will therefore proceed to analyze what EMTALA means.
+
+															I
+
+															A
+
+															The text of EMTALA shows clearly that it does
+not require hospitals to perform abortions in violation of Idaho
+law. To the contrary, EMTALA obligates Medicare-funded hospitals to
+treat, not abort, an “unborn child.”
+
+															EMTALA imposes two main obligations on covered
+hospitals. First, a hospital must, within its “capabilit[ies],”
+“screen” “any individual” arriving at the emergency room without
+regard to the individual’s ability to pay. §§1395dd(a), (h). The
+purpose of this screening is to determine whether the individual
+has an “emergency medical condition,” which EMTALA defines as
+follows:
+
+															“a medical condition manifesting itself by
+acute symptoms of sufficient severity (including severe pain) such
+that the absence of immediate medical attention could reasonably be
+expected to result in—
+
+															“(i) placing the health of the individual (or,
+with respect to a pregnant woman, the health of the woman or her
+unborn child) in serious jeopardy,
+
+															“(ii) serious impairment to bodily functions,
+or
+
+															“(iii) serious dysfunction of any bodily organ
+or part.”  §1395dd(e)(1)(A) (emphasis added).[2]
+
+															When a hospital determines that an “emergency
+medical condition” exists, it has two options. It may provide
+“treatment” within the capability of its “staff and facilities.”
+§1395dd(b)(1)(A). Or it may “transfer . . . the
+individual” to another hospital that “has available space and
+qualified personnel for the treatment” as long as the transfer
+would effect a net benefit for the patient. §§1395dd(b)(1)(B),
+(c)(2)(B)(i).
+
+															At no point in its elaboration of the screening,
+stabilization, and transfer requirements does EMTALA mention
+abortion. Just the opposite is true: EMTALA requires the hospital
+at every stage to protect an “unborn child” from harm.
+
+															Begin with the screening provision, which
+requires a hospital “to determine whether or not an emergency
+medical condition (within the meaning of subsection (e)(1))
+exists.” §1395dd(a). “[W]ith respect to a pregnant woman,”
+subsection (e)(1) defines an emergency medical condition as one
+that is sufficiently serious to “plac[e] . . . the health
+of the woman or her unborn child . . . in serious
+jeopardy.” §1395dd(e)(1)(A)(i) (emphasis added). Thus, if the
+hospital identifies an emergency medical condition threatening the
+child, it must “stabilize” that condition to ensure that the
+child’s health does not remain in “jeopardy.” §§1395dd(b)(1)(A),
+(e)(1)(A)(i). It goes without saying that aborting an “unborn
+child” does not protect it from jeopardy.
+
+															Similarly, if a hospital wants to transfer a
+pregnant woman to another facility, it may not do so unless, among
+other things, a physician certifies directly or through an
+intermediary that the medical benefits of transfer outweigh any
+“increased risks” to the woman “and, in the case of labor, to the
+unborn child.” §§1395dd(c)(1)(A)(ii), (e)(1)(B). Thus, regardless
+of whether a hospital chooses to treat or transfer a pregnant
+woman, it must strive to protect her “unborn child” from harm.
+
+															The Government struggles mightily—but
+unsuccessfully—to get around this language. First, the Government
+argues that EMTALA’s repeated use of the term “individual,” coupled
+with the Dictionary Act’s definition of that term, which does not
+include an “unborn child,”[3]
+shows that “[a]ll of EMTALA’s duties—screening, stabilization, and
+transfer—run to the ‘individual’ seeking care.” Brief for United
+States 41. That assertion falls flat in light of EMTALA’s express
+protection of the unborn child.
+
+															Besides, there is a simple explanation for
+EMTALA’s repeated use of the term “individual,” and it provides no
+support for the Government’s interpretation. Most of those
+references involve conduct in which only the pregnant woman can
+engage, such as going to an emergency room,[4] receiving medical information,[5] consenting to or refusing treatment,[6] or filing suit.[7] Many references concern transfer to another
+facility,[8] and when a
+pregnant woman is transferred, her “unborn child” obviously goes
+with her. Another reference concerns a woman’s “emergency medical
+condition,” which, as noted, includes conditions that jeopardize
+her “unborn child.”[9] And some
+references expressly mention both the “individual” and “the unborn
+child.”[10] No use of the
+term “individual” supports the Government’s interpretation.
+
+															Second, based on a provision stating that an
+individual may not be treated without consent, §1395dd(b)(2), the
+Government infers that “it is for the pregnant woman, not state
+law, to decide how to proceed” when her health is at risk. Brief
+for United States 43. The Government’s logic is faulty. The right
+to withhold consent does not necessarily carry with it the right to
+demand whatever cannot be done without consent. X may
+withhold consent to a contract with Y, but that does not
+mean that X may demand to enter into such a contract. A
+person may not be forced to assume the duties of the Presidency
+without consent, but it does not follow that this person may demand
+to be sworn in as President.
+
+															Or, to provide an example that is more closely
+related to the matter at hand, the right to refuse medical
+treatment without consent does not entail the right to demand
+treatment that is prohibited by law. Cancer patients have the right
+to refuse treatment that their doctors recommend, but they do not
+have a right to obtain whatever treatment they want, such as the
+administration of a drug that cannot legally be used in this
+country. Cf. 21 U. S. C. §360bbb–0a (granting terminal
+patients the right to try experimental drugs). Likewise here, a
+woman’s right to withhold consent to treatment related to her
+pregnancy does not mean that she can demand an abortion.
+
+															For these reasons, the text of EMTALA
+conclusively shows that it does not require hospitals to perform
+abortions.
+
+															B
+
+															For those who find it appropriate to look
+beyond the statutory text, the context in which EMTALA was enacted
+reinforces what the text makes clear. Congress designed EMTALA to
+solve a particular problem—preventing private hospitals from
+turning away patients who are unable to pay for medical care.
+H. R. Rep. No. 99–241(I), pt. 1, p. 27 (1985); K. Treiger,
+Preventing Patient Dumping: Sharpening the COBRA’s Fangs, 61
+N. Y. U. L. Rev. 1186, 1188 (1986). And none of many briefs
+submitted in this suit has found any suggestion in the proceedings
+leading up to EMTALA’s passage that the Act might also use the
+carrot of federal funds to entice hospitals to perform abortions.
+To the contrary, EMTALA garnered broad support in both Houses of
+Congress, including the support of Members such as Representative
+Henry Hyde who adamantly opposed the use of federal funds to abet
+abortion.[11]
+
+															It is also telling that the Congress that
+initially enacted EMTALA in 1986 and the one that amended it in
+1989 also passed appropriations riders under what is now known as
+the Hyde Amendment (named after Representative Hyde) to prevent
+federal funds from facilitating abortions, except in limited
+circumstances. See Harris v. McRae, 448 U.S.
+297, 302 (1980). Between 1981 and 1993—the very period when
+EMTALA was enacted and amended—the Hyde Amendment contained only
+one exception: for abortions necessary to save the life of the
+pregnant woman. Congressional Research Service, E. Liu & W.
+Shen, The Hyde Amendment: An Overview 1 (2022); see §204, 99Stat.
+1119 (1986 Hyde Amendment). The Hyde Amendment thus prohibited
+federal funds from paying for the health-related abortions that the
+Government says EMTALA mandates. It would have been strange indeed
+if a Congress that repeatedly sought to prevent federal funding of
+abortions simultaneously enacted a law that, as interpreted by the
+Government, requires hospitals and physicians to perform that very
+same procedure.
+
+															The Government’s reading of EMTALA is doubly
+strange given that the President who signed that law repeatedly
+promised not to use federal funds to subsidize or require the
+provision of abortions. Less than three months before signing
+EMTALA, President Reagan told participants in the annual March for
+Life that “the resources of government are not [to be] used to
+promote or perform abortions.” The American Presidency Project,
+Remarks to Participants in the March for Life Rally (Jan. 22,
+1986). The next year, he touted his administration’s work “to
+restrict the use of Federal funds to perform abortions.”
+Id., Remarks to Participants in the March for Life Rally
+(Jan. 22, 1987). In another 1987 speech, he promised that his
+administration would “oppose any legislation that would require
+individuals or institutions, public or private, to finance or
+perform abortions.” Id., Remarks at a White House Briefing
+for Right to Life Activists (July 30, 1987). And his 1986 and 1987
+messages to Congress repeated that promise. See id., Message
+to the Congress on “A Quest for Excellence” (Jan. 27, 1987);
+id., Message to the Congress on America’s Agenda for the
+Future (Feb. 6, 1986).
+
+															Around the same time, President Reagan’s HHS
+Secretary testified before Congress that “the Administration
+steadfastly opposes [the] creation of [a] program which would
+encourage, promote or finance the performance of abortions.”
+Statement of the Hon. Margaret M. Heckler, in Budget
+Reconciliation: Hearings before the Senate Committee on Finance,
+99th Cong., 1st Sess., pt. 1, p. 273 (1985). It beggars belief
+that President Reagan would have happily signed EMTALA into law if
+it did what he “steadfastly oppose[d].” Ibid.
+
+															C
+
+															Desperate to find some crumb of support for
+its interpretation, the Government scrapes together a handful of
+sources that it says evidence a general understanding that EMTALA
+requires hospitals to perform health-related abortions prohibited
+by Idaho law. None of these sources stands for that
+proposition.
+
+															First, the Government searched a vast database
+of HHS enforcement decisions and located six occurring between 2010
+and 2023 that it finds helpful. It is not obvious why those
+enforcement decisions—which postdate EMTALA by more than 20
+years—shed light on its original meaning. And it is even less clear
+why they justify the Government’s claim that EMTALA preempts Idaho
+law. Five of the six cases involved ectopic pregnancies, which the
+Idaho law does not cover. See Idaho Code Ann. §18–604(1)(c)
+(excluding ectopic pregnancies from the definition of “abortion”).
+In the remaining case, the hospital was faulted, not for failing to
+perform an abortion, but for discharging a sick pregnant woman
+without calling for an ambulance to transport her to another
+hospital.[12]
+
+															The Government also seizes upon a provision in
+the Affordable Care Act stating that “[n]othing in this Act shall
+be construed to relieve any health care provider from providing
+emergency services as required by State or Federal law, including
+. . . EMTALA.” 42 U. S. C. §18023(d) (internal
+quotation marks omitted). Because this provision was placed in a
+section of the Act concerning abortion, the Government infers that
+it reflects a congressional understanding that EMTALA sometimes
+requires abortions. Brief for United States 19–20. That inference
+is totally unwarranted. The provision in question refers to the
+entire massive Affordable Care Act, not just the relatively few
+provisions concerning abortion. Compare §18023(d), with §18023(c)
+(referring more narrowly to “this subsection”). It reaffirms the
+duty of participating hospitals to comply with EMTALA, but it does
+not expand what the text of EMTALA requires.[13] So this provision cannot support the
+Government’s interpretation of EMTALA either.
+
+															II
+
+															As the previous Part shows, EMTALA’s text and
+context decisively refute the Government’s interpretation. But
+there is a third strike against the Government’s position: EMTALA
+is an exercise of Congress’s spending power. And when Congress
+relies on its authority to attach conditions to the receipt of
+federal funds, special rules apply.
+
+															Spending Clause legislation operates “much in
+the nature of a contract: in return for federal funds, the
+[recipients] agree to comply with federally imposed conditions.”
+Pennhurst, 451 U. S., at 17. These conditions do not
+bind unless and until they are accepted, and private parties “can
+opt out of spending programs” at will, “completely nullifying
+whatever force the spending conditions once had.” Health and
+Hospital Corporation of Marion Cty. v. Talevski, 599
+U.S. 166, 201 (2023) (Thomas, J., dissenting); accord,
+Townsend v. Swank, 404
+U.S. 282, 292 (1971) (Burger, C. J., concurring in result)
+(“[A]herence to [Spending Clause] provisions . . . is in
+no way mandatory”). “[T]he ‘legitimacy of Congress’ power’ ”
+to enforce conditions tied to federal funds depends on whether the
+parties who accepted federal funds also “ ‘voluntarily and
+knowingly’ ” accepted the conditions. Cummings v.
+Premier Rehab Keller, 596 U.S. 212, 219 (2022) (quoting
+Barnes v. Gorman, 536 U.S.
+181, 186 (2002)).
+
+															Because the enforcement of conditions attached
+to the receipt of federal money depends on a recipient’s knowing
+and voluntary consent,
+“the conditions must be set out
+‘unambiguously.’ ” Arlington Central, 548 U. S.,
+at 296 (quoting Pennhurst, 451 U. S., at 17). And
+recipients must be given a “legitimate choice whether to accept the
+federal conditions.” National Federation of Independent
+Business v. Sebelius, 567 U.S.
+519, 578 (2012) (opinion of Roberts, C. J.); accord,
+Steward Machine Co. v. Davis, 301
+U.S. 548, 590 (1937). The Government’s interpretation founders
+at both points.
+
+															First, consider the requirement that EMTALA
+speak unambiguously. Even if it were possible to read EMTALA as
+requiring abortions prohibited by Idaho law, it is beyond dispute
+that such a requirement is not unambiguously clear. The statute
+does not mention abortion, let alone expressly bind hospitals to
+perform abortions contrary to state law.
+
+															The need for clear statutory language is
+especially important in this suit because the Government’s
+interpretation would intrude on an area traditionally left to state
+control, namely, the practice of medicine. We typically expect
+Congress to “ ‘make its intention “clear and manifest” if it
+intends to pre-empt the historic powers of the States.’ ”
+Gregory v. Ashcroft, 501 U.S.
+452, 461 (1991) (quoting Rice v. Santa Fe Elevator
+Corp., 331 U.S.
+218, 230 (1947)); see also Gonzales v. Oregon,
+546 U.S.
+243, 274 (2006) (“[T]he background principles of our federal
+system also belie the notion that Congress would use such an
+obscure grant of authority to regulate areas traditionally
+supervised by the States’ police power”).
+
+															Second, consider the requirement that parties be
+given a choice before being bound by Spending Clause conditions.
+The Government’s interpretation purports to limit Idaho’s choices
+about what conduct to criminalize. But Idaho never “agree[d]” to be
+bound by EMTALA,[14]
+Cummings, 596 U. S., at 219, let alone to surrender its
+historic power to regulate the practice of medicine or the
+performance of abortions within its borders.
+
+															The Idaho Legislature takes its argument against
+preemption even further. It contends that EMTALA cannot preempt the
+State’s abortion regulations because Idaho is not a party to the
+agreement between the Federal Government and the hospitals that
+take Medicare funds. See Brief for Petitioners in No. 23–726, pp.
+50–51. As it explains, States cannot be bound by terms that they
+never accepted, so it is hard to see how a third party’s agreement
+with the Federal Government can deprive a State of the ability to
+enforce its criminal laws. Accord, Talevski, 599 U. S.,
+at 212 (Thomas, J., dissenting) (“[E]ven those who held the
+broadest conception of the spending power recognized that it was
+only a power to spend, not a power to impose binding requirements
+with the force of federal law”).
+
+															The potential implications of permitting
+preemption here are far-reaching. Under the Government’s view,
+Congress could apparently pay doctors to perform not only emergency
+abortions but also third-trimester elective abortions or eugenic
+abortions. It could condition Medicare funds on hospitals’ offering
+assisted suicide even in the vast majority of States that ban the
+practice. It could authorize the practice of medicine by any doctor
+who accepts Medicare payments even if he or she does not meet the
+State’s licensing requirements.
+
+															While the Government is not troubled by the
+potential consequences of its preemption argument, Congress was
+sensitive to state prerogatives. The Medicare Act, in which EMTALA
+is situated, disclaims any construction that would “authorize any
+Federal officer or employee to exercise any supervision or control
+over the practice of medicine or the manner in which medical
+services are provided” in a particular State. 42 U. S. C.
+§1395. This disclaimer evidences a desire to “minimize federal
+intrusion” into state healthcare regulation. Massachusetts
+Medical Soc. v. Dukakis, 815 F.2d 790, 791 (CA1 1987)
+(opinion of Breyer, J.). EMTALA’s narrow preemption clause also
+respects core state powers by providing that the Act “do[es] not
+preempt any State or local law requirement, except to the extent
+that the requirement directly conflicts with a requirement of this
+section.” §1395dd(f ). This phrasing signals that EMTALA’s
+default position is coexistence with state law.
+
+															In response to the Legislature’s argument, the
+Government claims that a handful of our cases have held that
+Spending Clause statutes can preempt the laws of non-consenting
+States, but those cases do not begin to settle the question at
+hand. Two are entirely inapposite.[15] And the remaining cases simply upheld the Federal
+Government’s ability to prevent the use of federal money for
+purposes other than those intended by Congress.[16] The Government has not identified any
+decision holding that a federal law enacted under the Spending
+Clause preempts a state criminal law or public health
+regulation.
+
+															For present purposes, it is not necessary to
+decide whether the Legislature’s theory is correct. At a minimum,
+however, it provides yet another reason to be wary about
+interpreting EMTALA to displace the core powers of a non-consenting
+State without unmistakable clarity regarding the meaning of the
+federal law.
+
+															*  *  *
+
+															In sum, the Government’s new interpretation of
+EMTALA is refuted by the statutory text, the context in which the
+law was enacted, and the rules of interpretation that we apply to
+Spending Clause legislation. We should reject the Government’s
+interpretation and put that matter to rest.[17]
+
+															III
+
+															Even if the Court is unwilling to decide the
+statutory interpretation question, there is no excuse for vacating
+the stay of the preliminary injunction. In order to obtain that
+injunction, the Government was required to make a strong showing
+that it was likely to prevail on the merits. See Munaf v.
+Geren, 553 U.S.
+674, 690 (2008). And as I have explained, its argument was
+almost certain to lose. That in itself is sufficient to preclude
+continuation of the preliminary injunction.
+
+															Why then have six Justices voted to vacate the
+stay? The per curiam itself provides no explanation. In
+separate opinions, three of the six agree with the Government’s
+interpretation of EMTALA, see supra, at 15, n. 17, and
+that at least is an explanation that would make sense if the
+premise (the correctness of the Government’s interpretation) were
+sound. As for the remaining three, their only explanation is that
+“the injunction will not stop Idaho from enforcing its law in the
+vast majority of circumstances” and that therefore Idaho cannot
+show that it will be irreparably harmed by allowing the injunction
+to remain in place during the pendency of the appeal. Ante,
+at 7 (Barrett, J., joined by Roberts, C. J., and Kavanaugh,
+J., concurring). That justification is patently unsound.
+“ ‘[A]ny time a State is enjoined by a court from effectuating
+statutes enacted by representatives of its people, it suffers a
+form of irreparable injury.’ ” Maryland v. King,
+567 U.S. 1301, 1303 (2012) (Roberts, C. J., in chambers). And
+in this case, Idaho’s injury is not abstract. As I will explain, it
+is very likely that the preliminary injunction will lead to more
+abortions, including in at least some cases where the fetus is
+viable. The State of Idaho wants to prevent that; the preliminary
+injunction stands in its way. Isn’t that enough to constitute
+irreparable harm?
+
+															The Justices who have joined Justice Barrett’s
+concurrence claim that the parties’ briefs and oral arguments seem
+to have narrowed the degree to which EMTALA, as interpreted by the
+Government, conflicts with the Idaho law, ante, at 7–8, but
+all the parties continue to insist that the laws conflict. The
+Solicitor General argued that EMTALA’s focus on a pregnant woman’s
+health is broader than Idaho’s life-of-the-mother exception. In
+forceful terms, she told us: “In Idaho, doctors have to shut their
+eyes to everything except death,” whereas under EMTALA, a physician
+is supposed to think about serious threats to a pregnant woman’s
+health. Tr. of Oral Arg. 102. In light of this perceived conflict,
+the Solicitor General said it was “gravely mistaken” to suggest
+that “there really isn’t in operation a difference between” EMTALA
+and Idaho law. Id., at 101–102.
+
+															Idaho agreed that the Government’s
+interpretation of EMTALA conflicts with state law. In particular,
+the State worried that “the United States’ novel theory” would
+“authorize emergency-room doctors to perform abortions” for
+mental-health reasons and would thus “turn emergency rooms into
+federal abortion enclaves governed not by state law but by
+subjective physician judgment.” Brief for Petitioner in No. 23–727,
+p. 30; see also Tr. of Oral Arg. 45–46.
+
+															Thus, whatever narrowing may have occurred
+during briefing and argument in this Court, both the Government and
+the State of Idaho fervently maintain that it matters whether the
+Idaho law is enforced. Do any Justices in the majority seriously
+disagree? Do any of them think that the parties, not to mention
+their armies of amici, are fighting about nothing?
+
+															Three of the six Justices in the majority also
+agree that there is a conflict—and judging from their fiery
+rhetoric, a big one. See ante, at 1 (Kagan, J., joined by
+Sotomayor, J., and by Jackson, J., as to Part II, concurring);
+ante, at 7 (Jackson, J., concurring in part and dissenting
+in part). And they are correct to this extent: there is a real
+conflict.
+
+															A
+
+															I begin with the Government’s argument that
+“there are numerous conditions” that may afflict a pregnant woman
+“where a doctor’s immediate concern is not death.” Tr. of Oral Arg.
+103. In those cases, the Government explains, a doctor might be
+worried about serious risks to the woman’s “health.” Ibid.
+In the Government’s telling, EMTALA requires hospitals to perform
+an abortion on demand in these circumstances.
+
+															Idaho law says otherwise. An Idaho doctor may
+not perform an abortion unless the doctor “determine[s], in his
+good faith medical judgment . . . , that the
+abortion [is] necessary to prevent the death of the pregnant
+woman.” Idaho Code Ann. §18–622(2)(a)(i). And even then, the doctor
+must “attemp[t] to perform the abortion in the manner that
+. . . provide[s] the best opportunity for the unborn
+child to survive,” unless doing so “would . . . pos[e] a
+greater risk of the death of the pregnant woman.”
+§622(2)(a)(ii).
+
+															These standards do not require a doctor to be
+“objective[ly] certai[n]” that the abortion is “ ‘necessary’
+to save the woman’s life.” Planned Parenthood, 171 Idaho, at
+445, 522 P. 3d, at 1203 (emphasis deleted). Nor does Idaho law
+require that the risk of death be particularly immediate.
+Ibid. Indeed, the Idaho Supreme Court has explained that the
+law “leaves wide room for the physician’s ‘good faith medical
+judgment’ on whether [an] abortion was ‘necessary.’ ”
+Ibid.; accord, id., at 446, 522 P. 3d, at 1203
+(noting that the Act “imposes a subjective standard based on the
+individual physician’s good faith medical judgment”). And any
+latitude, it said, “ ‘operates for the benefit, not the
+disadvantage, of the pregnant woman.’ ” Id., at
+445–446, 522 P. 3d, at 1203–1204. Even so, Idaho’s law is
+focused on “death,” and a doctor must be able to say in “good
+faith” that he or she was acting to preserve the woman’s life, not
+simply her health. Idaho Code Ann. §18–622(2)(a)(i).
+
+															These different considerations—health versus
+life—may lead to different outcomes. For instance, consider the
+situation of a woman who experiences a condition that was discussed
+in the briefs and at argument: preterm prelabor rupture of
+membranes (PPROM), which occurs when a woman’s amniotic sac breaks
+before the 37th week of pregnancy. 1 App. 295. The Members of this
+Court are not physicians and should therefore be wary about
+expressing conclusions about medical issues. But guidance provided
+by prominent medical institutions is sufficient to show how Idaho
+law and EMTALA, as interpreted by the Government, may conflict in
+such cases.
+
+															If a woman experiences PPROM between the 34th
+and 37th week of pregnancy and does not go into labor, her
+physician is likely to recommend that labor be induced.[18] In that situation, it does not
+appear that the risk of conflict is high.
+
+															On the other hand, when PPROM occurs earlier
+than that, the chances of conflict are greatly increased. If PPROM
+occurs before the 34th week and the woman’s pregnancy continues,
+she may experience conditions such as an infection of the amniotic
+fluid, inflammation of the uterine lining, hemorrhage, or
+sepsis.[19] However,
+life-threatening complications are not inevitable, and according to
+the PPROM Foundation, death is “extremely rare.”[20] A physician may try to delay labor by
+putting the woman on bed rest and administering steroids to help
+the baby’s lungs grow and antibiotics to prevent
+infection.[21]
+
+															When PPROM occurs before the 24th week of
+pregnancy, the potential for conflict appears to be even higher.
+But in that situation, it may still be possible to manage the
+situation until the baby can be delivered,[22] and there is a chance of a good outcome for
+both the mother and child, although studies have yielded different
+results.[23] Thus, when
+PPROM occurs before the 34th week of pregnancy, there is a risk to
+the health of both the woman and her unborn child.
+
+															In these situations, the Defense of Life Act
+requires doctors to consider whether performing an abortion is
+necessary to prevent the woman’s death. Because this is a
+“subjective” standard, Planned Parenthood, 171 Idaho, at
+446, 522 P. 3d, at 1204, different doctors may reach different
+conclusions about when PPROM endangers the woman’s life. At least
+some may conclude in some cases of PPROM occurring before the 34th
+week of pregnancy that the woman’s life is not endangered since she
+may never develop a serious infection, let alone life-threatening
+sepsis or any other potentially fatal condition, if she receives
+proper treatment. See 1 App. 306–307. Rather, those doctors may
+believe that Idaho law requires them to try to delay delivery long
+enough to save the child’s life, unless PPROM becomes sufficiently
+“severe” to cause “infection and serious risk of sepsis.” See,
+e.g., 2 id., at 547. [24]
+
+															According to the Government’s experts, however,
+EMTALA requires a hospital to perform an abortion at the woman’s
+request whenever PPROM is diagnosed, even if the woman has not yet
+developed an infection or any other health complications. That is
+because, they assert, it can be “reasonably expected” that, in “the
+absence of immediate medical attention,” PPROM would “plac[e] the
+health” of the pregnant woman “in serious jeopardy” or cause
+“serious dysfunction” to her reproductive organs.
+§§1395dd(c)(1)(A)(ii), (e)(1)(A)(i) and (iii); see,
+e.g., 2 App. 594 (“Providing stabilizing treatment in
+the form of termination of pregnancy at the point of diagnosis
+would be an appropriate means to preserve the patient’s
+reproductive organs at that time”). Thus, in PPROM cases, there may
+be an important conflict between what Idaho law permits and what
+EMTALA, as interpreted by the Government, demands. And the same may
+be true with respect to other conditions that a pregnant woman may
+experience.
+
+															This gap between the Idaho law and the
+Government’s interpretation of EMTALA matters. Idaho has always
+permitted abortions that are necessary to preserve the life of a
+pregnant woman, but it has not allowed abortions for other
+non-life-threatening medical conditions. Planned Parenthood,
+171 Idaho, at 391–394, 522 P. 3d, at 1149–1152 (summarizing
+Idaho’s historical restrictions); see also Dobbs, 597
+U. S., at 302–330 (compiling other state statutes with
+identical exceptions). This balance reflects Idaho’s judgment about
+a difficult and important moral question. See Planned
+Parenthood, 171 Idaho, at 437–438, 522 P. 3d, at
+1195–1196. By requiring Idaho hospitals to strike a different
+balance, the preliminary injunction thwarts the will of the people
+of Idaho as expressed in law by their elected representatives.
+
+															B
+
+															I now turn to Idaho’s claim that the
+Government’s reading of EMTALA would authorize abortions for
+mental-health reasons. My colleagues dismiss this concern because
+at argument, the Solicitor General “emphatically disavowed the
+notion that an abortion is ever required as stabilizing treatment
+for mental health conditions.” Ante, at 5 (Barrett, J.,
+concurring). But it is hard to see how the Government could reach
+that conclusion. At oral argument, the Solicitor General conceded
+that the term “health” in EMTALA includes mental health, Tr. of
+Oral Arg. 77–78, and if that is so, it is not difficult to imagine
+a situation in which the Government’s interpretation of EMTALA
+could require an abortion.
+
+															Suppose, for example, that a woman in the 10th
+week of gestation experiences serious depression due to her
+pregnancy. If she asks emergency medical professionals for
+treatment, her medical care providers might conclude that her
+continued pregnancy could “reasonably be expected” to seriously
+jeopardize the woman’s mental health. §1395dd(e)(1)(A). Under the
+Government’s reading of EMTALA, the woman would then have the right
+to “make an informed decision” about the treatment she received.
+Brief for United States 41. If the woman preferred to abort rather
+than manage her depression alongside her pregnancy, it is not
+apparent why the Government’s reading of EMTALA would not require
+that abortion.
+
+															We have seen where a rule permitting abortions
+to protect the psychological health of pregnant women may lead. In
+Roe, the Court held that a woman had the right to obtain a
+post-viability abortion that was deemed “necessary, in appropriate
+medical judgment, for the preservation of the life or health of the
+mother.” Roe v. Wade, 410 U.S.
+113, 165 (1973). In the companion case Doe v.
+Bolton, 410 U.S.
+179 (1973), the Court wrote that a doctor, in judging whether
+an abortion was needed to preserve a pregnant woman’s health, could
+consider “all factors—physical, emotional, psychological, familial,
+and the woman’s age—relevant to the well-being of the patient.”
+Id., at 192. That decision was viewed by many as essentially
+preventing States from restricting post-viability
+abortions.[25] As Harvard
+Law School Professor Mary Ann Glendon put it: “[W]hen Roe is
+read with Doe, third-trimester restrictions are effectively
+ruled out as well—for Roe’s dictum that such restrictions
+might be permissible if they did not interfere with the mother’s
+health was negated by Doe’s definition of ‘health’ as
+‘well-being.’ ” The Women of Roe v. Wade
+(2003).
+
+															The Solicitor General tried to explain why the
+Government’s interpretation would not lead down this path, but her
+explanation is hard to understand. She said that mental-health
+emergencies “could never lead to pregnancy termination” because
+abortion “is not the accepted standard of practice to treat any
+mental health emergency.” Tr. of Oral Arg. 77–78; accord, Brief for
+United States 26, n. 5.
+
+															That assertion appears to be inconsistent with
+the position taken by prominent medical associations that endorse
+abortion for mental-health reasons as an accepted standard of
+practice. See, e.g., American Psychiatric
+Association, Position Statement on Abortion and Women’s
+Reproductive Healthcare Rights (Mar. 2023) (“Freedom to act to
+interrupt pregnancy must be considered a mental health
+imperative”); American Psychological Association, Resolution
+Affirming and Building on APA’s History of Support for Reproductive
+Rights (Feb. 2022).
+
+															For these reasons, there is a real potential for
+conflict between the Idaho law and the Government’s interpretation
+of EMTALA, and in my judgment, the Court seriously errs by vacating
+the stay we issued earlier this year.
+
+															*  *  *
+
+															Today’s decision is puzzling. Having taken the
+unusual step of granting certiorari before Idaho’s appeal could be
+heard by the Ninth Circuit, the Court decides it does not want to
+tackle this case after all and thus returns the appeal to the Ninth
+Circuit, which will have to decide the issue that this Court now
+ducks. What is more, the Court vacates the stay it issued earlier
+this year even though the majority fails to provide any facially
+plausible explanation for doing so.
+
+															I cannot endorse this turn of events and
+therefore respectfully dissent.
+
+Notes
+1
+ For instance, the
+American Hospital Association (AHA) calculates that 96% of
+hospitals have at least 50% of their inpatient days paid by
+Medicare and Medicaid. AHA, Fact Sheet: Majority of Hospital
+Payments Dependent on Medicare or Medicaid (Mar.
+2024).
+2
+ At oral argument, the
+Solicitor General stated that, in the Government’s view, an
+“impairment” or “dysfunction” under §1395dd (e)(1)(A)(i) and (ii)
+may be temporary. Tr. of Oral Arg. 80.
+3
+ The Dictionary Act
+defines an “individual” to “include every infant member of the
+species homo sapiens who is born alive at any stage of
+development.” 1 U. S. C. §8(a). But it goes on to provide
+that this definition is not to “be construed to . . .
+deny . . . any legal status or legal right applicable to
+any member of the species homo sapiens at any point prior to being
+‘born alive.’ ” §8(c). Thus, the Act itself provides no
+support for the Government’s position.
+4
+ §1395dd(a).
+5
+ §1395dd(c)(1)(A)(i).
+6
+ §1395dd(b)(2).
+7
+ §1395dd(d)(2)(A).
+8
+ §§1395dd(b)(3), (c),
+(e)(4).
+9
+ §1395dd(e)(1)(A)(i).
+10  §§1395dd(c)(1)(A)(ii) and (2)(A),
+(e)(1)(A)(i).
+11  See
+House Vote #499 in 1986 (99th Cong.), GovTrack.US (Mar. 20, 1986),
+https://www.govtrack.us/congress/votes/99-1986/h499; Senate Vote
+#379 in 1985 (99th Cong.), GovTrack.US (Dec. 19, 1985),
+https://www.govtrack.us/congress/votes/99-1985/s379.
+12  Additionally, it is doubtful that
+Idaho law would have prevented an abortion in this suit. The woman
+was diagnosed with “[i]nevitable abortion.” Centers for Medicare
+and Medicaid Services, Hospital Surveys With 2567 Statement of
+Deficiencies—2024Q1 (2010–2016 file) Row 16,961. But Idaho law does
+not apply to “non-viable pregnancies . . . where the
+unborn child is no longer developing.” Planned Parenthood Great
+Northwest v. State, 171 Idaho 374, 445, 522 P.3d 1132,
+1203 (2023); see also Idaho Code Ann. §§18–604(1),
+(11).
+13  Section 18023(d) also demands
+compliance with state emergency care requirements, and laws like
+Idaho’s impose requirements regarding permissible emergency care
+for pregnant women.
+14  Only
+one state psychiatric hospital accepts Medicare funds, and it does
+not have an emergency room. 2 App. 531.
+15  Coventry Health Care of Mo.,
+Inc. v. Nevils, 581 U.S. 87, 95–99 (2017), held that
+Missouri’s anti-subrogation law was preempted by the Federal
+Employee Health Benefits Act with regard to contracts for health
+benefits negotiated between the Federal Government and insurance
+carriers. It did not present the question whether Spending Clause
+conditions placed on private parties could preempt States from
+enforcing their criminal statutes against any of their
+residents—including parties that did not contract with the Federal
+Government. And in Townsend v. Swank, 404 U.S.
+282 (1971), the State itself was the recipient of the funds in
+question.
+16  See
+Philpott v. Essex County Welfare Bd., 409 U.S.
+413, 415 (1973) (attachment of Social Security benefits);
+Bennett v. Arkansas, 485 U.S.
+395, 398 (1988) (per curiam) (same); Lawrence
+County v. Lead-Deadwood School Dist. No. 40–1, 469 U.S.
+256, 271 (1985) (use of federal payments in lieu of taxes made
+to municipalities with federal facilities).
+17  Justice Sotomayor, Justice Kagan, and
+Justice Jackson endorse the Government’s interpretation of EMTALA
+but barely bother to explain why they think the interpretation is
+correct. Justice Kagan’s opinion, which Justice Sotomayor and
+Justice Jackson join, argues that “EMTALA unambiguously requires
+that a Medicare-funded hospital provide whatever medical treatment
+is necessary to stabilize a health emergency” and in some cases
+this may require an abortion. Ante, at 4 (concurring
+opinion). Justice Kagan conveniently fails to note that EMTALA
+defines the term “emergency medical condition” and that this
+definition includes any condition that is sufficiently serious to
+“plac[e] . . . the health of [a pregnant] woman or her
+unborn child . . . in serious jeopardy.”
+§1395dd(e)(1)(A)(i). Therefore, as I have already explained, EMTALA
+demands that a covered hospital stabilize any sufficiently serious
+threat to the health of an “unborn child.” Not only is Justice
+Kagan’s analysis of the statutory language faulty, but she fails to
+say anything about the special rules of interpretation that apply
+to Spending Clause measures or how Idaho can be bound by conditions
+to which it has never agreed. Justice Jackson’s opinion adds
+nothing to Justice Kagan’s legal analysis, but she reads my opinion
+to suggest “that States have free rein to nullify federal law.”
+Ante, at 7 (opinion concurring in part and dissenting in
+part). Anyone who reads my opinion can see that it makes no such
+suggestion but simply explains what the federal law in question
+means.
+18  See,
+e.g., 1 App. 306; Mount Sinai, Premature Rupture of
+Membranes,
+https://www.mountsinai.org/health-library/special-topic/premature-rupture-of-membranes#:~:text=Sometimes%20the%20membranes%20break%20before,rupture%20of%20membranes%20
+(June 21, 2024).
+19  One
+study found that 14% of women with PPROM before the point of
+viability developed one or more of these complications, and
+approximately 1% to 5% developed life-threatening sepsis. 1 App.
+298. A review of studies after 1993 indicated that the most common
+maternal morbidity is infection of the amniotic fluid, “with
+approximately 37% of women developing this complication.” T. Waters
+& B. Mercer, The Management of Preterm Premature Rupture of
+Membranes Near the Limit of Fetal Viability, Am. J. Obstetrics
+& Gynecology (AJOG), p. 231 (Sept. 2009); see also Brief for
+Physicians for Reproductive Health as Amicus Curiae
+18.
+20  PPROM
+Foundation, PPROM Facts,
+https://www.aapprom.org/community/ppromfacts (June 21, 2024) (PPROM
+Facts).
+21  Ibid.; see also Children’s
+Hospital of Philadelphia, Premature Rupture of Membranes
+(PROM)/Preterm Premature Rupture of Membranes (PPROM),
+https://www.chop.edu/conditions-diseases/premature-rupture-membranes-prompreterm-premature-rupture-membranes-pprom
+(June 21, 2024).
+22  See,
+e.g., S. Dayal & P. Hong, Premature Rupture of
+Membranes (July 17, 2023),
+https://www.ncbi.nlm.nih.gov/books/NBK532888.
+23  “A
+recent study reports a 90% survival rate for infants exposed to
+prolonged PPROM occurring between 18–24 weeks who were delivered
+after 24 weeks.” PPROM Facts (citing J. Brumbaugh et al.,
+Neonatal Survival After Prolonged Preterm Premature Rupture of
+Membranes Before 24 Weeks of Gestation, 124 Obstetrics &
+Gynecology 992 (2014); see also A. Ozel et al., Outcomes of
+Pregnancies Complicated by Preterm Premature Rupture of Membranes
+Before and After 24 Gestational Weeks: A Retrospective Analysis, J.
+Clinical Obstetrics & Gynecology, p. 231 (Nov. 2023) (reporting
+that one-third of unborn children survived PPROM before viability
+at a hospital between 2018–2020); E. Lorthe et al., Preterm
+Premature Rupture of Membranes and 22–25 Weeks’ Gestation, AJOG, p.
+5 (Sept. 2018) (determining that, when PPROM occurred between weeks
+22 and 25, about half of the children survived, and roughly
+three-quarters of the survivors did not have severe morbidities);
+P. Wagner et al., Outcome of Pregnancies With Spontaneous
+PPROM Before 24+0 Weeks’ Gestation (2016) (reporting that “[a]bout
+half ” of fetuses in PPROM pregnancies that make it to
+viability “will be discharged alive without major
+complications”).
+24  It
+has been estimated that PPROM occurs in about 2% of all pregnancies
+involving a single fetus and in 7% of all pregnancies involving
+twins. See PPROM Facts. It is reported that in 2022, there were
+22,391 live births in Idaho. March of Dimes, Fertility Rate: Idaho,
+2012–2022,
+https://www.marchofdimes.org/peristats/data?reg=99&top=2&stop=1&lev=slev=4&obj=1&sreg=16
+(Jan. 2024). These statistics suggest that PPROM may have occurred
+in as many as 500 cases. In some of these cases, the fetus may not
+have been viable, and in some, the pregnant woman may not have
+chosen to have an abortion even if the law allowed. Nevertheless,
+it would not be surprising if the Idaho law, if allowed to be
+enforced, would result in fewer abortions and more live
+births.
+25  See,
+e.g., J. Ely, The Wages of Crying Wolf: A Comment on
+Roe v. Wade, 82 Yale L. J. 920, 921, and
+n. 19 (1973); J. Dellapenna, Dispelling the Myths of Abortion
+History 695 (2006) (“Blackmun’s definition of a woman’s ‘health’ in
+Doe as encompassing anything affecting her ‘well-being’
+virtually precluded any possible regulation of abortion during the
+entire months of pregnancy”); R. Ponnuru, The Party of Death 10
+(2006) (“Roe required that any ban on late-term abortion
+include an exception allowing abortion to protect a woman’s health;
+Doe defined that exception so broadly that it swallowed up
+any possibility of a ban”).
+
+

@@ -1,0 +1,793 @@
+::decision_cite:: 23A349
+::decision_name::  Ohio v. Environmental Protection Agency
+::decision_year:: 2024
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 23A349, 23A350, 23A351 and 23A384
+
+															_________________
+
+															OHIO, et al.
+
+															23A349v.
+
+															ENVIRONMENTAL PROTECTION AGENCY,
+et al.
+
+															
+
+															KINDER MORGAN, INC., et al.
+
+															23A350v.
+
+															ENVIRONMENTAL PROTECTION AGENCY,
+et al.
+
+															
+
+															AMERICAN FOREST & PAPER ASSOCIATION,
+et al.
+
+															23A351v.
+
+															ENVIRONMENTAL PROTECTION AGENCY,
+et al.
+
+															
+
+															UNITED STATES STEEL CORPORATION
+
+															23A384v.
+
+															ENVIRONMENTAL PROTECTION AGENCY,
+et al.
+
+															on applications for stay
+
+															[June 27, 2024]
+
+															
+
+															Justice Gorsuch delivered the opinion of the
+Court.
+
+															The Clean Air Act envisions States and the
+federal government working together to improve air quality. Under
+that law’s terms, States bear “primary responsibility” for
+developing plans to achieve air-quality goals. 42
+U. S. C. §7401(a)(3). Should a State fail to prepare a
+legally compliant plan, however, the federal government may
+sometimes step in and assume that authority for itself.
+§7410(c)(1). Here, the federal government announced its intention
+to reject over 20 States’ plans for controlling ozone pollution. In
+their place, the government sought to impose a single, uniform
+federal plan. This litigation concerns whether, in adopting that
+plan, the federal government complied with the terms of the
+Act.
+
+															I
+
+															A
+
+															“The Clean Air Act regulates air quality
+through a federal-state collaboration.” EME Homer City
+Generation, L.P. v. EPA, 795 F.3d 118, 124 (CADC 2015).
+Periodically, the Environmental Protection Agency (EPA) sets
+standards for common air pollutants, as necessary to “protect the
+public health.” §§7409(a)(1), (b)(1). Once EPA sets a new standard,
+the clock starts ticking: States have three years to design and
+submit a plan—called a State Implementation Plan, or SIP—providing
+for the “implementation, maintenance, and enforcement” of that
+standard in their jurisdictions. §7410(a)(1); see EPA v.
+EME Homer City Generation, L. P., 572
+U.S. 489, 498 (2014). Under the Act, States decide how to
+measure ambient air quality. §7410(a)(2)(B). States pick “emission
+limitations and other control measures.” §7410(a)(2)(A). And States
+provide for the enforcement of their prescribed measures.
+§7410(a)(2)(C).
+
+															At the same time, States must design these plans
+with their neighbors in mind. Because air currents can carry
+pollution across state borders, emissions in upwind States
+sometimes affect air quality in downwind States. See EME
+Homer, 572 U. S., at 496. To address that externality
+problem, under the Act’s “Good Neighbor Provision,” state plans
+must prohibit emissions “in amounts which will . . .
+contribute significantly to nonattainment in, or interfere with
+maintenance by, any other State” of the relevant air-quality
+standard. §7410(a)(2)(D)(i)(I).
+
+															Because the States bear “primary responsibility”
+for developing compliance plans, §7401(a)(3), EPA has “no authority
+to question the wisdom of a State’s choices of emission
+limitations.” Train v. Natural Resources Defense Council,
+Inc., 421 U.S.
+60, 79 (1975). So long as a SIP satisfies the “applicable
+requirements” of the Act, including the Good Neighbor Provision,
+EPA “shall approve” it within 18 months of its submission.
+§7410(k)(3); see §§7410(k)(1)(B), (k)(2). If, however, a SIP falls
+short, EPA “shall” issue a Federal Implementation Plan, or FIP, for
+the noncompliant State—that is, “unless” the State corrects the
+deficiencies in its SIP first. §7410(c)(1); EME Homer, 572
+U. S., at 498. EPA must also ensure States meet the new
+air-quality standard by a statutory deadline. See §7511.
+
+															B
+
+															A layer of ozone in the atmosphere shields the
+world from the sun’s radiation. See National Resources Defense
+Council v. EPA, 
+464 F.3d 1, 3 (CADC 2006). But closer to earth, ozone can hurt
+more than it helps. Forming when sunlight interacts with a wide
+range of precursor pollutants, ground-level ozone can trigger and
+exacerbate health problems and damage vegetation. 80 Fed. Reg.
+65299, 65302, 65370 (2015).
+
+															To mitigate those and other problems, in 2015
+EPA revised its air-quality standards for ozone from 75 to 70 parts
+per billion. Id., at 65293–65294. That change triggered a
+requirement for States to submit new SIPs. Id., at 65437.
+Along the way, EPA issued a guidance document advising States that
+they had “flexibility” in choosing how to address their Good
+Neighbor obligations. See EPA, Memorandum, Information on the
+Interstate Transport State Implementation Plan Submissions for the
+2015 Ozone National Ambient Air Quality Standards 3 (Mar. 27,
+2018). With that and other guidance in hand, many (though not all)
+States submitted SIPs. See 84 Fed. Reg. 66612 (2019). And many of
+the States that did submit SIPs said that they need not adopt
+emissions-control measures to comply with the Good Neighbor
+Provision because, among other things, they were not linked to
+downwind air-quality problems or they could identify no additional
+cost-effective methods of controlling the emissions beyond those
+they were currently employing. See, e.g., 87 Fed.
+Reg. 9798, 9810 (2022); 87 Fed. Reg. 9545, 9552 (2022); see
+generally 88 Fed. Reg. 9336, 9354–9361 (2023).
+
+															For over two years, EPA did not act on the SIPs
+it received. See, e.g., 87 Fed. Reg. 9838, 9845–9851
+(2022). Then, in February 2022, the agency announced its intention
+to disapprove 19 of them on the ground that the States submitting
+them had failed to address adequately their obligations under the
+Good Neighbor Provision.[1] A
+few months later, the agency proposed disapproving four more
+SIPs.[2] Pursuant to the Act,
+the agency issued its proposed SIP disapprovals for public comment
+before finalizing them. See §7607(d)(3).
+
+															C
+
+															During that public comment period, the agency
+proposed a single FIP to bind all 23 States.[3] 87 Fed. Reg. 20036, 20038 (2022). Rather than
+continue to encourage “ ‘flexibilit[y]’ ” and different
+state approaches, EPA now apparently took the view that
+“[e]ffective policy solutions to the problem of interstate ozone
+transport” demanded that kind of “uniform framework” and
+“[n]ationwide consistency.” 87 Fed. Reg. 9841; see 87 Fed. Reg.
+20073. The FIP the agency proposed set as its target the reduction
+of the emissions of one ozone precursor in particular: nitrous
+oxide. See id., at 20038. And it sought to impose nitrous
+oxide emissions-control measures that “maximized
+cost-effectiveness” in achieving “downwind ozone air quality
+improvements.” Id., at 20055; see also id., at
+20043.
+
+															In broad strokes, here is how EPA’s proposed
+rule worked to eliminate a State’s “significant contribution” to
+downwind ozone problems. First, the agency identified various
+emissions-control measures and, using nationwide data, calculated
+how much each typically costs to reduce a ton of nitrous-oxide
+emissions. Id., at 20076; see, e.g.,
+id., at 20077–20081. Next, the agency sought to predict how
+much each upwind State’s nitrous-oxide emissions would fall if
+emissions-producing facilities in the State adopted each measure.
+Id., at 20076; see, e.g., id., at 20088–20089;
+EPA, Ozone Transport Policy Analysis Proposed Rule TSD 22–23
+(EPA–HQ–OAR–2021–0668, 2022) (Proposed Ozone Analysis). In making
+those predictions, EPA often considered data specific to the
+emissions-producing facilities in the State, and fed “unit-level
+and state-level” values into its calculations. See id., at
+9–10, 13. Then, the agency estimated how much, on average, ozone
+levels would fall in downwind States with the adoption of each
+measure. 87 Fed. Reg. 20076; see, e.g., id.,
+at 20092–20093, 20096–20097; Proposed Ozone Analysis 51–52. In
+making those estimations, too, EPA calibrated its modeling to each
+State’s features, “determin[ing] the relationship between changes
+in emissions and changes in ozone contributions on a state-by-state
+. . . basis.” Id., at 33; see also id., at
+40, 42.
+
+															To pick which measures would “maximiz[e] cost-
+effectiveness” in achieving “downwind ozone air quality
+improvements,” 87 Fed. Reg. 20055, EPA focused on what it called
+the “ ‘knee in the curve,’ ” or the point at which more
+expenditures in the upwind States were likely to produce “very
+little” in the way of “additional emissions reductions and air
+quality improvement” downwind, id., at 20095 (hyphenation
+omitted). EPA used this point to select a “uniform level” of cost,
+and so a uniform package of emissions-reduction tools, for upwind
+States to adopt. Id., at 20076. And EPA performed this
+analysis on two “parallel tracks”—one for power plants, one for
+other industries. Ibid. Pursuant to the Clean Air Act,
+§§7607(d)(1)(B), (d)(3)–(6), the agency published its proposed FIP
+for notice and comment in April 2022, 87 Fed. Reg. 20036.
+
+															Immediately, commenters warned of a potential
+pitfall in the agency’s approach. EPA had determined which
+emissions-control measures were cost effective at addressing
+downwind ozone levels based on an assumption that the FIP would
+apply to all covered States. But what happens if some or many of
+those States are not covered? As the commenters portrayed the SIPs,
+this was not an entirely speculative possibility. Many believed
+EPA’s disapprovals of the SIPs were legally flawed. See,
+e.g., Comments of Missouri Dept. of Natural Resources 3
+(June 17, 2022) (referencing “all the technical, legal, and
+procedural issues” with the proposed SIP disapproval); see also,
+e.g., Comments of Louisiana Dept. of Environmental
+Quality 1–3 (June 21, 2022); Comments of Texas Comm’n on
+Environmental Quality 2–4 (June 21, 2022); EPA, Response to Public
+Comments on Proposed Rule 9–11 (EPA–HQ–OAR–2021–0668). They added
+that EPA’s FIP was “inextricably linked” to the SIP disapprovals.
+E.g., Comments of Missouri Dept. of Natural
+Resources, at 4. Without a SIP disapproval or missing SIP, after
+all, EPA could not include a State in its FIP. See,
+e.g., id., at 3; supra, at 3.
+
+															Commenters added that failing to include a State
+could have consequences for the proposed FIP. If the FIP did not
+wind up applying to all 23 States as EPA envisioned, commenters
+argued, the agency would need “to conduct a new assessment and
+modeling of contribution and subject those findings to public
+comment.” E.g., Comments of Air Stewardship Coalition
+13–14 (June 21, 2022); Comments of Portland Cement Association 7
+(June 21, 2022). Why? As noted above, EPA assessed “significant
+contribution” by determining what measures in upwind States would
+maximize cost-effective ozone-level improvements in the States
+downwind of them. Supra, at 5–6. And a different set of
+States might mean that the “knee in the curve” would shift. After
+all, each State differs in its mix of industries, in its pre-
+existing emissions-control measures, and in the impact those
+measures may have on emissions and downwind air quality. See 87
+Fed. Reg. 20052, 20060, 20071–20073; EPA, Technical Memorandum,
+Screening Assessment of Potential Emissions Reductions, Air Quality
+Impacts, and Costs from Non-EGU Emissions Units for 2026, pp. 12–13
+(2022).[4]
+
+															As it happened, ongoing litigation over the SIP
+disap-
+
+															provals soon seemed to vindicate at least some
+of the commenters’ concerns. Two circuits issued stays of EPA’s SIP
+denials for four States. See Order in No. 23–60069 (CA5, May 1,
+2023) (Texas and Louisiana); Order in No. 23–1320 (CA8, May 25,
+2023) (Arkansas); Order in No. 23–1719 (CA8, May 26, 2023)
+(Missouri).
+
+															Despite those comments and developments, the
+agency proceeded to issue its final FIP. 88 Fed. Reg. 36654
+(2023).[5] In response to the
+problem commenters raised, EPA adopted a severability provision
+stating that, should any jurisdiction drop out, its rule would
+“continue to be implemented as to any remaining jurisdictions.”
+Id., at 36693. But in doing so, EPA did not address whether
+or why the same emissions-control measures it mandated would
+continue to further the FIP’s stated purpose of maximizing
+cost-effective air-quality improvement if fewer States remained in
+the plan.
+
+															D
+
+															After EPA issued its final FIP, litigation
+over the agency’s SIP disapprovals continued. One court after
+another issued one stay after another.[6] Each new stay meant another
+
+															State to which EPA could not apply its FIP.
+See §7410(c)(1). Ultimately, EPA recognized that it could not apply
+its FIP to 12 of the 23 original States.[7] Together, these 12 States accounted for over 70
+percent of the emissions EPA had planned to address through its
+FIP. See Application for Ohio et al. in No. 23A349, p. 1
+(States’ Application); see also 88 Fed. Reg. 36738–36739.[8]
+
+															A number of the remaining States and industry
+groups challenged the remnants of the FIP in the D. C.
+Circuit. They pointed to the Act’s provisions authorizing a court
+to “reverse any . . . action” taken in connection with a
+FIP that is “arbitrary” or “capricious.” §7607(d)(9)(A). And they
+argued that EPA’s decision to apply the FIP to them even after so
+many other States had dropped out met that standard. As part of
+their challenge, they asked that court to stay any effort to
+enforce the FIP against them while their appeal unfolded. After
+that court denied relief, the applicants renewed their request
+here. The Court has received and reviewed over 400 pages of
+briefing and a voluminous record, held over an hour of oral
+argument on the applications, and engaged in months of postargument
+deliberations as we often do for the cases we hear.
+
+															II
+
+															A
+
+															Stay applications are nothing new. They seek a
+form of interim relief perhaps “as old as the judicial system of
+the nation.” Scripps-Howard Radio, Inc. v. FCC,
+316 U.S.
+4, 17 (1942). Like any other federal court faced with a stay
+request, we must provide the applicants with an answer—“grant or
+deny.” Labrador v. Poe, 601 U. S. ___, ___
+(2024) (Kavanaugh, J., concurring in grant of stay) (slip op., at
+2).
+
+															In deciding whether to issue a stay, we apply
+the same “sound . . . principles” as other federal
+courts. Nken v. Holder, 556 U.S.
+418, 434 (2009) (internal quotation marks omitted).
+Specifically, in this litigation, we ask (1) whether the applicant
+is likely to succeed on the merits, (2) whether it will suffer
+irreparable injury without a stay, (3) whether the stay will
+substantially injure the other parties interested in the
+proceedings, and (4) where the public interest lies. Ibid.;
+States’ Application 13; Response in Opposition for Respondent EPA
+in No. 23A349 etc., p. 16 (EPA Response).[9]
+
+															When States and other parties seek to stay the
+enforcement of a federal regulation against them, often “the harms
+and equities [will be] very weighty on both sides.”
+Labrador, 601 U. S., at ___ (opinion of Kavanaugh, J.)
+(slip op., at 3). That is certainly the case here, for both sides
+have strong arguments with respect to the latter three Nken
+factors. On one side of the ledger, the federal government points
+to the air-quality benefits its FIP offers downwind States. EPA
+Response 48–50. On the other side, the States observe that a FIP
+issued unlawfully (as they contend this one was) necessarily
+impairs their sovereign interests in regulating their own
+industries and citizens—interests the Act expressly recognizes. See
+Part I–A, supra; States’ Application 24–26; Maryland
+v. King, 567 U.S. 1301, 1303 (2012) (Roberts, C. J., in
+chambers). The States observe, too, that having to comply with the
+FIP during the pendency of this litigation risks placing them at a
+“competitive disadvantage” to their exempt peers. States’
+Application 21. The States and the private applicants also stress
+that complying with the FIP during the pendency of this litigation
+would require them to incur “hundreds of millions[,] if not
+billions of dollars.” Tr. of Oral Arg. 96. Those costs, the
+applicants note, are “nonrecoverable.” Thunder Basin Coal
+Co. v. Reich, 510 U.S.
+200, 220–221 (1994) (Scalia, J., concurring in part and
+concurring in judgment); see, e.g., States’
+Application 24; Application for American Forest & Paper
+Association et al. 25; see also Alabama Assn. of
+Realtors v. Department of Health and Human Servs., 594
+U.S. 758, 765 (2021) (per curiam).
+
+															Because each side has strong arguments about the
+harms they face and equities involved, our resolution of these stay
+requests ultimately turns on the merits and the question who is
+likely to prevail at the end of this litigation. See Nken,
+556 U. S., at 434; Labrador, 601 U. S., at ___
+(opinion of Kavanaugh, J.) (slip op., at 4).
+
+															B
+
+															When it comes to that question, the parties
+agree on the rules that guide our analysis. The applicants argue
+that a court is likely to hold EPA’s final FIP “arbitrary” or
+“capricious” within the meaning of the Act and thus enjoin its
+enforcement against them. 42 U. S. C. §7607(d)(9)(A);
+see, e.g., States’ Application 15–16; Application for
+American Forest & Paper Association et al. 14; see also 5
+U. S. C. §706(2)(A). An agency action qualifies as
+“arbitrary” or “capricious” if it is not “reasonable and reasonably
+explained.” FCC v. Prometheus Radio Project, 592 U.S.
+414, 423 (2021). In reviewing an agency’s action under that
+standard, a court may not “ ‘substitute its judgment for that
+of the agency.’ ” FCC v. Fox Television Stations,
+Inc., 556 U.S.
+502, 513 (2009). But it must ensure, among other things, that
+the agency has offered “a satisfactory explanation for its
+action[,] including a rational connection between the facts found
+and the choice made.” Motor Vehicle Mfrs. Assn. of United
+States, Inc. v. State Farm Mut. Automobile Ins. Co.,
+463 U.S.
+29, 43 (1983) (internal quotation marks omitted). Accordingly,
+an agency cannot simply ignore “an important aspect of the
+problem.” Ibid.
+
+															We agree with the applicants that EPA’s final
+FIP likely runs afoul of these long-settled standards. The problem
+stems from the way EPA chose to determine which emissions
+“contribute[d] significantly” to downwind States’ difficulty
+meeting national ozone standards. 42 U. S. C.
+§7410(a)(2)(D)(i)(I). Recall that EPA’s plan rested on an
+assumption that all 23 upwind States would adopt
+emissions-reduction tools up to a “uniform” level of “costs” to the
+point of diminishing returns. 87 Fed. Reg. 20076, 20095; 88 Fed.
+Reg. 36661, 36683–36684, 36719; see Part I–C, supra. But as
+the applicants ask: What happens—as in fact did happen—when many of
+the upwind States fall out of the planned FIP and it may now cover
+only a fraction of the States and emissions EPA anticipated? See,
+e.g., States’ Application 16–21; Application for
+American Forest & Paper Association et al. 14–15, 19–20.
+Does that affect the “knee in the curve,” or the point at which the
+remaining States might still “maximiz[e] cost-effectiv[e]” downwind
+ozone-level improvements? 87 Fed. Reg. 20055. As “the mix of states
+changes, . . . and their particular technologies and
+industries drop out with them,” might the point at which
+emissions-control measures maximize cost-effective downwind
+air-quality improvements also shift? Tr. of Oral Arg. 6.
+
+															Although commenters posed this concern to EPA
+during the notice and comment period, see Part I–C, supra,
+EPA offered no reasoned response. Indeed, at argument the
+government acknowledged that it could not represent with certainty
+whether the cost-effectiveness analysis it performed collectively
+for 23 States would yield the same results and command the same
+emissions-control measures if conducted for, say, just one State.
+Tr. of Oral Arg. 58–59. Perhaps there is some explanation why the
+number and identity of participating States does not affect what
+measures maximize cost-effective downwind air-quality improvements.
+But if there is an explanation, it does not appear in the final
+rule. As a result, the applicants are likely to prevail on their
+argument that EPA’s final rule was not “reasonably explained,”
+Prometheus Radio Project, 592 U. S., at 423, that the
+agency failed to supply “a satisfactory explanation for its
+action[,]” State Farm Mut. Automobile Ins. Co., 463
+U. S., at 43, and that it instead ignored “an important aspect
+of the problem” before it, ibid. The applicants are
+therefore likely to be entitled to “revers[al]” of the FIP’s
+mandates on them. §7607(d)(9).[10]
+
+															III
+
+															A
+
+															Resisting this conclusion, EPA advances three
+alternative arguments.
+
+															First, the government insists, the agency
+did offer a reasoned response to the applicants’ concern, just not
+the one they hoped. When finalizing its rule in response to public
+comments, the government represents, “the agency did
+consider whether the [FIP] could cogently be applied to a subset of
+the 23 covered States.” EPA Response 27; see also post, at
+17–18 (Barrett, J., dissenting). And that consideration, the
+government stresses, led EPA to add a “severability” provision to
+its final rule in which the agency announced that the FIP would
+“ ‘continue to be implemented’ ” without regard to the
+number of States remaining, even if just one State remained subject
+to its terms. EPA Response 27 (quoting 88 Fed. Reg. 36693). In
+support of its severability provision, EPA cited, among other
+things, its intent to address “ ‘important public health and
+environmental benefits” and encourage reliance by others “on th[e]
+final rule in their planning.’ ” Ibid.
+
+															None of this, however, solves the agency’s
+problem. True, the severability provision highlights that EPA was
+aware of the applicants’ concern. But awareness is not itself an
+explanation. The severability provision highlights, too, the
+agency’s desire to apply its rule expeditiously and “ ‘to the
+greatest extent possible,’ ” no matter how many States it
+could cover. Ibid. But none of that, nor anything else EPA
+said in support of its severability provision, addresses whether
+and how measures found to maximize cost effectiveness in achieving
+downwind ozone air-quality improvements with the participation of
+23 States remain so when many fewer States, responsible for a much
+smaller amount of the originally targeted emissions, might be
+subject to the agency’s plan. Put simply, EPA’s response did not
+address the applicants’ concern so much as sidestep it.[11]
+
+															Second, the government pivots in nearly
+the opposite direction. Now, it says, if its final rule lacks a
+reasoned response to the applicants’ concern, it is because no one
+raised that concern during the public comment period. And, the
+agency stresses, a litigant may pursue in court only claims
+premised on objections first “ ‘raised with reasonable
+specificity’ ” before the agency during the public comment
+period. Id., at 19–20 (quoting §7607(d)(7)(B)); see also
+post, at 8–11.
+
+															We cannot agree. The Act’s “reasonable
+specificity” requirement does not call for “a hair-splitting
+approach.” Appalachian Power Co. v. EPA, 
+135 F.3d 791, 817 (CADC 1998). A party need not “rehears[e]”
+the identical argument made before the agency; it need only confirm
+that the government had “notice of [the] challenge” during the
+public comment period and a chance to consider “in substance, if
+not in form, the same objection now raised” in court. Id.,
+at 818; see also, e.g., Bahr v. Regan, 6
+F. 4th 1059, 1070 (CA9 2021).
+
+															Here, EPA had notice of the objection the
+applicants seek to press in court. Commenters alerted the agency
+that, should some States no longer participate in the plan, the
+agency would need to return to the drawing board and “conduct a new
+assessment and modeling of contribution” to determine what
+emissions-control measures maximized cost effectiveness in securing
+downwind ozone air-quality improvements. Comments of Air
+Stewardship Coalition, at 13–14; see also Part I–C, supra
+(noting examples of other comments). And, as we have just seen,
+EPA’s own statements and actions confirm the agency appreciated
+that concern. In preparing the final rule in response to public
+comments, the agency emphatically insists, it “did consider
+whether the [r]ule could cogently be applied to a subset of the 23
+covered States.” EPA Response 27. And as a result of that
+consideration, the agency observes, it opted to add a severability
+provision to its final rule. Ibid. By its own words and
+actions, then, the agency demonstrated that it was on notice of the
+applicants’ concern. Yet, as we have seen, it failed to address the
+concern adequately.[12]
+
+															Third, the government pursues one more
+argument in the alternative. As the agency sees it, the applicants
+must return to EPA and file a motion asking it to reconsider its
+final rule before presenting their objection in court. They must,
+the agency says, because the “grounds for [their] objection arose
+after the period for public comment.” §7607(d)(7)(B); see EPA
+Response 20–21. As just discussed, however, EPA had the basis of
+the applicants’ objection before it during the comment period. It
+chose to respond with a severability provision that in no way
+grappled with their concern. Nothing requires the applicants to
+return to EPA to raise (again) a concern EPA already had a chance
+to address.
+
+															Taking the government’s argument (much) further,
+the dissent posits that every “objection that [a] final rule was
+not reasonably explained” must be raised in a motion for
+reconsideration. Post, at 7 (internal quotation marks
+omitted; emphasis deleted). But there is a reason why the
+government does not go so far. The Clean Air Act opens the
+courthouse doors to those with objections the agency already
+ignored. If an “objection [is] raised with reasonable specificity
+during the period for public comment” but not reasonably addressed
+in the final rule, the Act permits an immediate challenge.
+§7607(d)(7)(B). A person need not go back to the agency and insist
+on an explanation a second time. Tellingly, the case on which the
+dissent relies involves an entirely different situation: a
+“ ‘logical outgrowth’ challeng[e].” Post, at 7. There,
+the objection was that EPA had supposedly “ ‘significantly
+amend[ed] the [r]ule between the proposed and final
+versions,’ ” making it impossible for people to comment on the
+rule during the comment period. Ibid. (quoting EME
+Homer, 795 F. 3d, at 137). That is nothing like the
+challenge here, where EPA failed to address an important problem
+the public could and did raise during the comment period.
+
+															B
+
+															With the government’s theories unavailing, the
+dissent advances others of its own. It begins by suggesting that
+the problem the applicants raise was not
+“ ‘important’ ” enough to warrant a reasoned reply
+from the agency because the methodology EPA employed in its FIP
+“appear[s] not to depend on the number of covered States.”
+Post, at 12–17, 18–19. Then, coming at the same point from
+another direction, the dissent seeks to excuse the agency’s lack of
+a reasoned reply as “harmless” given, again, “the apparent lack of
+connection between the number of States covered and the FIP’s
+methodology.” Post, at 20.
+
+															The trouble is, if the government had arguments
+along these lines, it did not make them. It did not despite its
+ample resources and voluminous briefing. See supra, at 9.
+This Court “normally decline[s] to entertain” arguments “forfeited”
+by the parties. Kingdomware Technologies, Inc. v. United
+States, 579 U.S. 162, 173 (2016). And we see no persuasive
+reason to depart from that rule here.
+
+															If anything, we see one reason for caution after
+another. Start with the fact the dissent itself expresses little
+confidence in its own theories, contending no more than it
+“appear[s]” EPA’s methodology did not depend on the
+number of covered States. Post, at 14 (emphasis added). Add
+to that the fact that, at oral argument, even the government
+refused to say with certainty that EPA would have reached the same
+conclusions regardless of which States were included in the FIP.
+See Tr. of Oral Arg. 59. Combine all that with the further fact
+that, in developing the FIP, EPA said it used the “same regulatory
+framework” this Court described in EME Homer City Generation, L.
+P. v. EPA, 572 U.S.
+489. E.g., EPA Response 7–8. And, at least as the
+Court described that framework, state-level analyses play a
+significant role in EPA’s work.[13] Finally, observe that, while the Act seems to
+anticipate, as the dissent suggests, that the agency’s “procedural
+determinations” may be subject to harmless-error review,
+§7607(d)(8), the Act also seems to treat separately challenges to
+agency “actions” like the FIP before us, authorizing courts to
+“reverse any . . . action,” found to be “arbitrary” or
+“capricious,” §7607(d)(9)(A) (emphasis added). With so many reasons
+for caution, we think sticking to our normal course of declining to
+consider forfeited arguments the right course here.[14]
+
+															*
+
+															The applications for a stay in Nos. 23A349,
+23A350, 23A351, and 23A384 are granted. Enforcement of EPA’s rule
+against the applicants shall be stayed pending the disposition of
+the applicants’ petitions for review in the United States Court of
+Appeals for the D. C. Circuit and any petition for writ of
+certiorari, if such writ is timely sought. Should the petition for
+certiorari be denied, this order will terminate automatically. If
+the petition is granted, this order shall terminate upon the
+sending down of the judgment of this Court.
+
+															It is so ordered.
+
+Notes
+1
+ See 87 Fed. Reg. 9463
+(2022) (Maryland); 87 Fed. Reg. 9484 (2022) (New York, New Jersey);
+87 Fed. Reg. 9498 (2022) (Kentucky); 87 Fed. Reg. 9516 (2022) (West
+Virginia); 87 Fed. Reg. 9533 (2022) (Missouri); 87 Fed. Reg. 9545
+(2022) (Alabama, Mississippi, Tennessee); 87 Fed. Reg. 9838 (2022)
+(Illinois, Indiana, Michigan, Minnesota, Ohio, Wisconsin); 87 Fed.
+Reg. 9878 (2022) (Arkansas, Louisiana, Oklahoma,
+Texas).
+2
+ See 87 Fed. Reg. 31443
+(California); 87 Fed. Reg. 31470 (2022) (Utah); 87 Fed. Reg. 31485
+(2022) (Nevada); 87 Fed. Reg. 31495 (2022) (Wyoming).
+3
+ EPA also added three more
+States: Pennsylvania and Virginia, which had not submitted SIPs,
+and Delaware, whose SIP, EPA said, it had approved in “error.” 87
+Fed. Reg. 20036, 20038 (2022).
+4
+ Commenters pointed out
+the variance among emissions-producing facilities too. See,
+e.g., Comments of Indiana Municipal Power Agency 9
+(June 20, 2022) (the “cost effectiveness” of one tool “will be
+highly variable” across different power plants); Comments of Lower
+Colorado River Authority 21 (June 21, 2022) (power plants that
+“have already invested” in one emissions-control tool “have already
+undertaken significant costs to achieve [nitrous oxide] reductions
+and have less to gain from additional control installation”);
+Comments of Air Stewardship Coalition 27 (June 21, 2022) (noting
+that the knee in the curve appeared to be at a different cost
+depending on which mix of industries were considered); Comments of
+Wisconsin Paper Council 2 (June 21, 2022) (the air-quality benefits
+from controlling one industry—pulp and paper mills—had a “maximum
+estimated improvement” in ozone levels in downwind States of just
+0.0117 parts per billion).
+5
+ The final FIP covered 23
+States. 88 Fed. Reg. 36654, 36656 (2023). That plan included
+Pennsylvania and Virginia, but EPA declined to cover Tennessee or
+Wyoming at the time, even though it had announced its intention to
+disapprove those States’ SIPs. Ibid.; see also supra,
+at 4, and nn. 1–2. EPA has since proposed a plan for Tennessee and
+several other States. 89 Fed. Reg. 12666 (2024).
+6
+ See, e.g., Order
+in No. 23–60069 (CA5, June 8, 2023) (Mississippi); Order in No.
+23–682 (CA9, July 3, 2023) (Nevada); Order in No. 23–1776 (CA8,
+July 5, 2023) (Minnesota); Order in No. 23–3216 (CA6, July 25,
+2023) (Kentucky); Order in No. 23–9520 etc. (CA10, July 27, 2023)
+(Utah and Oklahoma); Order in No. 23–11173 (CA11, Aug. 17, 2023)
+(Alabama); see also Order in No. 23–1418 (CA4, Aug. 10, 2023) (West
+Virginia, pending oral argument on preliminary motions to stay and
+to transfer); Order in No. 23–1418 (CA4, Jan. 10, 2024) (West
+Virginia, after oral argument and pending merits review of
+petition).
+7
+ See 88 Fed. Reg. 49295
+(2023) (Arkansas, Kentucky, Louisiana, Mississippi, Missouri, and
+Texas); 88 Fed. Reg. 67102 (2023) (Alabama, Minnesota, Nevada,
+Oklahoma, Utah, and West Virginia). EPA has since proposed settling
+the litigation over the Nevada SIP disapproval. 89 Fed. Reg. 35091
+(2024).
+8
+ Of course, this could
+change again as litigation over the SIP denials progresses past
+preliminary stay litigation and toward final decisions on the
+merits.
+9
+ Approaching the
+applications before us like any other stay request both accords
+with the Clean Air Act’s text, see 42 U. S. C. §7607(d),
+and usual practice in this field, see, e.g.,
+Texas v. EPA, 829 F.3d 405, 424 (CA5 2016); West
+Virginia v. EPA, 90 F. 4th 323, 331 (CA4 2024);
+In re Murray Energy Corp., 788 F.3d 330, 335 (CADC
+2015).
+10  Various applicants offer various
+other reasons why they believe they are likely to succeed in
+challenging EPA’s FIP. Having found that they are likely to succeed
+on the basis discussed above, however, we have no occasion to
+address those other arguments.
+11  As
+the applicants conceded at oral argument, see Tr. of Oral Arg.
+25–26, EPA did not need to address every possible permutation when
+it sought to adopt a multi-State FIP. Our conclusion is narrower:
+When faced with comments like the ones it received, EPA needed to
+explain why it believed its rule would continue to offer
+cost-effective improvements in downwind air quality with only a
+subset of the States it originally intended to cover. To be sure,
+after this Court heard argument, EPA issued a document in which it
+sought to provide further explanations for the course it pursued.
+See 89 Fed. Reg. 23526 (2024). But the government has not suggested
+that we should consult this analysis in assessing the validity of
+the final rule. See Letter from E. Prelogar, Solicitor General, to
+S. Harris, Clerk of Court 1 (Mar. 28, 2024). Nor could it, since
+the Clean Air Act prevents us (and courts that may in the future
+assess the FIP’s merits) from consulting explanations and
+information offered after the rule’s promulgation. See 42
+U. S. C. §§7607(d)(6)(C) (“The promulgated rule may not
+be based (in part or whole) on any information or data which has
+not been placed in the docket as of the date of such
+promulgation”), 7607(d)(7)(A) (restricting the “record for judicial
+review”). We therefore look to only “the grounds that the agency
+invoked when it” promulgated the FIP. Michigan v.
+EPA, 576 U.S.
+743, 758 (2015). Should the applicants show the FIP was
+arbitrary or capricious on the existing record, as we have
+concluded is likely, the Clean Air Act entitles them to
+“revers[al]” of that rule’s mandates on them.
+§7607(d)(9)(A).
+12  The
+dissent resorts to a “hair-splitting approach” to the public
+comments. Post, at 8–11. It stresses, for example, that some
+comments highlighted variances among specific emissions-producing
+facilities and industries, “not States.” Post, at 8
+(emphasis deleted). But the dissent fails to acknowledge that, for
+purposes of the FIP, States are a sum of their emissions-producing
+facilities. See, e.g., Ozone Transport Policy Analysis Final
+Rule TSD 12 (EPA–HQ–OAR–2021–0668, 2023) (Final Ozone Analysis).
+Similarly, the dissent characterizes the comment indicating EPA
+would need to “conduct a new assessment and modeling” if States
+dropped out of the FIP as a complaint about the “sequencing” of the
+proposed SIP disapprovals and the FIP. Post, at 10. But why
+would the sequencing matter? Because the FIP cannot apply to a
+State if its SIP is not disapproved. See Part I–A, supra.
+And why would EPA need to perform a “new assessment and modeling of
+contribution”? Because it may be that “the math . . .
+wouldn’t necessarily turn out the same” if some States were not
+covered by the FIP. Tr. of Oral Arg. 59. Fairly on notice of the
+concern, EPA needed to, and by its own admission sought to,
+“consider” whether its FIP could apply to a subset of States. EPA
+Response 27.
+13  The
+agency, we said, “first calculated, for each upwind State, the
+quantity of emissions the State could eliminate at each of several
+cost [levels]”; next, it “conducted complex modeling to establish
+the combined effect of the upwind reductions projected at each cost
+[level] would have on air quality in downwind States”; and only
+after all that did the agency “then identif[y] significant cost
+[levels]” to use in setting its emissions budgets. EME Homer
+City, 572 U. S., at 501–502.
+14  Admittedly, the dissent points to
+some statements in the FIP suggesting EPA considered nationwide
+data in parts of its analysis. See, e.g.,
+post, at 14; see also, e.g., 88 Fed. Reg.
+36721, 36727. But other statements in that rule and supporting
+documents also seem to suggest EPA considered state-specific
+information. See Part I–C, supra. If, as the dissent posits,
+only nationwide data informed EPA’s analysis, why would EPA say
+that, “for purposes of identifying the appropriate level of
+control,” it focused on “the 23 upwind states that were linked” to
+the downwind States, rather than, say, “all states in the
+contiguous U.S.”? Final Ozone Analysis 3 (footnote omitted). Why
+would EPA explain that its “findings regarding air quality
+improvement” downwind were a “central component” of picking the
+appropriate cost levels and so defining a State’s significant
+contribution? 88 Fed. Reg. 36741. And why would EPA bother to
+“determine the relationship between changes in emissions and
+changes in ozone contributions on a state-by-state . . .
+basis” and “calibrat[e]” that relationship “based on state-specific
+source apportionment”? Final Ozone Analysis 43. In asking these
+questions, we do not profess answers; we simply highlight further
+reasons for caution.
+
+
