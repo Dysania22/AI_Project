@@ -86,7 +86,7 @@ def detect_ideological_shifts(df, model, tokenizer):
                 logger.warning(f"No texts found for year {year}.")
                 continue
 
-            year_prompt = year_texts.iloc[0][:100]  # Use first 100 chars as prompt
+            year_prompt = year_texts.iloc[0][:1024]  # Use first 1024 chars as prompt
             generated = generate_and_analyze(model, tokenizer, year_prompt)
 
             # Simplistic comparison for ideological shift detection

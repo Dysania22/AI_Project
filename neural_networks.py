@@ -53,7 +53,7 @@ warnings.filterwarnings('ignore')
 5. understand overfitting and how to prevent it
 '''
 
-#Fortunatley, we have a dataset we can start our work from
+#Fortunately, we have a dataset we can start our work from
 
 # Download the zip file
 url = "http://battleoftheforms.com/wp-content/uploads/2024/09/news-article-categories.csv.zip"
