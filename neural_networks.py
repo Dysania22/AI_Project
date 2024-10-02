@@ -362,7 +362,7 @@ y_val_encoded = y_val.map(category_mapping)
 model_1 = Sequential()
 
 # Input layer with one hidden layer
-model_1.add(Dense(64, input_dim=X_train.shape[1], activation='relu'))
+model_1.add(Dense(70, input_dim=X_train.shape[1], activation='relu'))
 
 # Output layer
 model_1.add(Dense(len(categories), activation='softmax'))
@@ -371,7 +371,7 @@ model_1.add(Dense(len(categories), activation='softmax'))
 model_1.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
 # Train the model
-history_1 = model_1.fit(X_train.toarray(), y_train_encoded, epochs=10, batch_size=32, validation_data=(X_val.toarray(), y_val_encoded))
+history_1 = model_1.fit(X_train.toarray(), y_train_encoded, epochs=8, batch_size=52, validation_data=(X_val.toarray(), y_val_encoded))
 
 # Evaluate the accuracy
 accuracy_1 = model_1.evaluate(X_val.toarray(), y_val_encoded, verbose=0)[1]
