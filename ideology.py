@@ -146,7 +146,7 @@ def visualize_results(ideological_shifts):
 
 # Main execution
 if __name__ == "__main__":
-    file_path = r'C:\Users\caleb\PycharmProjects\pythonProject\all_opinions.csv'
+    file_path = 'all_opinions.csv'
     df = load_and_preprocess_data(file_path)
     features = extract_features(df['text'])
     topics = perform_topic_modeling(features)
