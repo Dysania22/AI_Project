@@ -371,7 +371,7 @@ model_1.add(Dense(len(categories), activation='softmax'))
 model_1.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
 # Train the model
-history_1 = model_1.fit(X_train.toarray(), y_train_encoded, epochs=10, batch_size=52, validation_data=(X_val.toarray(), y_val_encoded))
+history_1 = model_1.fit(X_train.toarray(), y_train_encoded, epochs=10, batch_size=64, validation_data=(X_val.toarray(), y_val_encoded))
 
 # Evaluate the accuracy
 accuracy_1 = model_1.evaluate(X_val.toarray(), y_val_encoded, verbose=0)[1]
