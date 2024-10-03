@@ -191,7 +191,7 @@ file_path = 'all_opinions.csv'
 df = load_and_preprocess_data(file_path)
 
 # Train a Doc2Vec model on the dataset
-model = train_doc2vec_model(df, vector_size=125, epochs=10)
+model = train_doc2vec_model(df, vector_size=125, epochs=5)
 
 # Generate vectors for each court case
 doc_vectors = get_doc_vectors(model, df)
@@ -206,7 +206,7 @@ else:
     labels = [f"Case {i}" for i in range(len(df))]  # Fallback to case numbers
 
 # Plot the cosine similarity matrix
-plot_cosine_similarity(cosine_sim_matrix, labels)
+plot_cosine_similarity(cosine_sim_matrix, labels, subset_size=15)
 
 # Find 5 random cases and their 10 closest cases
 closest_cases = find_closest_cases(cosine_sim_matrix, df, num_cases=5, top_n=10)
