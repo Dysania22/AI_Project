@@ -7,6 +7,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import random
+from prettytable import PrettyTable
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
@@ -128,8 +129,9 @@ def find_closest_cases(cosine_sim_matrix, df, num_cases=5, top_n=10):
 
 
 # Display the closest cases in a readable format
+"""
 def display_closest_cases(results):
-    """Display the closest cases and their cosine similarity values."""
+    # Display the closest cases and their cosine similarity values.
 
     for case_name, similar_cases in results:
         print(f"\nRandom Case: {case_name}")
@@ -137,17 +139,59 @@ def display_closest_cases(results):
         print("-" * 50)
         for similar_case, similarity in similar_cases:
             print(f"{similar_case:<30}          {similarity:>18.4f}")
+"""
+
+
+# Find the top 10 closest cases for a given case name
+def find_closest_cases_for_input(case_name, cosine_sim_matrix, df, top_n=10):
+
+    case_names = df['case_name'].tolist()  # Get the list of case names
+
+    # Check if the case name exists
+    if case_name not in case_names:
+        print(f"Case '{case_name}' not found in the dataset.")
+        return
+
+    # Find the index of the input case
+    case_index = case_names.index(case_name)
+
+    # Get the cosine similarity scores for the input case
+    similarities = cosine_sim_matrix[case_index]
+
+    # Get the indices of the top 10 most similar cases (excluding the input case itself)
+    similar_indices = np.argsort(similarities)[::-1][1:top_n + 1]
+
+    # Get the top 10 most similar case names and their similarity scores
+    similar_cases = [(case_names[i], similarities[i]) for i in similar_indices]
+
+    # Create a PrettyTable
+    table = PrettyTable()
+
+    # Define columns
+    table.field_names = ["Similar Case", "Cosine Similarity"]
+
+    # Add the similar cases and their cosine similarity values to the table
+    for similar_case, similarity in similar_cases:
+        table.add_row([similar_case, f"{similarity:.4f}"])
+
+    # Set table alignment
+    table.align["Similar Case"] = "l"
+    table.align["Cosine Similarity"] = "r"
+
+    # Display the table
+    print(f"\nInput Case: {case_name}")
+    print(table)
 
 
 # Main execution
-
+# TODO -> make this run on JSON files instead of CSV
 file_path = 'all_opinions.csv'
 
 # Load and preprocess data
 df = load_and_preprocess_data(file_path)
 
 # Train a Doc2Vec model on the dataset
-model = train_doc2vec_model(df, vector_size=100, epochs=40)
+model = train_doc2vec_model(df, vector_size=125, epochs=10)
 
 # Generate vectors for each court case
 doc_vectors = get_doc_vectors(model, df)
@@ -168,4 +212,15 @@ plot_cosine_similarity(cosine_sim_matrix, labels)
 closest_cases = find_closest_cases(cosine_sim_matrix, df, num_cases=5, top_n=10)
 
 # Display the closest cases and their cosine similarity values
-display_closest_cases(closest_cases)
+#display_closest_cases(closest_cases)
+
+# Allow user input to find closest cases for a case name
+while True:
+    user_input = input(r"\nEnter a case name to find the 10 closest cases (or type 'exit' to quit): ").strip()
+
+    if user_input.lower() == 'exit':
+        print("Exiting the program.")
+        break
+
+    # Find and display the closest cases for the input case name
+    find_closest_cases_for_input(user_input, cosine_sim_matrix, df)
