@@ -53,24 +53,29 @@ def query_patentsearch(query_text, num_results=10):
     }
     # Construct the query object
     query = {
-        "patent_abstract": {"_text_any": query_text}
+        "patent_abstract": f"_text_any: {query_text}"
     }
 
-    # API parameters
+    # Specify the fields you want (patent_abstract, patent_title, patent_date, etc.)
+    fields = ["patent_id", "patent_title", "patent_abstract", "patent_date"]
+
+    # Prepare API parameters
     params = {
-        "q": json.dumps(query),  # Query must be in JSON format and URL encoded
-        "per_page": num_results,  # Number of results to return
+        "q": json.dumps(query),  # Ensure query is JSON encoded
+        "f": json.dumps(fields),  # Specify the fields to return
+        "per_page": 10,  # Number of results to return
         "page": 1  # Page number (for pagination)
     }
 
     # Send GET request to the API
-    response = requests.get(PATENTSEARCH_API_URL, params=params)
+    response = requests.get(PATENTSEARCH_API_URL, params=params, headers=headers)
 
     # Check if the request was successful
     if response.status_code == 200:
         return response.json().get('patents', [])
     else:
         print(f"Error querying PatentSearch API: {response.status_code}")
+        print(response.text)
         return []
 
 
@@ -135,13 +140,14 @@ def prior_art_search(input_patent_text, num_clusters=3):
         return
 
     # Step 2: Rank patents based on their similarity to the input text
+    print(f"{patents}")
     print("Ranking patents based on semantic similarity...")
     ranked_patents, patent_embeddings = rank_patents(input_patent_text, patents)
 
     # Step 3: Display the top ranked patents
     print("\nTop 5 most similar patents:")
     for idx, (patent, similarity) in enumerate(ranked_patents[:5], 1):
-        print(f"{idx}. Patent Number: {patent['patent_number']}")
+        print(f"{idx}. Patent Number: {patent['patent_id']}")
         print(f"   Title: {patent['patent_title']}")
         print(f"   Abstract: {patent['patent_abstract']}")
         print(f"   Similarity: {similarity:.4f}")
@@ -158,7 +164,7 @@ def prior_art_search(input_patent_text, num_clusters=3):
         print(f"\nCluster {cluster_id + 1}:")
         for i, patent in enumerate(patents):
             if clusters[i] == cluster_id:
-                print(f" - {patent['patent_number']}: {patent['patent_title']}")
+                print(f" - {patent['patent_id']}: {patent['patent_title']}")
 
     # Optional: Return the ranked patents and clusters for further use
     return ranked_patents, clusters
@@ -167,8 +173,7 @@ def prior_art_search(input_patent_text, num_clusters=3):
 # Example usage
 if __name__ == "__main__":
     # Input patent text (abstract/claims)
-    input_patent_text = """
-    A method and system for managing a distributed database system, wherein the distributed database system includes a master database and a plurality of replica databases...
-    """  # Replace with actual patent text or abstract
+    input_patent_text = "coffee"
+    # Replace with actual patent text or abstract)
 
     prior_art_search(input_patent_text, num_clusters=3)
