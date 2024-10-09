@@ -6,19 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.cluster import KMeans
 import numpy as np
 import json
-from serpapi import GoogleSearch
-
-"""
-params = {
-  "engine": "google_patents",
-  "q": "(Coffee)",
-  "api_key": "8144e3eea1fe3a2f04df9d5d28edeb3d7562565fe3cbf8d93f4210aa2b2948df"
-}
-
-search = GoogleSearch(params)
-results = search.get_dict()
-print(results)
-"""
+from collections import Counter
 
 # Load spaCy model for advanced preprocessing
 nlp = spacy.load('en_core_web_sm')
@@ -29,7 +17,7 @@ model = AutoModel.from_pretrained('allenai/scibert_scivocab_uncased')
 
 API_KEY = "vAAvEdRZ.JMceyc7bQU6WnoXFF6M79GPKz3I5Jo4d"
 # API base URL for the PatentSearch API
-PATENTSEARCH_API_URL = "https://search.patentsview.org/api/v1/patent/?q={'patent_date':'2007-01-09'}"
+PATENTSEARCH_API_URL = "https://search.patentsview.org/api/v1/patent"
 
 
 # Helper function for advanced text preprocessing with spaCy
@@ -119,7 +107,6 @@ def rank_patents(query_text, patents):
 
     return ranked_patents, patent_embeddings
 
-
 # Function to perform K-Means clustering
 def cluster_patents(patent_embeddings, num_clusters=3):
     # Perform K-Means clustering
@@ -128,6 +115,13 @@ def cluster_patents(patent_embeddings, num_clusters=3):
 
     return clusters, kmeans
 
+def summarize_cluster(patents):
+    all_text = ' '.join([patent['patent_title'] + ' ' + patent['patent_abstract'] for patent in patents])
+    tokens = preprocess_text_spacy(all_text).split()  # Preprocess the text using spaCy
+    counter = Counter(tokens)  # Count word frequencies
+    # Get the 5 most common words
+    most_common_words = [word for word, freq in counter.most_common(5)]
+    return ', '.join(most_common_words)
 
 # Main function to run the prior art search and clustering
 def prior_art_search(input_patent_text, num_clusters=3):
@@ -140,9 +134,13 @@ def prior_art_search(input_patent_text, num_clusters=3):
         return
 
     # Step 2: Rank patents based on their similarity to the input text
-    print(f"{patents}")
+    #print(f"{patents}")
     print("Ranking patents based on semantic similarity...")
     ranked_patents, patent_embeddings = rank_patents(input_patent_text, patents)
+
+    # Step 3: Select only the top 15 most similar patents
+    top_patents = ranked_patents[:15]  # Select the top 15 ranked patents
+    top_patent_embeddings = np.vstack([get_embedding(preprocess_text_spacy(patent['patent_abstract'])) for patent, _ in top_patents])
 
     # Step 3: Display the top ranked patents
     print("\nTop 5 most similar patents:")
@@ -156,24 +154,34 @@ def prior_art_search(input_patent_text, num_clusters=3):
 
     # Step 4: Perform K-Means clustering on the patent embeddings
     print(f"Clustering patents into {num_clusters} clusters...")
-    clusters, kmeans = cluster_patents(patent_embeddings, num_clusters)
+    clusters, kmeans = cluster_patents(top_patent_embeddings, num_clusters)
 
     # Step 5: Display the patents in each cluster
     print("\nPatents clustered into groups:")
     for cluster_id in range(num_clusters):
-        print(f"\nCluster {cluster_id + 1}:")
-        for i, patent in enumerate(patents):
-            if clusters[i] == cluster_id:
-                print(f" - {patent['patent_id']}: {patent['patent_title']}")
+        clustered_groups = [patent for i, (patent, _) in enumerate(top_patents) if clusters[i] == cluster_id]
 
-    # Optional: Return the ranked patents and clusters for further use
-    return ranked_patents, clusters
+        # Step 6: Generate and print the cluster summary
+       # print(f"\nSummary of Cluster {cluster_id + 1}:")
+        summary = summarize_cluster(clustered_groups)  # Generate a summary for the cluster
+        #print(f"   Most common words: {summary}")
+
+        # Print the cluster number
+        print(f"\nCluster {cluster_id + 1}: Summary - {summary}")
+
+        # Print patents in this cluster
+        for patent in clustered_groups:
+            print(f" - {patent['patent_id']}: {patent['patent_title']}")
+
+
+
+        print("\n")
 
 
 # Example usage
 if __name__ == "__main__":
     # Input patent text (abstract/claims)
-    input_patent_text = "coffee"
+    input_patent_text = "a motor positioned above the water chamber and coupled to the basket, the motor agitating the basket"
     # Replace with actual patent text or abstract)
 
     prior_art_search(input_patent_text, num_clusters=3)
