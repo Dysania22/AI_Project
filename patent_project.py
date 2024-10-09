@@ -183,5 +183,5 @@ if __name__ == "__main__":
     # Input patent text (abstract/claims)
     input_patent_text = "a motor positioned above the water chamber and coupled to the basket, the motor agitating the basket"
     # Replace with actual patent text or abstract)
-
-    prior_art_search(input_patent_text, num_clusters=3)
+    num_clusters = 3
+    prior_art_search(input_patent_text, num_clusters=num_clusters)
