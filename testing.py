@@ -8,7 +8,7 @@ import time
 
 # Set up Chrome options for headless mode
 options = Options()
-options.headless = True
+options.add_argument("--headless=new")
 
 # Initialize Selenium WebDriver in headless mode
 service = Service(ChromeDriverManager().install())
